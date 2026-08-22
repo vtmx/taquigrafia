@@ -8,67 +8,67 @@
 <ul>
   <li><a href='#in-memorian'>Dr. Oscar Leite Alves - In Memoriam</a></li>
   <li><a href='#fundamentos-do-sistema-leite-alves'>Fundamentos do sistema ”Leite Alves”</a></li>
-  <li><a href='#utilidades-e-vantagens'>Utilidades e Vantagens</a></li>
+  <li><a href='#utilidades-e-vantagens'>Utilidades e vantagens</a></li>
   <li>
-    <a href='#primeiro-capitulo'>Primeiro Capítulo</a>
+    <a href='#primeiro-capitulo'>Primeiro capítulo</a>
     <ul>
-      <li><a href='#origen-dos-sinais'>Origem dos Sinais</a>
+      <li><a href='#origen-dos-sinais'>Origem dos sinais</a>
     </ul>
   </li>
   <li>
     <a href='#segundo-captulo'>Segundo capítulo</a>
     <ul>
-      <li><a href='#1-licao'>1.ª lição - Estudos dos Sinais Finos ou Simples. Consoantes e Vogais</a></li>
-      <li><a href='#2-licao'>2.ª Lição - Consoantes e Vogais</a></li>
-      <li><a href='#3-licao'>3.ª Lição - Consoantes e Ditongos</a></li>
-      <li><a href='#4-licao'>4.ª Lição - Consoantes e Ditongos</a></li>
+      <li><a href='#1-licao'>1.ª lição - estudos dos sinais finos ou simples. consoantes e vogais</a></li>
+      <li><a href='#2-licao'>2.ª lição - consoantes e vogais</a></li>
+      <li><a href='#3-licao'>3.ª lição - consoantes e ditongos</a></li>
+      <li><a href='#4-licao'>4.ª lição - consoantes e ditongos</a></li>
     </ul>
   </li>
   <li>
-    <a href='#terceiro-capitulo'>Terceiro Capítulo</a>
+    <a href='#terceiro-capitulo'>Terceiro capítulo</a>
     <ul>
-      <li><a href='#simplificações-e-abreviações'>Simplificações e Abreviações</a></li>
+      <li><a href='#simplificações-e-abreviações'>Simplificações e abreviações</a></li>
     </ul>
   </li>
   <li>
-    <a href='#quarto-capitulo'>Quarto Capítulo</a>
+    <a href='#quarto-capitulo'>Quarto capítulo</a>
     <ul>
-      <li><a href='#estudo-dos-sinais-grossos-ou-compostos'>Estudo dos “Sinais Grossos” ou “Compostos” e Regras de seu Emprego</a></li>
+      <li><a href='#estudo-dos-sinais-grossos-ou-compostos'>Estudo dos “sinais grossos” ou “compostos” e regras de seu emprego</a></li>
     </ul>
   </li>
   <li>
-    <a href='#quinto-capitulo'>Quinto Capítulo</a>
+    <a href='#quinto-capitulo'>Quinto capítulo</a>
     <ul>
-      <li><a href='#ultima-licao'></a>Última Lição</li>
+      <li><a href='#ultima-licao'>Última lição</a></li>
     </ul>
   </li>
   <li>
     <a href='#apendice'>Apêndice</a>
     <ul>
-      <li><a href='#'>Taquigrafia Racional</a></li>
-      <li><a href='#'>Nossa Taquigrafia</a></li>
-      <li><a href='#'>Técnica Taquigráfica</a></li>
-      <li><a href='#'>Taquigrafia Acadêmica</a></li>
-      <li><a href='#'>Comodidade e Taquigrafia</a></li>
-      <li><a href='#'>Higiene do Taquígrafo</a></li>
-      <li><a href='#'>Associação Taquigráfica Paulista</a></li>
-      <li><a href='#'>Estrutura do Nosso Método</a></li>
-      <li><a href='#'>A leitura do Nosso Método</a></li>
-      <li><a href='#'>A escrita do Nosso Método</a></li>
-      <li><a href='#'>Até parece Anedota</a></li>
-      <li><a href='#'>Propaganda da Taquigrafia</a></li>
-      <li><a href='#'>O interesse pela Taquigrafia</a></li>
-      <li><a href='#'>O terceiro Fator</a></li>
+      <li><a href='#'>Taquigrafia racional</a></li>
+      <li><a href='#'>Nossa taquigrafia</a></li>
+      <li><a href='#'>Técnica taquigráfica</a></li>
+      <li><a href='#'>Taquigrafia acadêmica</a></li>
+      <li><a href='#'>Comodidade e taquigrafia</a></li>
+      <li><a href='#'>Higiene do taquígrafo</a></li>
+      <li><a href='#'>Associação taquigráfica paulista</a></li>
+      <li><a href='#'>Estrutura do nosso método</a></li>
+      <li><a href='#'>A leitura do nosso método</a></li>
+      <li><a href='#'>A escrita do nosso método</a></li>
+      <li><a href='#'>Até parece anedota</a></li>
+      <li><a href='#'>Propaganda da taquigrafia</a></li>
+      <li><a href='#'>O interesse pela taquigrafia</a></li>
+      <li><a href='#'>O terceiro fator</a></li>
       <li><a href='#'>Ligações</a></li>
-      <li><a href='#'>Um Discurso</a></li>
-      <li><a href='#'>Transcrição de Artigos e Comentários</a></li>
-      <li><a href='#'>Para o Professor</a></li>
-      <li><a href='#'>Abreviaturas Comerciais e Parlamentares</a></li>
+      <li><a href='#'>Um discurso</a></li>
+      <li><a href='#'>Transcrição de artigos e comentários</a></li>
+      <li><a href='#'>Para o professor</a></li>
+      <li><a href='#'>Abreviaturas comerciais e parlamentares</a></li>
     </ul>
   </li>
 </ul>
 
-<h2 id='in-memorian'>IN MEMORIAN</h2>
+<h2 id='in-memorian'>In Memorian</h2>
 
 Nasceu o Dr. Oscar Leite Alves em São Carlos do Pinhal (Estado de São Paulo), em 20 de março de 1902, filho de Acácio Alves e de Messias Leite Zâm. Ele, natural de Atibaia; ela, de São Carlos do Pinhal.
 
@@ -105,9 +105,9 @@ São Paulo, 15 de setembro de 1974
 
 Marina Negreiros Alves (vva. Dr. Oscar Leite Alves)
 
-<h2 id='fundamentos-do-sistema-leite-alves'>FUNDAMENTO DO SISTEMA ”LEITE ALVES”</h2>
+<h2 id='fundamentos-do-sistema-leite-alves'>Fundamento do sistema ”Leite Alves”</h2>
 
-<h3>Tese Apresentada pelo Autor ao 1º Congresso Brasileiro de Taquigrafia<h3>
+<h3>Tese apresentada pelo autor ao 1º Congresso Brasileiro de Taquigrafia<h3>
 
 Percorrendo a bibliografia dos autores modernos sobre técnica taquigráfica, vemos que todos eles estão de acordo num ponto: é que a elaboração de um método de taqui- grafia, que possa resistir a uma crítica severa, deve ser feito de acordo com a estrutura fo- nética do seu respectivo idioma. Sobre esse ponto não há discrepância entre os autores (George A. S. Oliver). Assim sendo, a nossa taquigrafia deve ser fundamentada na estru- turação fonética da nossa
 língua.
@@ -191,7 +191,7 @@ Esse problema, existente em outros sistemas de taquigrafia estrangeira, pôde se
 
 Eis pois, o esquema do nosso método. Primeiramente, escolhemos os sinais, representando cada um, dois sons homorgânicos de consoantes, o que é possível, na nossa língua, porque a fonética das palavras pertence mais às vogais do que às consoantes. Escolhemos os sinais de traçado mais fácil e simples, para os sons mais freqüentes e, isso baseados em estatísticas rigorosas e repetidas. Uma vez sabido, perfeitamente esses sinais e aprendido as suas respectivas ligações, pelos exercícios dos quadros das primeiras lições, o aluno entrará a estudar os recursos para a redução ou encurtamento dos taquigramas (metagrafia), conforme o que acabamos de expor. Que o traçado do nosso método permite grande velocidade, sabemos por dois motivos: primeiro, porque os taquigramas são pequenos, sem angulosidade. Segundo, porque o traçado dos sinais é cursivo e todos são escritos num só sentido ou inclinação, obedecendo assim à tendência da taquigrafia moderna, que é para a cursividade. Que a leitura do nosso método de taquigrafia é fácil; não resta a menor dúvida, pois trata-se, em última análise, dum método de taquigrafia silábica.
 
-<h2 id='utilidades-e-vantagens'>UTILIDADES E VANTAGENS</h2>
+<h2 id='utilidades-e-vantagens'>Utilidades e vantagens</h2>
 
 Taquigrafia é o meio que empregamos para escrever a palavra falada. Já a taquigrafia era conhecida entre os gregos e romanos, e graças a ela é que podemos apreciar hoje, os discursos dos grandes oradores de outrora. Que ela é realmente uma coisa útil, não há dúvida alguma, pois a sua história nos atesta isso. Vinda de tão remota época e sempre cultivada com carinho, tem esta arte-ciência prestado benefícios incalculáveis à humanidade.
 
@@ -203,7 +203,9 @@ Basta-nos lembrar que, sendo a taquigrafia nada mais que a escrita da palavra fa
 
 O emprego da taquigrafia, como pensam muitos, não se limita somente a apanhar uma preleção, discurso ou ditado; o seu emprego estende-se muito além disso. Um orador ou pregador, ao escrever o seu sermão ou prédica, acha, no emprego da taquigrafia, um auxílio valiosíssimo. Com o seu emprego, consegue escrever todos os pensamentos e idéias que acodem ao cérebro e sem que os possa perder, dada a rapidez com que os escreve; o que não sucederia se empregasse a escrita comum. O mesmo podemos dizer quanto ao escritor e a todos quantos labutam com o pensamento. Quando estudante, obtive resultados extraordinários com o emprego da taquigrafia. Nas escolas superiores, os lentes não seguem um determinado compêndio e para acompanhá-los, nós teríamos que rebuscar várias obras, quase sempre de difícil acesso. A taquigrafia resolveu perfeitamente esse problema, pois, com o seu emprego, conseguimos obter textualmente as lições dadas e, além disso, resultados pecuniários, publicando essas lições taquigrafadas.
 
-<h2>O TEMPO NECESSÁRIO — EXERCÍCIOS<br>RESULTADO POSITIVO</h2>
+<h3>O tempo necessário — exercícios</h3>
+
+<h3>Resultado positivo</h3>
 
 Sempre que conversamos a respeito da taquigrafia, observamos a idéia errônea, que, em geral, se faz dela. Uns pensam que aprender taquigrafia é ter que decorar uma infinidade de pequenos traços, sempre variando em suas combinações e arranjos, como acontece na língua chinesa ou japonesa. Outros pensam que taquigrafia é uma coisa do “arco da velha”; muito difícil e quase impossível de se aprender. Outros, finalmente, têm as mais extravagantes idéias sobre o que seja a taquigrafia. Aprender a taquigrafar é o mesmo que aprender a escrever, mas sob uma outra forma, muito abreviadamente. Para conseguir esse **desideratum** emprega a taquigrafia sinais especiais, assim como, para escrevermos, usamos as letras do alfabeto. A taquigrafia caracteriza-se especialmente pelo interesse sempre crescente que desperta o seu estudo. À medida que vamos compreendendo melhor a taquigrafia, sentimos como que uma atração, um desejo de avançar cada vez mais. No fundo, há um grande perigo; o de querermos passar logo de uma lição para outra, sem que tenhamos exercitado bastante na antecedente.
 
@@ -211,26 +213,28 @@ O tempo exato que se leva para tornar-se um taquígrafo de fato, não se pode ca
 
 O nosso método, além de ser exclusivamente o fruto de uma longa prática e experiência, e portanto de resultado positivo, foi escrito com muita prudência. As lições foram convenientemente colocadas, em ordem crescente quanto à sua importância. Se o estudante seguir os nossos avisos e conselhos, e estudar convenientemente todas as lições do nosso livrinho, pode estar seguro que, depois dum tempo razoável de prática, estará um taquígrafo de fato, possuidor de um método simples, fácil e eficientíssimo.
 
-<h2>DIVISÃO DO NOSSO MÉTODO</h2>
+<h3>Divisão do nosso método</h3>
 
 As lições do nosso método compreendem cinco capítulos:
 
-I — Origens dos Sinais e Sons Compactos. 
-II — Estudos dos Sinais Finos ou Simples. 
-III — Simplificações e Abreviações. 
+I — Origens dos Sinais e Sons Compactos.
+II — Estudos dos Sinais Finos ou Simples.
+III — Simplificações e Abreviações.
 IV — Estudo dos Sinais Grossos ou Compostos e Regra do seu emprego. V — Minuciosidades e Conselhos.
 
 Como vemos são poucos os capítulos a estudar; o último capítulo não encerra lições propriamente ditas, mas, apenas certas particularidades e alguns conselhos. A “Origem dos Sinais” mostra como aparecem os sinais usados em taquigrafia e a maneira simples de formá-los. Os “Sons Compactos” explicam como devemos encarar a ortografia (só consideramos os sons das palavras) e como se originam os diversos Sons Compactos. O “Estudo dos Sinais Finos ou Simples” trata: **a)** do estudo dos diversos sinais que, em taquigrafia, representam os sons das consoantes e das vogais; **b)** do seu modo de escrita e do seu alinhamento. As “Simplificações” têm por fim a redução no tamanho das palavras taquigrafadas ou taquigramas. Estas Simplificações são divididas em duas partes. As “Abreviações” dizem-nos o modo que devemos usar para escrevermos as palavras que terminam sempre com o mesmo som. O “Estudo dos Sinais Grossos ou Compostos” e a “Regra do seu emprego” constituem a parte mais importante do nosso método; e daí em diante, a nossa taquigrafia toma um outro aspecto. Têm por fim os “Sinais Grossos ou Compostos”, simplificar grandemente o taquigrama sem dificultar a sua leitura, antes até, facilitando-a. A “Sua Regra de Emprego” deve merecer, da parte do estudante, uma atenção toda especial.
 
 Depois de estudada esta parte, temos a nossa taquigrafia pronta, e então é que devemos entrar na parte prática propriamente dita. O “Último Capítulo”, como já dissemos, consta de certas particularidades e conselhos que só uma longa prática pode colher. Têm por fim esses conselhos evitar aos neófitos em taquigrafia, que lutem com as mesmas dificuldades por nós já vencidas, e apontar-lhes o caminho seguro para o êxito taquigráfico.
 
-<h2>PRIMEIRO CAPÍTULO<br>ORIGEM DOS SINAIS</h2>
+<h2 id='primeiro-capitulo'>Primeiro capítulo</h2>
+
+<h3 id='origem-dos-sinais'>Origem dos sinais</h3>
 
 Os sinais que usamos em taquigrafia para representar os diversos sons das palavras são-nos emprestados pela Geometria, e vamos tirá-los da circunferência e dos seus diâmetros. Em nosso método de taquigrafia, usamos duas espécies de sinais: os Sinais Finos ou Simples e os Sinais Grossos ou Compostos. Eles têm a mesma origem. Os sinais Finos ou Simples derivam de uma circunferência fina que tomamos por base, à qual, sendo seccionada, em várias direções, dá origem a alguns sinais. <img alt='Exemplo sinais finos ou simples' src='pag16-img1.jpg'> Se desta circunferência, em direções diversas, tirarmos diâmetros teremos originado, com esses diâmetros, outros sinais. Finalmente, se aumentarmos ou diminuirmos o perímetro desta circunferência básica e, em seguida, se a dividirmos em vários sentidos, teremos ainda outros sinais.
 
 Os Sinais Grossos ou Compostos, quanto à sua origem, só diferem dos Sinais Finos ou Simples, por derivarem de uma circunferência grossa, isoperimétrica à anterior, à qual, sendo também dividida em vários sentidos e com os seus diâmetros grossos, dão origem aos Sinais Grossos ou Compostos. <img alt='Exemplo sinais grosos ou compostos' src='pag16-img2.jpg'> Nas lições seguintes explicaremos cada sinal de per si, não só quanto à a sua origem, mas também quanto ao seu valor fonético.
 
-<h3>SONS COMPACTOS</h3>
+<h4>Sons compactos</h4>
 
 Em taquigrafia somente escrevemos os diversos sons das palavras, sem que nos importemos com a ortografia. Assim, a palavra “assino”, em taquigrafia é escrita “acino”.
 
@@ -423,7 +427,7 @@ Sons Compactos da Vogal “U” com as outras vogais.
 
 Como já dissemos, quando as duas vogais, juntas ou separadas por “h”, aparecem nas duas últimas sílabas das palavras, neste caso, **mas somente neste caso**, deixarão de formar o “SOM COMPACTO”, e serão escritas uma e outra. Exemplos: titio, escreve-se titio; desconfia, escreve-se desconfia; e assim por diante. Portanto, neste caso, não haverá formação do “Som Compacto”. Finalmente, quando numa palavra houver três vogais: uma após outra, ou separadas por “h”, também **não formam “Som Compacto”** e todas deverão ser escritas. Isto, como veremos na prática, só aparecerá na terminação das palavras e, aí, não haverá dificuldades em escrevermos as três vogais seguidas. Exemplos: ensaia, ceia, peia, meia, sereia, feia etc.
 
-<h3>REGRA PARA FORMAÇÃO DOS ”SONS COMPACTOS”</h3>
+<h3>Regra para formação dos ”sons compactos”</h3>
 
 Não é preciso que o estudante decore todas as combinações que formam os “Sons Compactos”. Se prestarmos atenção à formação dum “Som Compacto” qualquer, como por exemplo: u + a = ä, nós veremos que o “Som Compacto”, **é sempre a repetição da segunda vogal**. Assim, ä (Som Compacto), é a repetição da segunda vogal. Outros exemplos: i + u = ü; u + i = ï e assim por diante.
 
@@ -433,7 +437,11 @@ NOTA: Esta originalidade do nosso Método de Taquigrafia, a que chamamos de “S
 
 ![Exemplo som compacto](pag16-img1.jpg)
 
-<h2>SEGUNDO CAPÍTULO<br>PRIMEIRA LIÇÃO<br>ESTUDO DOS SINAIS FINOS OU SIMPLES CONSOANTES E VOGAIS</h2>
+<h2>Segundo capítulo</h2>
+
+<h3>Primeira lição</h3>
+
+<h4>Estudo dos sinais finos ou simples consoantes e vogais</h4>
 
 ![Exemplo de vogais](pag17-img1.jpg)
 
@@ -445,7 +453,7 @@ O 3.º sinal é o diâmetro horizontal da circunferência básica, traçado na p
 
 O 4.º e o 5.º sinais são a mesma circunferência básica, mas diminuída muito em seu tamanho e valem respectivamente: “O” e “A”. Não é preciso que estes sinais sejam exatamente redondos; eles até podem ser bem ovais. O que é preciso, é que sejam bem proporcionais em seus tamanhos, isto é, que o O seja maior que o A a fim de evitar confusão.
 
-<h3>ALINHAMENTO DOS TAQUIGRAMAS</h3>
+<h3>Alinhamento dos taquigramas</h3>
 
 A questão do alinhamento dos taquigramas, só interessa no início do aprendizado, porque, depois poder-se-á escrever tanto em papel pautado como sem pauta, deixando pois de existir o alinhamento dos taquigramas. Agora, porém, o estudante só deverá usar papel pautado.
 
@@ -458,11 +466,11 @@ Regra: Só se alinha a primeira consoante do taquigrama. Se houver uma vogal ou 
 Estes taquigramas não representam palavras; servem apenas de exemplos.
 NOTA: Como vemos, estando alinhada a primeira consoante do taquigrama, os sinais seguintes serão escritos na pauta ou abaixo dela.
 
-<h3>COMO DEVEMOS LIGAR OS DIVERSOS SINAIS ENTRE SI</h3>
+<h3>Como devemos ligar os diversos sinais entre si</h3>
 
 O estudante aprenderá melhor isto, seguindo escrupulosamente as instruções para o exercício da primeira lição.
 
-<h3>EXERCÍCIO PARA A PRIMEIRA LIÇÃO</h3>
+<h3>Exercício para a primeira lição</h3>
 
 O estudante deverá copiar cinco vezes, cada sinal ou combinação dos sinais, do quadro adiante, tendo o cuidado de repetir, em voz alta, os valores fonéticos de cada sinal que vai traçando. Os sinais devem ser bem pequenos e traçados de leve, com perfeição. **NÃO OS ESCREVA DEPRESSA**; a pressa é inimiga da perfeição. O quadro adiante demonstra todas as combinações possíveis, que poderão aparecer entre os sinais. Combinações essas que aparecem na prática.
 
@@ -472,6 +480,8 @@ O estudante deverá copiar cinco vezes, cada sinal ou combinação dos sinais, d
 
 OBSERVAÇÃO: Nesta lição e nas duas seguintes, o estudante não deverá ter a preocupação de formar palavras, mas somente de ligar os diversos sinais entre si e aprender os seus valores fonéticos. Ao traçar levemente cada sinal o estudante não deverá parar, sem o ter primeiramente terminado, e muito menos, voltar com o lápis, sobre a parte já feita do sinal. Nunca acalcar o lápis no papel. Só usar lápis n.º 1 com a ponta sempre aguçada.
 
-<h3>SEGUNDA LIÇÃO<br>CONSOANTES E VOGAIS</h3>
+<h3>Segunda lição</h3>
+
+<h4>Consoantes e vogais</h4>
 
 ![Exemplo de consoantes e vogais](pag20-img1.jpg)
