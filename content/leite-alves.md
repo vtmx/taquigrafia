@@ -1,3 +1,8 @@
++++
+title = 'Novo Método de Taquigrafia - Dr. Oscar Leite Alves'
+description = 'Livro'
++++
+
 <header>
   <h1 id='titulo'>Novo Método de Taquigrafia</h1>
   <h2 id='autor'>Dr. Oscar Leite Alves</h2>
@@ -107,7 +112,7 @@ Marina Negreiros Alves (vva. Dr. Oscar Leite Alves)
 
 <h2 id='fundamentos-do-sistema-leite-alves'>Fundamento do sistema ”Leite Alves”</h2>
 
-<h3>Tese apresentada pelo autor ao 1º Congresso Brasileiro de Taquigrafia<h3>
+<h3>Tese apresentada pelo autor ao 1º Congresso Brasileiro de Taquigrafia</h3>
 
 Percorrendo a bibliografia dos autores modernos sobre técnica taquigráfica, vemos que todos eles estão de acordo num ponto: é que a elaboração de um método de taqui- grafia, que possa resistir a uma crítica severa, deve ser feito de acordo com a estrutura fo- nética do seu respectivo idioma. Sobre esse ponto não há discrepância entre os autores (George A. S. Oliver). Assim sendo, a nossa taquigrafia deve ser fundamentada na estru- turação fonética da nossa
 língua.
