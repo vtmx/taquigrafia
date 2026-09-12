@@ -9,42 +9,42 @@ description = 'Livro'
 </header>
 
 <nav>
-  <h2 id='indice'>Índice</h2>
-  <ul>
-    <li><a href='#in-memorian'>Dr. Oscar Leite Alves - In Memoriam</a></li>
-    <li><a href='#fundamentos-do-sistema-leite-alves'>Fundamentos do sistema ”Leite Alves”</a></li>
-    <li><a href='#utilidades-e-vantagens'>Utilidades e vantagens</a></li>
+  <h2>Índice</h2>
+  <ul id='indice'>
+    <li><a href='#in-memorian'>In Memoriam</a></li>
+    <li><a href='#fundamentos-do-sistema-leite-alves'>Fundamentos do Sistema ”Leite Alves”</a></li>
+    <li><a href='#utilidades-e-vantagens'>Utilidades e Vantagens</a></li>
     <li>
-      <a href='#primeiro-capitulo'>Primeiro capítulo</a>
+      <a href='#1-capitulo'>1º Capítulo</a>
       <ul>
-        <li><a href='#origen-dos-sinais'>Origem dos sinais</a>
+        <li><a href='#origen-dos-sinais'>Origem dos Sinais</a>
       </ul>
     </li>
     <li>
-      <a href='#segundo-captulo'>Segundo capítulo</a>
+      <a href='#2-capitulo'>2º Capítulo</a>
       <ul>
-        <li><a href='#1-licao'>1.ª lição - estudos dos sinais finos ou simples. consoantes e vogais</a></li>
-        <li><a href='#2-licao'>2.ª lição - consoantes e vogais</a></li>
-        <li><a href='#3-licao'>3.ª lição - consoantes e ditongos</a></li>
-        <li><a href='#4-licao'>4.ª lição - consoantes e ditongos</a></li>
+        <li><a href='#1-licao'>1.ª Lição - Estudos dos Sinais Finos ou Simples. Consoantes e Vogais</a></li>
+        <li><a href='#2-licao'>2.ª Lição - Consoantes e Vogais</a></li>
+        <li><a href='#3-licao'>3.ª Lição - Consoantes e Ditongos</a></li>
+        <li><a href='#4-licao'>4.ª Lição - Consoantes e Ditongos</a></li>
       </ul>
     </li>
     <li>
-      <a href='#terceiro-capitulo'>Terceiro capítulo</a>
+      <a href='#3-capitulo'>3º Capítulo</a>
       <ul>
-        <li><a href='#simplificações-e-abreviações'>Simplificações e abreviações</a></li>
+        <li><a href='#simplificações-e-abreviacoes'>Simplificações e Abreviações</a></li>
       </ul>
     </li>
     <li>
-      <a href='#quarto-capitulo'>Quarto capítulo</a>
+      <a href='#4-capitulo'>4º Capítulo</a>
       <ul>
-        <li><a href='#estudo-dos-sinais-grossos-ou-compostos'>Estudo dos “sinais grossos” ou “compostos” e regras de seu emprego</a></li>
+        <li><a href='#estudo-dos-sinais-grossos-ou-compostos'>Estudo dos “sinais grossos” ou “compostos” e Regras de seu Emprego</a></li>
       </ul>
     </li>
     <li>
-      <a href='#quinto-capitulo'>Quinto capítulo</a>
+      <a href='#5-capitulo'>5º Capítulo</a>
       <ul>
-        <li><a href='#ultima-licao'>Última lição</a></li>
+        <li><a href='#ultima-licao'>Última Lição</a></li>
       </ul>
     </li>
     <li>
@@ -78,11 +78,11 @@ description = 'Livro'
 
 Nasceu o Dr. Oscar Leite Alves em São Carlos do Pinhal (Estado de São Paulo), em 20 de março de 1902, filho de Acácio Alves e de Messias Leite Zâm. Ele, natural de Atibaia; ela, de São Carlos do Pinhal.
 
-O Dr. Leite Alves fez o curso de annno_oms na owu:& do Estado. Alguns anos depois, cursou a Faculdade de Medicina do Rio de Janeiro, Praia Vermelha, Pertenceu a turma de 1929.
+O Dr. Leite Alves fez o curso de Odontologia na capital do Estado. Alguns anos depois, cursou a Faculdade de Medicina do Rio de Janeiro, Praia Vermelha, Pertenceu a turma de 1929.
 
 Foi para Piracicaba, como médico do Posto de Higiene, no ano de 1930, Nessa cidade, onde clinicou, conheceu a sua futura esposa, Marina de Barros Negreiros, que cursou a antiga Escola Normal Oficial de Piracicába, Pertenceu à turma de 1930. Foram seus país Ignacio Leite Negreiros e Ángela de Barros Negreiros.
 
-Em dezembro de 1932, o Dr. H.n:m Alves e Marina, pela lei da Igreja e dos homens, tor-naram-se marido e mulher. Desse feliz consórcio matrimonial, nasceram nove filhos: cinco meninas e quatro meninos.
+Em dezembro de 1932, o Dr. Alves Leite e Marina, pela lei da Igreja e dos homens, tornaram-se marido e mulher. Desse feliz consórcio matrimonial, nasceram nove filhos: cinco meninas e quatro meninos.
 
 O lar do saudoso autor do Novo Método de Taquigrafia sempre viveu cheio de netinhos, que o tornaram bastante feliz.
 
@@ -111,9 +111,9 @@ São Paulo, 15 de setembro de 1974
 
 Marina Negreiros Alves (vva. Dr. Oscar Leite Alves)
 
-<h2 id='fundamentos-do-sistema-leite-alves'>Fundamento do sistema ”Leite Alves”</h2>
+<h2 id='fundamentos-do-sistema-leite-alves'>Fundamento do Sistema ”Leite Alves”</h2>
 
-<h3>Tese apresentada pelo autor ao 1º Congresso Brasileiro de Taquigrafia</h3>
+<h3>Tese Apresentada pelo Autor ao 1º Congresso Brasileiro de Taquigrafia</h3>
 
 Percorrendo a bibliografia dos autores modernos sobre técnica taquigráfica, vemos que todos eles estão de acordo num ponto: é que a elaboração de um método de taqui- grafia, que possa resistir a uma crítica severa, deve ser feito de acordo com a estrutura fo- nética do seu respectivo idioma. Sobre esse ponto não há discrepância entre os autores (George A. S. Oliver). Assim sendo, a nossa taquigrafia deve ser fundamentada na estru- turação fonética da nossa
 língua.
@@ -136,12 +136,12 @@ Assim, **mutatis mutandis**, o reverso da medalha deve ser também verdadeiro; p
 
 Assim pois, é perfeitamente possível usarmos, no nosso método de taquigrafia e, isso sem nenhum prejuízo para a leitura taquigráfica, e, com grande economia de sinais, o emprego dum mesmo sinal para representar dois sons homorgânicos de consoantes.
 
-A escrita das vogais, em taquigrafia portuguesa, segundo o nosso método, tem, para a posterior leitura do taquigrama, muitíssimo mais importância que as consoantes, que quando acessórias como as consoantes líquidas: N-S-R-L, podem ser suprimidas sem nenhum prejuízo ou embaraço para a leitura do taquigrama, contanto que se escrevam as vogais e, especialmente, as vogais iniciais e terminais das palavras. (Os autores chamam essas consoantes: N-S-R-L líquidas, quando as mesmas vêm depois da vogal, nas sílabas das palavras.) Essa é a nossa experiência na leitura taquigráfica, segundo o nosso método e, portanto, na escrita, vamos suprimir as consoantes acessórias (líquidas) mas nunca suprimir as vogais, as quais serão religiosamente escritas, especialmente as iniciais e terminais das palavras.
+A escrita das vogais, em taquigrafia portuguesa, segundo o nosso método, tem, para a posterior leitura do taquigrama, muitíssimo mais importância que as consoantes, que quando acessórias como as consoantes líquidas: **N-S-R-L**, podem ser suprimidas sem nenhum prejuízo ou embaraço para a leitura do taquigrama, contanto que se escrevam as vogais e, especialmente, as vogais iniciais e terminais das palavras. (Os autores chamam essas consoantes: **N-S-R-L** líquidas, quando as mesmas vêm depois da vogal, nas sílabas das palavras.) Essa é a nossa experiência na leitura taquigráfica, segundo o nosso método e, portanto, na escrita, vamos suprimir as consoantes acessórias (líquidas) mas nunca suprimir as vogais, as quais serão religiosamente escritas, especialmente as iniciais e terminais das palavras.
 Quanto à incidência das consoantes, nas sílabas das palavras da nossa língua, a escolha dos sinais, que devem representar essas consoantes, deve obedecer ao critério adotado em todos os outros métodos de taquigrafia estrangeira, isto é: os sinais mais fáceis de serem traçados, deverão representar as consoantes mais comumente achadas ou encontradas nas sílabas das nossas palavras. Sobre esse ponto fundamental todos os autores estão de acordo. Agora, quais são as consoantes mais freqüentes? Isso varia duma língua para a outra, e daí a necessidade imperiosa de serem as consoantes, rigorosamente contadas, nas sílabas das nossas palavras, fazendo a sua porcentagem do aparecimento ou incidência, de umas sobre as outras, para podermos ter esse critério de sábia escolha dos sinais de mais fácil traçado, para representarem as consoantes mais comumente encontradas. Este nosso trabalho só se refere à nossa língua e, sobre este particular fizemos estatísticas extensas e pacientes como mais adiante falaremos.
 
 Infelizmente, nesse particular, pouco se tem publicado sobre o assunto e, eu mesmo, só conheço o recente trabalho do engenheiro Lourenço Prado, publicado no número 13 da Revista do Taquígrafo do Rio de Janeiro. É uma estatística pequena, abrangendo somente 5.000 palavras, mas já serve para dar uma pequena idéia da incidência das letras, nas sílabas das palavras da nossa língua. Na Revista Taquigráfica Heitor Mariz cita em seus artigos, por várias vezes, serem as consoantes **T-D** aquelas de maior freqüência na língua portuguesa, mas não dá porcentagem alguma sobre as outras e, nem mesmo sobre a inci dência dessas duas consoantes. Num trabalho do senhor Diniz Magalhães, publicado no número 49 da Revista Taquigráfica, vemos uma pequena porcentagem, do aparecimento das diversas letras, no teclado da máquina de escrever. Ignoramos que tenham sido publicados outros trabalhos idênticos sobre a porcentagem do aparecimento das letras, nas sílabas das nossas palavras. Como vemos, é muito pobre a bibliografia nesse sentido. Num nosso recente artigo publicado no número 14 da Revista do Taquígrafo, lamentamos esse estado de coisas e apelamos para os estudiosos, que publiquem trabalhos nesse sentido, estudando a porcentagem existente no aparecimento ou incidência das letras nas palavras da nossa língua.
 
-Nesse particular, temos feito pacientes investigações, sobre a porcentagem do aparecimento das consoantes nas palavras do nosso idioma, para a escolha dos sinais taquigráficos, que serviram na elaboração do nosso método de taquigrafia. O nosso trabalho versou, não propriamente sobre a contagem do aparecimento das consoantes nas sílabas das nossas palavras, como poderia parecer à primeira vista; mas, como muito bem assinala W. Burrow no seu interessante trabalho: ”Quais os princípios que devem servir de base a um método de taquigrafia”, sobre o aparecimento ou freqüência dessas consoantes nos taquigramas do nosso método, pois, às vezes, acontece ser uma determinada consoante mais freqüente nas sílabas das palavras, e não aparecer com essa mesma freqüência nos taquigramas, devido aos fatores intrínsecos à técnica taquigráfica de cada método. Esse fenômeno, como muito bem assinala Burrow, tem levado muitos autores de métodos taquigráficos a erros irremediáveis, na elaboração dos seus trabalhos. As nossas estatísticas, nesse sentido, compreenderam milhares de palavras tiradas de trechos completamente diferentes. Escolhemos trechos de assuntos diversos: política, religião, assuntos científicos, literatura, noticiário comum sobre fatos banais dos jornais etc. Os resultados que obtivemos, nas nossas pesquisas, são muito interessantes. Primeiramente, observamos que essa porcentagem é mais ou menos constante, pois a incidência das letras permanece com pequenas variações. Assim, verificamos que o sinal **TE-DE** é o mais comumente encontrado nos taquigramas das nossas palavras, confirmando assim o achado dos outros pesquisadores. Assim nas nossas pesquisas, essas consoantes aparecem com uma porcentagem de cerca de 25% em relação às outras. O sinal de menor porcentagem que achamos, nos taquigramas das nossas palavras, foi o sinal correspondente aos sons de: **CHE-JE**, com apenas cerca de 2,5% sobre os outros. Na ordem decrescente, achamos os seguintes sinais nos taquigramas das nossas palavras: CEZE — **KEGUE — PEBE — RERRE — NENHE — FEVE — LELHE — ME**. Foram trabalhos pacientes que fizemos, abrangendo milhares e milhares de palavras, de vários assuntos diferentes, e que poderão ser comprovados por futuras investigações. Esclarecemos, mais uma vez, que essa incidência não foi feita, indiscriminadamente, sobre todas as consoantes que aparecem nas sílabas das nossas palavras, o que não seria de interesse para a escrita do nosso método, mas, tão-somente, sobre as consoantes que são escritas nas sílabas dos taquigramas, segundo o nosso método de taquigrafia.
+Nesse particular, temos feito pacientes investigações, sobre a porcentagem do aparecimento das consoantes nas palavras do nosso idioma, para a escolha dos sinais taquigráficos, que serviram na elaboração do nosso método de taquigrafia. O nosso trabalho versou, não propriamente sobre a contagem do aparecimento das consoantes nas sílabas das nossas palavras, como poderia parecer à primeira vista; mas, como muito bem assinala W. Burrow no seu interessante trabalho: ”Quais os princípios que devem servir de base a um método de taquigrafia”, sobre o aparecimento ou freqüência dessas consoantes nos taquigramas do nosso método, pois, às vezes, acontece ser uma determinada consoante mais freqüente nas sílabas das palavras, e não aparecer com essa mesma freqüência nos taquigramas, devido aos fatores intrínsecos à técnica taquigráfica de cada método. Esse fenômeno, como muito bem assinala Burrow, tem levado muitos autores de métodos taquigráficos a erros irremediáveis, na elaboração dos seus trabalhos. As nossas estatísticas, nesse sentido, compreenderam milhares de palavras tiradas de trechos completamente diferentes. Escolhemos trechos de assuntos diversos: política, religião, assuntos científicos, literatura, noticiário comum sobre fatos banais dos jornais etc. Os resultados que obtivemos, nas nossas pesquisas, são muito interessantes. Primeiramente, observamos que essa porcentagem é mais ou menos constante, pois a incidência das letras permanece com pequenas variações. Assim, verificamos que o sinal **TE-DE** é o mais comumente encontrado nos taquigramas das nossas palavras, confirmando assim o achado dos outros pesquisadores. Assim nas nossas pesquisas, essas consoantes aparecem com uma porcentagem de cerca de 25% em relação às outras. O sinal de menor porcentagem que achamos, nos taquigramas das nossas palavras, foi o sinal correspondente aos sons de: **CHE-JE**, com apenas cerca de 2,5% sobre os outros. Na ordem decrescente, achamos os seguintes sinais nos taquigramas das nossas palavras: **CEZE, KEGUE, PEBE, RERRE, NENHE, FEVE, LELHE, ME**. Foram trabalhos pacientes que fizemos, abrangendo milhares e milhares de palavras, de vários assuntos diferentes, e que poderão ser comprovados por futuras investigações. Esclarecemos, mais uma vez, que essa incidência não foi feita, indiscriminadamente, sobre todas as consoantes que aparecem nas sílabas das nossas palavras, o que não seria de interesse para a escrita do nosso método, mas, tão-somente, sobre as consoantes que são escritas nas sílabas dos taquigramas, segundo o nosso método de taquigrafia.
 
 Assim sendo, tivemos o cuidado de escolher os sinais de mais fácil traçado, para os sons mais comumente usados nos taquigramas e, daí ser a escrita da nossa taquigrafia, uma escrita de traçado harmonioso, conservando, morfologicamente, as mesmas formas do traçado das letras da nossa escrita comum.
 
@@ -149,7 +149,7 @@ Antes de entrarmos em outros detalhes, devemos dizer que, o traçado dos sinais 
 
 Desejamos também assinalar, uma outra grande vantagem dos sinais consoantes do nosso método; é que cada sinal de consoante é formado por um único e simples traço. Assim, os sinais são simples linhas curvas ou retas e não, como vemos em vários métodos, sinais complexos ou compostos, formados pela reunião dum traço reto com um curvo para representar, foneticamente, o som duma determinada consoante. Este fato não vai muito bem com o espírito ou sentido da taquigrafia, pois poderá ter outras vantagens, mas não certamente aquela da rapidez da escrita, precisando de dois sinais para gravar simplesmente o som duma consoante.
 
-Agora, vamos tratar das vogais no nosso método de taquigrafia. Já dissemos que elas sempre são escritas devido à importância fonética para a posterior leitura taquigráfica. Pelas estatísticas já citadas, vemos que as vogais O-A são as mais comuns nas sílabas das palavras e, por isso, designados os sinais redondos (como fazem outros métodos) para designar essas vogais. Essas vogais **O-A** segundo as pesquisas dos nossos autores já citados, são as letras mais comuns nas palavras da nossa língua. Assim procedendo, não somente designamos os sinais de mais fácil traçado, para esses sons freqüentíssimos das vogais **O-A**, como também, no traçado dos taquigramas, esses sinais, ligados com os sinais das consoantes, evitam a formação de ângulos, na junção dos sinais consoante, tornando assim, fácil a ligação dos diversos sinais do nosso método e o deslizar do lápis no papel. E, como comparamos atrás, as vogais **O-A** são como que verdadeiros tijolinhos, que ligam ou articulam os pilares (consoantes) do esqueleto ou arcabouço do taquigrama. Sobre a representação da vogal E também freqüentíssima nas palavras da nossa língua, essa representação não é necessária, a não ser quando ela começar ou terminar um taquigrama, pois essa vogal, assim como acontece também com as letras do nosso alfabeto, está subentendida na leitura dos sinais das respectivas consoantes.
+Agora, vamos tratar das vogais no nosso método de taquigrafia. Já dissemos que elas sempre são escritas devido à importância fonética para a posterior leitura taquigráfica. Pelas estatísticas já citadas, vemos que as vogais **O-A** são as mais comuns nas sílabas das palavras e, por isso, designados os sinais redondos (como fazem outros métodos) para designar essas vogais. Essas vogais **O-A** segundo as pesquisas dos nossos autores já citados, são as letras mais comuns nas palavras da nossa língua. Assim procedendo, não somente designamos os sinais de mais fácil traçado, para esses sons freqüentíssimos das vogais **O-A**, como também, no traçado dos taquigramas, esses sinais, ligados com os sinais das consoantes, evitam a formação de ângulos, na junção dos sinais consoante, tornando assim, fácil a ligação dos diversos sinais do nosso método e o deslizar do lápis no papel. E, como comparamos atrás, as vogais **O-A** são como que verdadeiros tijolinhos, que ligam ou articulam os pilares (consoantes) do esqueleto ou arcabouço do taquigrama. Sobre a representação da vogal E também freqüentíssima nas palavras da nossa língua, essa representação não é necessária, a não ser quando ela começar ou terminar um taquigrama, pois essa vogal, assim como acontece também com as letras do nosso alfabeto, está subentendida na leitura dos sinais das respectivas consoantes.
 
 Falaremos, agora, da estrutura técnica do nosso método de taquigrafia. Ora, o nosso método de taquigrafia sendo um método silábico, isto é: que taquigrafa as palavras escrevendo sílaba por sílaba, ou cada sílaba de per si, se não lançasse mão de recursos abreviativos ou de encurtamento dos taquigramas (metagrafia), tornaria a escrita do método muito morosa e, praticamente, impossível para o apanhado taquigráfico, devido ao alongamento no tamanho do traçado do taquigrama, apesar do seu talhe de escrita ser cursivo. A taquigrafia silábica, como é a nossa, tem uma grande vantagem quanto à leitura taquigráfica, pois escreve todas as sílabas das palavras; mas teria essa grande vantagem completamente anulada pela morosidade da escrita, se não lançasse mão dos recursos abreviativos, no traçado dos taquigramas.
 
@@ -173,9 +173,9 @@ Qual a maneira mais rápida de ser, um determinado sinal, traçado? Quando engro
 
 Assim, sendo muito mais numerosos, na escrita do nosso método, os sinais grossos que os grandes, proporção esta de 2:1, está assim perfeitamente justificado esse critério de escolha dos sinais grandes para representar as sílabas fortes das palavras e os sinais grossos para a Aglutinação das duas sílabas, quando a segunda for formada por **T-D**.
 
-Outro motivo, que nos levou a preferirmos os sinais grandes para representar as sílabas fortes, e os sinais grossos para aglutinar as duas sílabas **T-D**, foi o fato de verificarmos que, os únicos sinais que podem ser aumentados em seus tamanhos sem criar confusão na nossa escrita taquigráfica, são os sinais **KEGUE — FEVE — TEDE — PEBE** correspondentes às únicas consoantes que, em língua portuguesa, podem formar sílabas fortes.
+Outro motivo, que nos levou a preferirmos os sinais grandes para representar as sílabas fortes, e os sinais grossos para aglutinar as duas sílabas **T-D**, foi o fato de verificarmos que, os únicos sinais que podem ser aumentados em seus tamanhos sem criar confusão na nossa escrita taquigráfica, são os sinais **KEGUE-FEVE-TEDE-PEBE** correspondentes às únicas consoantes que, em língua portuguesa, podem formar sílabas fortes.
 
-Primeiramente, estudaremos as Abreviações. As Abreviações formam um recurso usado em todos os outros sistemas de taquigrafia e não conhecemos um deles sequer, que não lance mão desse precioso recurso. Elas não só abreviam o taquigrama, porque encurtam o seu traçado condensando determinadas sílabas num só sinal, como, ao mesmo tempo, facilitam extraordinariamente, a leitura porque, o sinal abreviativo da Abreviação, indica, matematicamente, qual o valor fonético da leitura desse sinal abreviativo. No nosso método, lançamos mão de 17 Abreviações; foi o que a prática nos aconselhou. Algumas dessas Abreviações são muitíssimo comuns, como: mente — ado — ando — oso — ânsia — ente, auxiliando assim bastante o encurtamento dos taquigramas. Outras Abreviações, não sendo assim tão comuns como as citadas atrás, são todavia necessárias, porque, sem o seu emprego, seria praticamente difícil, traçar certos taquigramas, segundo o nosso método. Assim, por exemplo, as palavras carvoeiro, padroeira, seriam, praticamente, difíceis de serem escritas, em nosso método, se não existissem essas Abreviações. Portanto, essas Abreviações do nosso método, são mais auxiliares da escrita taquigráfica, que Abreviações propriamente ditas. O uso ou emprego das Abreviações, na nossa escrita taquigráfica, é obrigatória. Todas as vezes que aparecer, no final duma palavra qualquer, um dos sons correspondentes a uma ou mais Abreviações, o seu emprego é obrigatório no taquigrama dessa palavra. De modo que, elas ocupam um lugar de destaque no nosso método de taquigrafia, ultrapassando mesmo, pela sua importância, o emprego dos sinais grossos ou compostos.
+Primeiramente, estudaremos as Abreviações. As Abreviações formam um recurso usado em todos os outros sistemas de taquigrafia e não conhecemos um deles sequer, que não lance mão desse precioso recurso. Elas não só abreviam o taquigrama, porque encurtam o seu traçado condensando determinadas sílabas num só sinal, como, ao mesmo tempo, facilitam extraordinariamente, a leitura porque, o sinal abreviativo da Abreviação, indica, matematicamente, qual o valor fonético da leitura desse sinal abreviativo. No nosso método, lançamos mão de 17 Abreviações; foi o que a prática nos aconselhou. Algumas dessas Abreviações são muitíssimo comuns, como: mente-ado-ando-oso-ânsia-ente, auxiliando assim bastante o encurtamento dos taquigramas. Outras Abreviações, não sendo assim tão comuns como as citadas atrás, são todavia necessárias, porque, sem o seu emprego, seria praticamente difícil, traçar certos taquigramas, segundo o nosso método. Assim, por exemplo, as palavras carvoeiro, padroeira, seriam, praticamente, difíceis de serem escritas, em nosso método, se não existissem essas Abreviações. Portanto, essas Abreviações do nosso método, são mais auxiliares da escrita taquigráfica, que Abreviações propriamente ditas. O uso ou emprego das Abreviações, na nossa escrita taquigráfica, é obrigatória. Todas as vezes que aparecer, no final duma palavra qualquer, um dos sons correspondentes a uma ou mais Abreviações, o seu emprego é obrigatório no taquigrama dessa palavra. De modo que, elas ocupam um lugar de destaque no nosso método de taquigrafia, ultrapassando mesmo, pela sua importância, o emprego dos sinais grossos ou compostos.
 
 Um fato importante que acontece com o emprego obrigatório das Abreviações, é que o seu emprego impede ou neutraliza, praticamente, a formação dos sons compactos no nosso método. No taquigrama acompanhado de Abreviações, as vogais finais no corpo do taquigrama, passam a ser escritas cada uma de per si. É que, sendo a Abreviação separada do corpo do taquigrama, as vogais terminais no corpo do taquigrama passam a ser vogais terminais das últimas sílabas das palavras que, segundo as regras do nosso método, todas deverão ser escritas. Isso, para o fator leitura taquigráfica, é importantíssimo, pois, sabemos que a leitura das vogais iniciais e, especialmente, as terminais das nossas palavras taquigrafadas é que esclarece a leitura do taquigrama porque, em português, as palavras declinam, foneticamente falando, pelas suas terminações. Vamos conjugar, para asserção do que estamos dizendo, o indicativo presente do verbo amar: amo, amas, ama, amamos etc. Assim, vemos que somente a parte terminal dessas palavras é que varia, em contraste com certas línguas, como por exemplo, o inglês, onde não se observa o mesmo fenômeno.
 
@@ -183,7 +183,7 @@ Assim, reputamos o emprego das Abreviações, do nosso método de Taquigrafia, u
 
 Vamos falar do último recurso de Redução (metagrafia) no tamanho dos taquigramas de nosso método, isto é, das Simplificações e que dizem respeito às consoantes chamadas pelos autores de “líquidas” (isto é: daquelas que vêm depois da vogal na sílaba).
 
-Se as sílabas das nossas palavras fossem formadas somente por uma vogal simples ou pela conjugação duma vogal com uma consoante (fraca ou forte), seria muito simples e fácil a criação dum método de taquigrafia para a nossa língua. Infelizmente, como também acontece nas outras línguas, também na nossa, aparecem aqui as consoantes acessórias ou líquidas, segundo a expressão dos autores e que são: N-R-S-L, as quais, aparecendo depois da vogal nas sílabas, modificam a formação fonética da respectiva sílaba, criando assim uma grande dificuldade, nos vários métodos de taquigrafia, para a escrita desses sons assim modificados. Estudando como os autores encararam e procuraram resolver a situação criada pelo aparecimento das consoantes líquidas, nas sílabas das nossas palavras, veremos adiante como os autores, dos diversos sistemas de taquigrafia conhecidos em nosso meio, procuraram enfrentar este difícil problema; mas quase todos eles se atrapalharam e se contradisseram diante dessa terrível incógnita, dispensando, para a sua resolução, os melhores recursos abreviativos, fornecidos pela técnica taquigráfica, e não resolvendo senão, parceladamente, as dificuldades criadas pela existência dessas consoantes líquidas, nas sílabas das nossas palavras. Assim, alguns sistemas, diante da resolução desse problema, fazem inverter completamente a maneira de escrita das consoantes líquidas ou lançam mão de recursos estranhos, como o aparecimento de outros sinais adventícios e ligados a essa consoante, tornando difícil o aprendizado e retardando a mecanização do traçado rápido, por parte do aluno. Outros métodos ainda procuram engrossar as consoantes que têm vogal anasalada, desperdiçando assim um recurso precioso de metagrafia, para somente resolver uma parte do problema das consoantes líquidas. Infelizmente, quase todos esses sistemas só resolveram parcialmente, duma maneira empírica, esse grave problema das consoantes líquidas; desperdiçando recursos preciosos de metagrafia, e não resolvendo completamente esse problema. A escrita dessas consoantes líquidas, nos diversos sistemas de taquigrafia que temos examinado, é um verdadeiro cipoal ou atoleiro e, todos esses sistemas se debatem, se perdem e se atolam na resolução dessa difícil incógnita. Heitor Mariz, num interessante artigo publicado na Revista Taquigráfica, analisa a escrita dessas consoantes líquidas, nos diversos sistemas de taquigrafia adaptados à nossa língua, mostrando como é falha e rudimentar a escrita dessas consoantes importantes para a leitura nesses sistemas e propõe, nesse seu trabalho, recursos práticos para sanar essa deficiência, nesses sistemas.
+Se as sílabas das nossas palavras fossem formadas somente por uma vogal simples ou pela conjugação duma vogal com uma consoante (fraca ou forte), seria muito simples e fácil a criação dum método de taquigrafia para a nossa língua. Infelizmente, como também acontece nas outras línguas, também na nossa, aparecem aqui as consoantes acessórias ou líquidas, segundo a expressão dos autores e que são: **N-R-S-L**, as quais, aparecendo depois da vogal nas sílabas, modificam a formação fonética da respectiva sílaba, criando assim uma grande dificuldade, nos vários métodos de taquigrafia, para a escrita desses sons assim modificados. Estudando como os autores encararam e procuraram resolver a situação criada pelo aparecimento das consoantes líquidas, nas sílabas das nossas palavras, veremos adiante como os autores, dos diversos sistemas de taquigrafia conhecidos em nosso meio, procuraram enfrentar este difícil problema; mas quase todos eles se atrapalharam e se contradisseram diante dessa terrível incógnita, dispensando, para a sua resolução, os melhores recursos abreviativos, fornecidos pela técnica taquigráfica, e não resolvendo senão, parceladamente, as dificuldades criadas pela existência dessas consoantes líquidas, nas sílabas das nossas palavras. Assim, alguns sistemas, diante da resolução desse problema, fazem inverter completamente a maneira de escrita das consoantes líquidas ou lançam mão de recursos estranhos, como o aparecimento de outros sinais adventícios e ligados a essa consoante, tornando difícil o aprendizado e retardando a mecanização do traçado rápido, por parte do aluno. Outros métodos ainda procuram engrossar as consoantes que têm vogal anasalada, desperdiçando assim um recurso precioso de metagrafia, para somente resolver uma parte do problema das consoantes líquidas. Infelizmente, quase todos esses sistemas só resolveram parcialmente, duma maneira empírica, esse grave problema das consoantes líquidas; desperdiçando recursos preciosos de metagrafia, e não resolvendo completamente esse problema. A escrita dessas consoantes líquidas, nos diversos sistemas de taquigrafia que temos examinado, é um verdadeiro cipoal ou atoleiro e, todos esses sistemas se debatem, se perdem e se atolam na resolução dessa difícil incógnita. Heitor Mariz, num interessante artigo publicado na Revista Taquigráfica, analisa a escrita dessas consoantes líquidas, nos diversos sistemas de taquigrafia adaptados à nossa língua, mostrando como é falha e rudimentar a escrita dessas consoantes importantes para a leitura nesses sistemas e propõe, nesse seu trabalho, recursos práticos para sanar essa deficiência, nesses sistemas.
 
 No nosso método, devido à escrita obrigatória das vogais nas sílabas, o que não acontece nos outros sistemas, a omissão, na escrita, dessas consoantes líquidas não é tão prejudicial para a leitura. Todavia, esse problema da escrita das consoantes líquidas, no nosso método, também foi por nós bastante espinhoso e conseguimos contornar o problema, não o atacando de frente, mas sim indiretamente, tendo-o resolvido e com resultados satisfatórios, como mais adiante exporemos.
 
@@ -191,13 +191,19 @@ Antes, porém, de explicar o mecanismo de como foi por nós resolvido esse probl
 
 Resolvemos esse problema, indiretamente, como dissemos atrás, e da seguinte maneira. Na escrita taquigráfica, absolutamente, não escrevemos qualquer uma dessas consoantes líquidas, omitindo assim, sistematicamente, a sua escrita nos taquigramas, exceto quando elas forem a letra terminal da palavra. Aí, então elas serão escritas, devido à importância fonética do final das palavras, na leitura taquigráfica, como já acentuamos. Essas consoantes líquidas, não tendo sido todavia escritas no traçado do taquigrama, porque são omitidas, são todavia lidas na leitura desse mesmo taquigrama, pelos recursos que mais adiante mostraremos. Assim, cremos ter resolvido, satisfatoriamente, e duma maneira indireta, o caso das consoantes líquidas, no nosso método de taquigrafia. Não atacamos de frente, diretamente, o problema, como fizeram os outros autores de métodos, pelo mesmo receio de cairmos nessas tremendas dificuldades, que assaltaram os outros autores, e de nos perdermos também aí. Mas, ladeando esse problema, o atacamos de lado, ou pelas costas, não escrevendo as consoantes líquidas nos taquigramas, mas fazendo depois a leitura das mesmas, pelos recursos que adiante exporemos. Resolvido assim, por nós, esse problema: não escrevemos as consoantes líquidas, isso não tem importância e não atrapalha a escrita taquigráfica, antes até facilita-a; mas, na leitura, não deixamos de ler essas mesmas consoantes líquidas, estando assim resolvido, segundo o nosso modo de ver esse tremendo problema. Essa é uma das grandes originalidades do nosso método de taquigrafia para a língua portuguesa.
 
-Assim procedendo, parece pois que resolvemos satisfatoriamente, o problema. Se, na taquigrafia, existisse tão-somente a escrita taquigráfica, não se escrevendo essas consoantes líquidas, estava o problema resolvido. Mas havendo também a leitura, o que iria acontecer? Certamente, tornar indecifrável a leitura do taquigrama, por essa omissão das consoantes líquidas, na escrita taquigráfica. Já dissemos atrás que, na nossa taquigrafia, devido à escrita das vogais nas sílabas das palavras, a ausência dessas consoantes líquidas, na leitura dos taquigramas, praticamente, perde muito do seu valor e não embaraça, absolutamente, a leitura do taquigrama, que é fácil por si mesmo, e facilitado ainda pelo sentido da frase. E, depois, pelos recursos de que lançamos mão, na leitura do nosso método, desaparece completamente, esse problema da escrita das consoantes líquidas, como logo mais veremos. Já acentuamos a grande importância que tem somente a consoante líquida **N**, pela sua grande incidência, nas sílabas das nossas palavras cerca de 60%. Na leitura do nosso método de taquigrafia, temos nada menos que oito recursos para, indiretamente, fazermos a leitura dessa consoante líquida, nasaladora das vogais, sem que, na prática, a tenhamos escrito e que são: 1.° — Emprego freqüentíssimo das quatro Abreviações: mento — ando — ância — ente. Onde vemos, na leitura dessas Abreviações, a vogal ficar nasalada, nas suas primeiras sílabas; 2.° — O emprego dos sinais taquigráficos correspondentes aos sons de: om — am — em, no começo e no fim das palavras, onde a vogal, na leitura, fica também nasalada; 3.° — Conforme as regras do nosso livro, o sinal correspondente a i no começo ou no fim das palavras, deve ser lido por im e finalmente, de acordo com as regras do nosso método, para a leitura do taquigrama, sempre que, no som bruto, a leitura simples das vogais não der sentido, então deveremos nasalá-las. Também, na leitura do sinal grosso ou composto, deveremos ler por em a vogal compreendida nesse sinal. Com esses oito recursos: quatro Abreviações, três sinais e a regra da leitura do som bruto dos taquigramas, resolvemos, no nosso método, indireta e praticamente, esse famoso problema da consoante líquida n, que é freqüentíssima na língua portuguesa. Pois, como acabamos de ver, ela não sendo escrita no taquigrama, não deixa porém, com esses recursos, de ser lida na leitura desse mesmo taquigrama. As outras consoantes líquidas, pela sua pouca freqüência e por serem letras de escrita obrigatória no final dos taquigramas e, com o emprego dos sinais taquigráficos correspondentes aos sons de: es — er, a sua omissão, na escrita taquigráfica, no nosso método, não embaraça absolutamente a leitura, pelos motivos já expostos. Eis como pudemos, com sucesso, contornar e resolver, se bem que duma maneira indireta, o grave problema da escrita das consoantes líquidas no nosso método de taquigrafia.
+Assim procedendo, parece pois que resolvemos satisfatoriamente, o problema. Se, na taquigrafia, existisse tão-somente a escrita taquigráfica, não se escrevendo essas consoantes líquidas, estava o problema resolvido. Mas havendo também a leitura, o que iria acontecer? Certamente, tornar indecifrável a leitura do taquigrama, por essa omissão das consoantes líquidas, na escrita taquigráfica. Já dissemos atrás que, na nossa taquigrafia, devido à escrita das vogais nas sílabas das palavras, a ausência dessas consoantes líquidas, na leitura dos taquigramas, praticamente, perde muito do seu valor e não embaraça, absolutamente, a leitura do taquigrama, que é fácil por si mesmo, e facilitado ainda pelo sentido da frase. E, depois, pelos recursos de que lançamos mão, na leitura do nosso método, desaparece completamente, esse problema da escrita das consoantes líquidas, como logo mais veremos. Já acentuamos a grande importância que tem somente a consoante líquida **N**, pela sua grande incidência, nas sílabas das nossas palavras cerca de 60%. Na leitura do nosso método de taquigrafia, temos nada menos que oito recursos para, indiretamente, fazermos a leitura dessa consoante líquida, nasaladora das vogais, sem que, na prática, a tenhamos escrito e que são:
+
+1.° Emprego freqüentíssimo das quatro Abreviações: mento, ando, ância, ente. Onde vemos, na leitura dessas Abreviações, a vogal ficar nasalada, nas suas primeiras sílabas;
+
+2.° O emprego dos sinais taquigráficos correspondentes aos sons de: om, am, em, no começo e no fim das palavras, onde a vogal, na leitura, fica também nasalada;
+
+3.° Conforme as regras do nosso livro, o sinal correspondente a i no começo ou no fim das palavras, deve ser lido por im e finalmente, de acordo com as regras do nosso método, para a leitura do taquigrama, sempre que, no som bruto, a leitura simples das vogais não der sentido, então deveremos nasalá-las. Também, na leitura do sinal grosso ou composto, deveremos ler por em a vogal compreendida nesse sinal. Com esses oito recursos: quatro Abreviações, três sinais e a regra da leitura do som bruto dos taquigramas, resolvemos, no nosso método, indireta e praticamente, esse famoso problema da consoante líquida n, que é freqüentíssima na língua portuguesa. Pois, como acabamos de ver, ela não sendo escrita no taquigrama, não deixa porém, com esses recursos, de ser lida na leitura desse mesmo taquigrama. As outras consoantes líquidas, pela sua pouca freqüência e por serem letras de escrita obrigatória no final dos taquigramas e, com o emprego dos sinais taquigráficos correspondentes aos sons de: es, er, a sua omissão, na escrita taquigráfica, no nosso método, não embaraça absolutamente a leitura, pelos motivos já expostos. Eis como pudemos, com sucesso, contornar e resolver, se bem que duma maneira indireta, o grave problema da escrita das consoantes líquidas no nosso método de taquigrafia.
 
 Esse problema, existente em outros sistemas de taquigrafia estrangeira, pôde ser suprimido ou simplificado, grandemente, em taquigrafia portuguesa, porquanto tivemos previamente o cuidado de fazer um estudo detalhado sobre a incidência dessas consoantes líquidas e de outras particularidades da nossa língua. Fazer-se uma tradução rija dum sistema qualquer de taquigrafia estrangeira para o português, quase sempre se cai nesse atoleiro.
 
 Eis pois, o esquema do nosso método. Primeiramente, escolhemos os sinais, representando cada um, dois sons homorgânicos de consoantes, o que é possível, na nossa língua, porque a fonética das palavras pertence mais às vogais do que às consoantes. Escolhemos os sinais de traçado mais fácil e simples, para os sons mais freqüentes e, isso baseados em estatísticas rigorosas e repetidas. Uma vez sabido, perfeitamente esses sinais e aprendido as suas respectivas ligações, pelos exercícios dos quadros das primeiras lições, o aluno entrará a estudar os recursos para a redução ou encurtamento dos taquigramas (metagrafia), conforme o que acabamos de expor. Que o traçado do nosso método permite grande velocidade, sabemos por dois motivos: primeiro, porque os taquigramas são pequenos, sem angulosidade. Segundo, porque o traçado dos sinais é cursivo e todos são escritos num só sentido ou inclinação, obedecendo assim à tendência da taquigrafia moderna, que é para a cursividade. Que a leitura do nosso método de taquigrafia é fácil; não resta a menor dúvida, pois trata-se, em última análise, dum método de taquigrafia silábica.
 
-<h2 id='utilidades-e-vantagens'>Utilidades e vantagens</h2>
+<h2 id='utilidades-e-vantagens'>Utilidades e Vantagens</h2>
 
 Taquigrafia é o meio que empregamos para escrever a palavra falada. Já a taquigrafia era conhecida entre os gregos e romanos, e graças a ela é que podemos apreciar hoje, os discursos dos grandes oradores de outrora. Que ela é realmente uma coisa útil, não há dúvida alguma, pois a sua história nos atesta isso. Vinda de tão remota época e sempre cultivada com carinho, tem esta arte-ciência prestado benefícios incalculáveis à humanidade.
 
@@ -209,7 +215,7 @@ Basta-nos lembrar que, sendo a taquigrafia nada mais que a escrita da palavra fa
 
 O emprego da taquigrafia, como pensam muitos, não se limita somente a apanhar uma preleção, discurso ou ditado; o seu emprego estende-se muito além disso. Um orador ou pregador, ao escrever o seu sermão ou prédica, acha, no emprego da taquigrafia, um auxílio valiosíssimo. Com o seu emprego, consegue escrever todos os pensamentos e idéias que acodem ao cérebro e sem que os possa perder, dada a rapidez com que os escreve; o que não sucederia se empregasse a escrita comum. O mesmo podemos dizer quanto ao escritor e a todos quantos labutam com o pensamento. Quando estudante, obtive resultados extraordinários com o emprego da taquigrafia. Nas escolas superiores, os lentes não seguem um determinado compêndio e para acompanhá-los, nós teríamos que rebuscar várias obras, quase sempre de difícil acesso. A taquigrafia resolveu perfeitamente esse problema, pois, com o seu emprego, conseguimos obter textualmente as lições dadas e, além disso, resultados pecuniários, publicando essas lições taquigrafadas.
 
-<h3>O tempo necessário — exercícios</h3>
+<h3>O tempo necessário - exercícios</h3>
 
 <h3>Resultado positivo</h3>
 
@@ -224,25 +230,30 @@ O nosso método, além de ser exclusivamente o fruto de uma longa prática e exp
 As lições do nosso método compreendem cinco capítulos:
 
 <ul>
-  <li>I — Origens dos Sinais e Sons Compactos.</li>
-  <li>II — Estudos dos Sinais Finos ou Simples.</li>
-  <li>III — Simplificações e Abreviações.</li>
-  <li>IV — Estudo dos Sinais Grossos ou Compostos e Regra do seu emprego. V — Minuciosidades e Conselhos.</li>
+  <li>I - Origens dos Sinais e Sons Compactos.</li>
+  <li>II - Estudos dos Sinais Finos ou Simples.</li>
+  <li>III - Simplificações e Abreviações.</li>
+  <li>IV - Estudo dos Sinais Grossos ou Compostos e Regra do seu emprego.</li>
+  <li>V - Minuciosidades e Conselhos.</li>
 </ul>
 
-Como vemos são poucos os capítulos a estudar; o último capítulo não encerra lições propriamente ditas, mas, apenas certas particularidades e alguns conselhos. A “Origem dos Sinais” mostra como aparecem os sinais usados em taquigrafia e a maneira simples de formá-los. Os “Sons Compactos” explicam como devemos encarar a ortografia (só consideramos os sons das palavras) e como se originam os diversos Sons Compactos. O “Estudo dos Sinais Finos ou Simples” trata: **a)** do estudo dos diversos sinais que, em taquigrafia, representam os sons das consoantes e das vogais; **b)** do seu modo de escrita e do seu alinhamento. As “Simplificações” têm por fim a redução no tamanho das palavras taquigrafadas ou taquigramas. Estas Simplificações são divididas em duas partes. As “Abreviações” dizem-nos o modo que devemos usar para escrevermos as palavras que terminam sempre com o mesmo som. O “Estudo dos Sinais Grossos ou Compostos” e a “Regra do seu emprego” constituem a parte mais importante do nosso método; e daí em diante, a nossa taquigrafia toma um outro aspecto. Têm por fim os “Sinais Grossos ou Compostos”, simplificar grandemente o taquigrama sem dificultar a sua leitura, antes até, facilitando-a. A “Sua Regra de Emprego” deve merecer, da parte do estudante, uma atenção toda especial.
+Como vemos são poucos os capítulos a estudar; o último capítulo não encerra lições propriamente ditas, mas, apenas certas particularidades e alguns conselhos. A “Origem dos Sinais” mostra como aparecem os sinais usados em taquigrafia e a maneira simples de formá-los. Os “Sons Compactos” explicam como devemos encarar a ortografia (só consideramos os sons das palavras) e como se originam os diversos Sons Compactos. O “Estudo dos Sinais Finos ou Simples” trata:
+
+a) do estudo dos diversos sinais que, em taquigrafia, representam os sons das consoantes e das vogais;
+
+b) do seu modo de escrita e do seu alinhamento. As “Simplificações” têm por fim a redução no tamanho das palavras taquigrafadas ou taquigramas. Estas Simplificações são divididas em duas partes. As “Abreviações” dizem-nos o modo que devemos usar para escrevermos as palavras que terminam sempre com o mesmo som. O “Estudo dos Sinais Grossos ou Compostos” e a “Regra do seu emprego” constituem a parte mais importante do nosso método; e daí em diante, a nossa taquigrafia toma um outro aspecto. Têm por fim os “Sinais Grossos ou Compostos”, simplificar grandemente o taquigrama sem dificultar a sua leitura, antes até, facilitando-a. A “Sua Regra de Emprego” deve merecer, da parte do estudante, uma atenção toda especial.
 
 Depois de estudada esta parte, temos a nossa taquigrafia pronta, e então é que devemos entrar na parte prática propriamente dita. O “Último Capítulo”, como já dissemos, consta de certas particularidades e conselhos que só uma longa prática pode colher. Têm por fim esses conselhos evitar aos neófitos em taquigrafia, que lutem com as mesmas dificuldades por nós já vencidas, e apontar-lhes o caminho seguro para o êxito taquigráfico.
 
-<h2 id='primeiro-capitulo'>Primeiro capítulo</h2>
+<h2 id='1-capitulo'>Primeiro Capítulo</h2>
 
-<h3 id='origem-dos-sinais'>Origem dos sinais</h3>
+<h3 id='origem-dos-sinais'>Origem dos Sinais</h3>
 
 Os sinais que usamos em taquigrafia para representar os diversos sons das palavras são-nos emprestados pela Geometria, e vamos tirá-los da circunferência e dos seus diâmetros. Em nosso método de taquigrafia, usamos duas espécies de sinais: os Sinais Finos ou Simples e os Sinais Grossos ou Compostos. Eles têm a mesma origem. Os sinais Finos ou Simples derivam de uma circunferência fina que tomamos por base, à qual, sendo seccionada, em várias direções, dá origem a alguns sinais. <img alt='Exemplo sinais finos ou simples' src='pag16-img1.jpg'> Se desta circunferência, em direções diversas, tirarmos diâmetros teremos originado, com esses diâmetros, outros sinais. Finalmente, se aumentarmos ou diminuirmos o perímetro desta circunferência básica e, em seguida, se a dividirmos em vários sentidos, teremos ainda outros sinais.
 
 Os Sinais Grossos ou Compostos, quanto à sua origem, só diferem dos Sinais Finos ou Simples, por derivarem de uma circunferência grossa, isoperimétrica à anterior, à qual, sendo também dividida em vários sentidos e com os seus diâmetros grossos, dão origem aos Sinais Grossos ou Compostos. <img alt='Exemplo sinais grosos ou compostos' src='pag16-img2.jpg'> Nas lições seguintes explicaremos cada sinal de per si, não só quanto à a sua origem, mas também quanto ao seu valor fonético.
 
-<h4>Sons compactos</h4>
+<h4>Sons Compactos</h4>
 
 Em taquigrafia somente escrevemos os diversos sons das palavras, sem que nos importemos com a ortografia. Assim, a palavra “assino”, em taquigrafia é escrita “acino”.
 
@@ -441,7 +452,11 @@ Como já dissemos, quando as duas vogais, juntas ou separadas por “h”, apare
 
 Não é preciso que o estudante decore todas as combinações que formam os “Sons Compactos”. Se prestarmos atenção à formação dum “Som Compacto” qualquer, como por exemplo: u + a = ä, nós veremos que o “Som Compacto”, **é sempre a repetição da segunda vogal**. Assim, ä (Som Compacto), é a repetição da segunda vogal. Outros exemplos: i + u = ü; u + i = ï e assim por diante.
 
-Há somente três exceções: 1.ª) “a + i” que em vez de ser igual a ï, é igual a “ä”, exemplos: caixa, escreve-se cäxa; faixa, escreve-se fäxa, e assim por diante. 2.ª) “a + u”, que em vez de ser igual a ü conforme a regra geral, é igual a “ö”, exemplos: saudade, escreve-se södade; paulista, escreve-se pölista, e assim por diante. 3.ª) “o + u”, que em vez de ser igual a ü conforme a regra geral, é igual a “ö”, exemplo: Outubro, escreve-se ötubro, sendo que esta combinação no final das palavras, não existe porque, praticamente, não se pronuncia o “u” final das palavras. Assim, dizemos, chegô, dançô, almoçô etc.… e não: chegou, dançou, almoçou etc.…
+Há somente três exceções:
+
+1.ª “a + i” que em vez de ser igual a ï, é igual a “ä”, exemplos: caixa, escreve-se cäxa; faixa, escreve-se fäxa, e assim por diante.
+
+2.ª “a + u”, que em vez de ser igual a ü conforme a regra geral, é igual a “ö”, exemplos: saudade, escreve-se södade; paulista, escreve-se pölista, e assim por diante. 3.ª) “o + u”, que em vez de ser igual a ü conforme a regra geral, é igual a “ö”, exemplo: Outubro, escreve-se ötubro, sendo que esta combinação no final das palavras, não existe porque, praticamente, não se pronuncia o “u” final das palavras. Assim, dizemos, chegô, dançô, almoçô etc... e não: chegou, dançou, almoçou etc...
 
 <p role='note'>
   NOTA: Esta originalidade do nosso Método de Taquigrafia, a que chamamos de “SOM COMPACTO” é o que há de mais racional e é o fruto de um longo tirocínio. Apareceu, naturalmente, sem o auxílio da imaginação e da teoria, verificando simplesmente o que a intuição auditiva do taquígrafo ia realizando na prática. Sem querer usávamos os “Sons Compactos” na escrita da taquigrafia corrente. De que isso é realmente prático, intuitivo e de grande utilidade, o estudante logo se convencerá.
@@ -449,19 +464,19 @@ Há somente três exceções: 1.ª) “a + i” que em vez de ser igual a ï, é
 
 ![Exemplo som compacto](pag16-img1.jpg)
 
-<h2 id='segundo-capitulo'>Segundo capítulo</h2>
+<h2 id='2-capitulo'>Segundo Capítulo</h2>
 
-<h3>Primeira lição</h3>
+<h3 id='1-licao'>Primeira Lição</h3>
 
-<h4>Estudo dos sinais finos ou simples consoantes e vogais</h4>
+<h4>Estudo dos Sinais Finos ou Simples Consoantes e Vogais</h4>
 
 ![Exemplo de vogais](pag17-img1.jpg)
 
-O 1.º sinal é o diâmetro vertical da circunferência básica, traçado de cima para baixo e termina ao tocar a pauta. Tem o seguinte valor fonético: XE, CHE — JE.
+O 1.º sinal é o diâmetro vertical da circunferência básica, traçado de cima para baixo e termina ao tocar a pauta. Tem o seguinte valor fonético: XE, CHE-JE.
 
-O 2.º sinal é o diâmetro oblíquo da circunferência básica, traçado da direita para a esquerda e de cima para baixo, termina ao tocar a pauta. Tem o seguinte valor fonético: LE — LHE e acessoriamente “l”, que se emprega por exemplo, nas palavras: sal, palma etc.…
+O 2.º sinal é o diâmetro oblíquo da circunferência básica, traçado da direita para a esquerda e de cima para baixo, termina ao tocar a pauta. Tem o seguinte valor fonético: LE-LHE e acessoriamente “l”, que se emprega por exemplo, nas palavras: sal, palma etc...
 
-O 3.º sinal é o diâmetro horizontal da circunferência básica, traçado na pauta, da esquerda para a direita, no mesmo sentido da escrita comum. Tem o seguinte valor fonético: CE — ZE e acessoriamente “s”, que se emprega por exemplo, nas palavras: pasta, amas etc…
+O 3.º sinal é o diâmetro horizontal da circunferência básica, traçado na pauta, da esquerda para a direita, no mesmo sentido da escrita comum. Tem o seguinte valor fonético: CE-ZE e acessoriamente “s”, que se emprega por exemplo, nas palavras: pasta, amas et...
 
 O 4.º e o 5.º sinais são a mesma circunferência básica, mas diminuída muito em seu tamanho e valem respectivamente: “O” e “A”. Não é preciso que estes sinais sejam exatamente redondos; eles até podem ser bem ovais. O que é preciso, é que sejam bem proporcionais em seus tamanhos, isto é, que o O seja maior que o A a fim de evitar confusão.
 
@@ -497,9 +512,9 @@ O estudante deverá copiar cinco vezes, cada sinal ou combinação dos sinais, d
   OBSERVAÇÃO: Nesta lição e nas duas seguintes, o estudante não deverá ter a preocupação de formar palavras, mas somente de ligar os diversos sinais entre si e aprender os seus valores fonéticos. Ao traçar levemente cada sinal o estudante não deverá parar, sem o ter primeiramente terminado, e muito menos, voltar com o lápis, sobre a parte já feita do sinal. Nunca acalcar o lápis no papel. Só usar lápis n.º 1 com a ponta sempre aguçada.
 </p>
 
-<h3>Segunda lição</h3>
+<h3 id='2-licao'>Segunda Lição</h3>
 
-<h4>Consoantes e vogais</h4>
+<h4>Consoantes e Vogais</h4>
 
 ![Exemplo de consoantes e vogais](pag20-img1.jpg)
 
@@ -515,7 +530,7 @@ Ao fazer o exercício, o estudante deverá escrever bem devagar, caprichando no 
 
 A circunferência básica, seccionada no sentido do seu diâmetro vertical, dá origem ao 1.º e 2.º sinais, que são traçados de cima para baixo.
 
-O 1.º sinal é a metade esquerda desta circunferência. Tem o seguinte valor fonético: **KE,QUE — GUE ou KRE, KLE — GRE,GLE**, [quando for de tamanho grande, como está na 2.ª linha do clichê].
+O 1.º sinal é a metade esquerda desta circunferência. Tem o seguinte valor fonético: **KE, QUE-GUE ou KRE, KLE-GRE, GLE**, [quando for de tamanho grande, como está na 2.ª linha do clichê].
 
 O 2.º sinal é a metade direita desta mesma circunferência. Tem o seguinte valor fonético: ME.
 
@@ -535,13 +550,13 @@ O estudante melhor aprenderá a alinhar estes sinais novos e os já estudados, s
 
 ![Exemplo](pag23-img1.jpg)
 
-<h3>Exercício para a terceira lição</h3>
+<h3 id='3-licao'>Exercício para a terceira lição</h3>
 
 A orientação é a mesma da primeira lição; o estudante deverá copiar cinco vezes, cada sinal ou combinação dos sinais, do quadro abaixo, tendo o cuidado de repetir, em voz alta, os valores fonéticos de cada sinal, que for traçando. Deverá acostumar desde já, a fazer os sinais pequenos e a traçá-los de leve, com perfeição. NÃO DEVERÁ DEIXAR PARA SE APERFEIÇOAR MAIS TARDE, NA ESCRITA TAQUIGRÁFICA, **porque isso será muito difícil**. Por enquanto não deverá escrever depressa. A rapidez da escrita taquigráfica é assunto que será estudado na última parte do nosso livro. Atualmente, o mais importante é escrever com perfeição os diversos sinais, combinando-os entre si. O quadro abaixo demonstra todas as combinações possíveis entre os sinais; combinações essas que aparecem na prática.
 
 ![Exemplo de exercício](pag23-img2.jpg)
 
-N.B. — Deixamos de colocar, neste quadro, o sinal grande [Kre, Kle — Gre, Gle], porque o seu traçado e ligações são iguais às do sinal semelhante.
+N.B., Deixamos de colocar, neste quadro, o sinal grande [Kre, Kle-Gre, Gle], porque o seu traçado e ligações são iguais às do sinal semelhante.
 
 ![Exemplo de exercício](pag24-img1.jpg)
 
@@ -555,24 +570,24 @@ Ao fazer o exercício o estudante deverá escrever bem devagar, caprichando semp
   OBSERVAÇÃO: O estudante não deverá passar para a lição seguinte, sem estar familiarizado com as já estudadas. Nestas lições, o estudante não deverá ter a preocupação de formar palavras, mas somente de combinar os sinais entre si, tendo o cuidado de repetir, em voz alta, os seus valores fonéticos, sempre que traçá-los. Aprender os valores fonéticos dos sinais que irão aparecendo e saber traçá-los, esta deverá ser atualmente a preocupação do estudante.
 </p>
 
-<h3>Quarta lição</h3>
+<h3 id='4-licao'>Quarta lição</h3>
 
 <h4>Consoantes e ditongos</h4>
 
 ![Exemplo de consoates e ditongos](pag24-img2.jpg)
 
-O 1.º sinal é a quarta parte superior esquerda de uma circunferência maior que a circunferência básica; é traçado de baixo para cima e da esquerda para a direita. Tem o seguinte valor fonético: **NE — NHE** e acessoriamente “n”, que se emprega nas sílabas das palavras que têm vogal nasalada; portanto, nasalando a vogal, como por exemplo: conta, tonta etc. As palavras: compra, campo, empresa, ímpar etc., em taquigrafia escrevemos com “n”, exemplos: conpra, canpo, enpresa, ínpar etc.
+O 1.º sinal é a quarta parte superior esquerda de uma circunferência maior que a circunferência básica; é traçado de baixo para cima e da esquerda para a direita. Tem o seguinte valor fonético: **NE-NHE** e acessoriamente “n”, que se emprega nas sílabas das palavras que têm vogal nasalada; portanto, nasalando a vogal, como por exemplo: conta, tonta etc. As palavras: compra, campo, empresa, ímpar etc., em taquigrafia escrevemos com “n”, exemplos: conpra, canpo, enpresa, ínpar etc.
 
-O 2.º sinal é uma corda da circunferência básica, traçado de baixo para cima e da esquerda para a direita. Tem os seguintes valores fonéticos: **RE — RRE** e acessoriamente “r”, como por exemplo, nas palavras: amar, desprezar, deserto etc.
+O 2.º sinal é uma corda da circunferência básica, traçado de baixo para cima e da esquerda para a direita. Tem os seguintes valores fonéticos: **RE-RRE** e acessoriamente “r”, como por exemplo, nas palavras: amar, desprezar, deserto etc.
 
-À primeira vista parece que este sinal confunde-se com o sinal correspondente aos sons de **LE — LHE**, já estudado na primeira lição. Difere, porém, deste último, porque é escrito de baixo para cima e da esquerda para a direita. Sabe-se que o sinal foi escrito de baixo para cima ou de cima para baixo, pela extremidade em que continuam os outros sinais do taquigrama.
+À primeira vista parece que este sinal confunde-se com o sinal correspondente aos sons de **LE-LHE**, já estudado na primeira lição. Difere, porém, deste último, porque é escrito de baixo para cima e da esquerda para a direita. Sabe-se que o sinal foi escrito de baixo para cima ou de cima para baixo, pela extremidade em que continuam os outros sinais do taquigrama.
 
 Exemplos:
 
 ![Exemplo do taquigrama que quer dizer “Raça“](pag25-img1.jpg)
 No primeiro taquigrama que quer dizer “RAÇA”, o sinal foi escrito de baixo para cima; no segundo taquigrama, que quer dizer “LAÇA”, o sinal foi escrito de cima para baixo.
 
-O 3.º sinal é a quarta parte inferior direita de uma circunferência maior que a circunferência básica; é traçado de baixo para cima e da esquerda para a direita; tem os seguintes valores fonéticos: **PE — BE, ou PRE, PLE — BRE, BLE**, [quando for de tamanho grande, como está na 2.ª linha do clichê].
+O 3.º sinal é a quarta parte inferior direita de uma circunferência maior que a circunferência básica; é traçado de baixo para cima e da esquerda para a direita; tem os seguintes valores fonéticos: **PE-BE, ou PRE, PLE-BRE, BLE**, [quando for de tamanho grande, como está na 2.ª linha do clichê].
 
 O 4.º sinal é o sinal correspondente ao da vogal **O** com um ponto no centro. Tem o valor fonético de: **OI**.
 
@@ -616,15 +631,15 @@ O estudante, antes de começar a fazer o exercício, deverá recordar bem a ques
 
 Como exercício para a quarta lição, copiar 5 vezes cada um dos taquigramas que serviram de exemplos nesta lição (págs. 25, 26 e 27). À medida que for traçando os taquigramas, ir conferindo-os com os do modelo. Uma vez feito o exercício, deverá lê-lo, em voz alta, três ou quatro vezes. A leitura, por enquanto, será difícil; mais tarde, ao fazer outros exercícios, o estudante terá facilidade na leitura.
 
-<h2 id='terceiro-capitulo'>Terceiro capítulo</h2>
+<h2 id='3-capitulo'>Terceiro Capítulo</h2>
 
-<h3 id='simplificacoes'>Simplificações e abreviações</h3>
+<h3 id='simplificações-e-abreviacoes'>Simplificações e Abreviações</h3>
 
 Na prática, os taquigramas não deverão ser tão longos como estão, porque, se assim fossem, melhor seria escrevermos as palavras como usamos na escrita comum, do que taquigrafá-las. Trataremos então, neste Capítulo, de diminuir o tamanho dos taquigramas, sem dificultar a sua leitura. Para alcançar esse desideratum, faremos o estudo das Simplificações e das Abreviações.
 
 As primeiras consistem na subtração de certas letras que, entrando acessoriamente na formação das sílabas, podem ser subtraídas sem embaraço para a leitura, simplificando assim a escrita taquigráfica.
 
-<h3>Orientação para o estudante fazer os exercícios das abreviações</h3>
+<h3>Orientação para o Estudante Fazer os Exercícios das Abreviações</h3>
 
 Ao estudar cada uma das Abreviações o estudante, como exercício, **deverá copiar cinco vezes os taquigramas dos exemplos da Abreviação que estiver estudando** e não se esquecer de ir lendo, pelo menos três vezes, em voz alta, esses taquigramas. (Veja o modelo da pág. 32.) Logo que terminar o exercício duma Abreviação, irá colocando a Abreviação estudada numa tira de papel, como se vê ao lado do Quadro Geral das Abreviações. Essa tira de papel, após o estudo das Abreviações, deverá contê-las assim catalogadas e o estudante sempre a terá diante dos olhos, ao fazer os exercícios para as lições seguintes. **Assim procedendo, o estudante não precisará decorar essas Abreviações, pois, à medida que as for encontrando, nos futuros exercícios, procurá-las-á na tira de papel e, ao chegar ao fim do estudo, estará bem familiarizado com as mesmas, sem as ter propriamente decorado**.
 
@@ -636,67 +651,35 @@ NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrado
 
 II) Pequeno traço oblíquo, escrito de cima para baixo e da esquerda para a direita. Tem os sons de: ção, zão e plural dos mesmos. Esta Abreviação deve ser escrita ao lado e em frente ao último sinal do taquigrama. Exemplos: canção, reação, aglomeração, distração, traição.
 
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
-
 III) Pequeno traço oblíquo, escrito de cima para baixo e da direita para a esquerda. Tem os sons de: dade, lidade, ridade, bilidade e plural dos mesmos. Esta Abreviação deve ser escrita logo adiante do último sinal do taquigrama. Exemplos: cidade, liberdade, rivalidade, vaidade, piedade.
-
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
 
 IV) Traço, longo, grosso e horizontal. Tem os sons de: amos, emos, imos, omos, e também de: armos, ermos, irmos, ormos (primeira pessoa do plural do indicativo presente, do futuro do subjuntivo e do infinitivo pessoal). Esta Abreviação é colocada logo adiante do último sinal do taquigrama. Exemplos: acalcamos, somos, gozaremos, compramos.
 
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
-
 V) Sinal aritmético de subtração. Tem os sons de: ando, endo, indo, ondo, undo (Gerúndio). Esta Abreviação é colocada logo adiante do último sinal do taquigrama. Exemplos: espiando, ceando, acostumando, explicando, enganando.
-
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
 
 VI) Acento circunflexo. Tem os sons de: ado, ada, edo, eda, ido, ida, odo, oda, udo, uda, ude e plural dos mesmos. Esta Abreviação é colocada à maneira das outras Abreviações. Exemplos: consolado, esfriado, entoado, enciumado, partido, saúde.
 
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
-
-VII) Traço fino e reto, cortando sempre o último sinal do taquigrama. Tem os sons de: ário, ária, ério, éria, írio, íria, ório, ória, úrio, úria, e plural dos mesmos e também: eriam, ariam, iriam etc. . . . Exemplos: sério, semanário, estuário, calcário.
-
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
+VII) Traço fino e reto, cortando sempre o último sinal do taquigrama. Tem os sons de: ário, ária, ério, éria, írio, íria, ório, ória, úrio, úria, e plural dos mesmos e também: eriam, ariam, iriam etc.<br>Exemplos: sério, semanário, estuário, calcário.
 
 VIII) Esta Abreviação é o sinal correspondente à vogal O. Tem os sons de: oso, osa e plural dos mesmos. Exemplos: gracioso, briosa, vagaroso, caprichoso.
 
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
-
 IX) Esta Abreviação é o sinal correspondente à vogal A. Tem os sons de: ante, ente, inte, gente e plural dos mesmos. Exemplos: ouvinte, tratante, brilhante, estreante, diligente.
-
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
 
 X) Esta Abreviação é idêntica ao “til”. Tem os sons de: ância, ência, incia, uncia, gência e plural dos mesmos. Exemplos: ganância, ciência, província, renúncia, emergência.
 
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
-
 XI) Esta Abreviação é um pequeno ângulo voltado para baixo. Tem os sons de: ável, ével, ível, óvel, úvel e plural dos mesmos; tem também os sons de: ivo, iva, ivos, ivas. Esta Abreviação é escrita logo adiante do último sinal do taquigrama. Exemplos: estranhável, adorável, incrível, sofrível, automóvel, motivo.
-
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
 
 XII) Simples vírgula. Tem os sons de: eiro, eira, nheiro, nheira e plural dos mesmos. Esta Abreviação é colocada logo adiante do último sinal do taquigrama. Exemplos: vidraceiro, empreiteiro, viveiro, carreiro, celeiro.
 
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
-
 XIII) Pequeno traço fino, vertical, escrito de cima para baixo. Tem os sons de: ismo, isma, íssimo, íssima, bilíssimo, bilíssima e plural dos mesmos. Esta Abreviação é colocada logo adiante do último sinal do taquigrama. Exemplos: crisma, cristianismo, cinismo, egoísmo, ateísmo.
-
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
 
 XIV) Sinal aritmético de igualdade, escrito verticalmente. Tem os sons de: ista, lista, dista e plural dos mesmos. Esta Abreviação é escrita logo adiante e acima do último sinal do taquigrama. Exemplos: golpista, vista, enxadrista, capitalista, especialista.
 
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
-
 XV) Sinal aritmético de igualdade. Tem os sons de: ágio, égio, ígio, ógio, úgio e plural dos mesmos. Esta Abreviação é escrita adiante do último sinal do taquigrama. Exemplos: egrégio, colégio, Remígio, apanágio, relógio.
-
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
 
 XVI) Sinal aritmético de adição. Tem os sons de: ologia, alogia, grafia. Esta Abreviação é escrita junto ao último sinal do taquigrama. Exemplos: zoologia, geografia, biologia, antropologia, sociologia.
 
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
-
 XVII) Esta Abreviação é o sinal correspondente à vogal I. Tem os sons de: inho, inha, zinho, zinha e plural dos mesmos. Exemplos: vinho, priminho, cabrinha, espinho, autorzinho, Carmenzinha.
-
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
 
 <h3>Modelo parcial dos exercícios das abreviações</h3>
 
@@ -738,31 +721,31 @@ Os nossos avisos e conselhos são o fruto duma longa prática e de uma paciente 
 
 As consoantes acessórias: **M-N-S-R-L** quando, numa sílaba, vierem depois da vogal, ditongo ou som compacto, doravante, NÃO SERÃO MAIS ESCRITAS. Exceto essas três últimas consoantes (s,r,l) que, no final das palavras, serão sempre escritas.
 
-N.B. — Não se esqueça, porém, que os sinais correspondentes aos sons de **Ã O — OM — Ã — EM — ES — ER** serão sempre escritos (veja a 4.ª lição do 2.º Capítulo) . Exemplos: conta = COTA; pomba = POBA; ontem = OTEM; encontram = ENCOTRAM; prontidão = PROTIDÃO; bom = BOM; costas = COTAS; isto = ITO; astro = ATRO; estas = ESTAS; ostra = OTRA; estes = ESTES; retardar = RETADAR; repartir = REPATIR; calcanhar = CACANHAR; recalcar = RECACAR; casal = CASAL; Ernani = ERNANI; Ester = ESTER; mulher = MULHER; indispensável = IDIPESÁVEL; intransponível = ITRAPONÍVEL; fim = FI; querubim = KERUBI.
+N.B., Não se esqueça, porém, que os sinais correspondentes aos sons de **Ã O, OM, Ã, EM, ES, ER** serão sempre escritos (veja a 4.ª lição do 2.º Capítulo) . Exemplos: conta = COTA; pomba = POBA; ontem = OTEM; encontram = ENCOTRAM; prontidão = PROTIDÃO; bom = BOM; costas = COTAS; isto = ITO; astro = ATRO; estas = ESTAS; ostra = OTRA; estes = ESTES; retardar = RETADAR; repartir = REPATIR; calcanhar = CACANHAR; recalcar = RECACAR; casal = CASAL; Ernani = ERNANI; Ester = ESTER; mulher = MULHER; indispensável = IDIPESÁVEL; intransponível = ITRAPONÍVEL; fim = FI; querubim = KERUBI.
 
 <p role='note'>
-  NOTA: Os taquigramas dessas palavras, que serviram de exemplos, obedecendo à mesma ordem, são encontrados no quadro geral das SIMPLIFICAÇÕES no fim deste Capítulo (pág. 37) .
+  NOTA: Os taquigramas dessas palavras, que serviram de exemplos, obedecendo à mesma ordem, são encontrados no quadro geral das SIMPLIFICAÇÕES no fim deste Capítulo (pág. 37).
 </p>
 
 <p role='note'>
-  OBSERVAÇÃO: **Praticamente, na leitura, todo “i” no começo ou no fim dos taquigramas deverá ser lido por “IM” (veja os quatro últimos exemplos dados).**
+  OBSERVAÇÃO: Praticamente, na leitura, todo “i” no começo ou no fim dos taquigramas deverá ser lido por “IM” (veja os quatro últimos exemplos dados).
 </p>
 
 <h3>Como devemos fazer a leitura</h3>
 
-Os sons que obteremos lendo um taquigrama (cada sinal de per si) , nós chamaremos de: “SOM BRUTO”. A regra que damos, para se fazer a leitura, é a seguinte: sempre que o “som bruto” não tiver sentido na frase deveremos **“nasalar as vogais”** do som bruto ou então acrescentar: **S — R** ou **L** após essas mesmas vogais e, assim, acharemos, facilmente, o som exato. Exemplos: agora vou pagar a minha CONTA. De acordo com esta lição, o taquigrama da palavra “conta” ficou transformado em “cota” e, lendo, vemos que o som “cota” não dá sentido algum. Basta então **“nasalarmos”** o “o” de “cota”, para que o som bruto se transforme no som desejado “CONTA”. Outro exemplo: o navio naufragou nas “costas” da Bahia. Pondo em taquigrafia, de acordo com esta lição, temos: o navio nôfragô nas “COTAS” da Bahia. **“Nasalando”** o “o” de “cotas”, a frase ficará sem sentido. Então, em vez de **nasalarmos** o “O” de “cotas”, acrescentaremos “s” a essa vogal e assim acharemos o som exato: “costas”. Se depois de nasalarmos ou acrescentarmos “S” às vogais do “Som Bruto” ainda não obtivermos o som desejado é porque então deveremos acrescentar “R” ou “L” após essas mesmas vogais.
+Os sons que obteremos lendo um taquigrama (cada sinal de per si) , nós chamaremos de: “SOM BRUTO”. A regra que damos, para se fazer a leitura, é a seguinte: sempre que o “som bruto” não tiver sentido na frase deveremos **“nasalar as vogais”** do som bruto ou então acrescentar: **S-R** ou **L** após essas mesmas vogais e, assim, acharemos, facilmente, o som exato. Exemplos: agora vou pagar a minha CONTA. De acordo com esta lição, o taquigrama da palavra “conta” ficou transformado em “cota” e, lendo, vemos que o som “cota” não dá sentido algum. Basta então **“nasalarmos”** o “o” de “cota”, para que o som bruto se transforme no som desejado “CONTA”. Outro exemplo: o navio naufragou nas “costas” da Bahia. Pondo em taquigrafia, de acordo com esta lição, temos: o navio nôfragô nas “COTAS” da Bahia. **“Nasalando”** o “o” de “cotas”, a frase ficará sem sentido. Então, em vez de **nasalarmos** o “O” de “cotas”, acrescentaremos “s” a essa vogal e assim acharemos o som exato: “costas”. Se depois de nasalarmos ou acrescentarmos “S” às vogais do “Som Bruto” ainda não obtivermos o som desejado é porque então deveremos acrescentar “R” ou “L” após essas mesmas vogais.
 
 <p role='note'>
-  OBSERVAÇÃO: **Isto, que à primeira vista, parece ser pouco prático e maçante, por obrigar o estudante experimentar diversos sons, acontecerá só no começo da aprendizagem, porque, depois de alguma prática, o estudante fará, com maior desembaraço, a leitura.**
+  OBSERVAÇÃO: Isto, que à primeira vista, parece ser pouco prático e maçante, por obrigar o estudante experimentar diversos sons, acontecerá só no começo da aprendizagem, porque, depois de alguma prática, o estudante fará, com maior desembaraço, a leitura.
 </p>
 
-<h3>Exercício para a simplificação “a”
+<h3>Exercício para a simplificação “A”</h3>
 
 Como exercício para esta lição, o estudante deverá copiar 5 vezes cada um dos taquigramas das palavras que serviram de exemplos (veja o clichê da pág. 37). Não se esqueça de ir lendo, pelo menos 3 vezes, em voz alta, esses taquigramas à medida que os for traçando.
 
 <h3>Exercício de versão taquigráfica e leitura</h3>
 
-Como exercício de versão taquigráfica e leitura o estudante deverá transladar para a taquigrafia, o trecho do tópico “O Tempo Necessário — Exercícios”, cujo modelo vem na página 49. À medida que for traçando os taquigramas, ir conferindo-os com o modelo do livro. **Não deverá o estudante se esquecer de ler, pelo menos 3 vezes, pelo modelo do livro, o exercício feito e de ter sempre a Tira das Abreviações diante dos olhos, ao fazer os exercícios.** O estudante deverá escrever bem devagar ao fazer este exercício, traçando os sinais bem feitos, bem de leve, e com o seu tamanho exato. Não se esqueça da regra da formação dos “Sons Compactos”.
+Como exercício de versão taquigráfica e leitura o estudante deverá transladar para a taquigrafia, o trecho do tópico “O Tempo Necessário - Exercícios”, cujo modelo vem na página 49. À medida que for traçando os taquigramas, ir conferindo-os com o modelo do livro. **Não deverá o estudante se esquecer de ler, pelo menos 3 vezes, pelo modelo do livro, o exercício feito e de ter sempre a Tira das Abreviações diante dos olhos, ao fazer os exercícios.** O estudante deverá escrever bem devagar ao fazer este exercício, traçando os sinais bem feitos, bem de leve, e com o seu tamanho exato. Não se esqueça da regra da formação dos “Sons Compactos”.
 
 <h3>Simplificação B</h3>
 
@@ -800,29 +783,29 @@ Como exercício de versão taquigráfica e leitura, o estudante deverá translad
 
 <h3>Considerações</h3>
 
-**O nosso objetivo até aqui foi o de diminuir tanto quanto possível o tamanho dos taquigramas, facilitando portanto a escrita taquigráfica, sem que a sua leitura se tornasse difícil. E isso conseguiremos graças ao “Som Bruto”, à regra da sua leitura, do “sentido da frase” e também à “natureza do assunto” que teremos de taquigrafar.**
+O nosso objetivo até aqui foi o de diminuir tanto quanto possível o tamanho dos taquigramas, facilitando portanto a escrita taquigráfica, sem que a sua leitura se tornasse difícil. E isso conseguiremos graças ao “Som Bruto”, à regra da sua leitura, do “sentido da frase” e também à “natureza do assunto” que teremos de taquigrafar.
 
-<h2 id='quarto-capitulo'>Quarto capítulo</h2>
+<h2 id='4-capitulo'>Quarto Capítulo</h2>
 
 <h3 id='estudo-dos-sinais-grossos-ou-compostos'>Estudo dos sinais ”grossos” ou ”compostos” e regras de seu emprego</h3>
 
 Os sinais Grossos ou Compostos diminuem ainda mais o tamanho do taquigrama, sem contudo dificultar a leitura, porque, condensam as consoantes de duas sílabas num só sinal; o que não é possível acontecer com os sinais finos ou simples, que necessitam dum sinal para representar cada consoante da sílaba. Dois Sinais Finos (consoantes) ligados entre si, formam quase sempre ângulos, mais ou menos acentuados, que dificultam muito a velocidade da escrita taquigráfica. Os sinais Grossos ou Compostos, condensando os Sinais Finos de duas sílabas num só sinal, diminuem muito as ocasiões em que se realizam a formação desses ângulos.
 
-<h3>Origem dos sinais grossos ou compostos</h3>
+<h3>Origem dos Sinais Grossos ou Compostos</h3>
 
 Ao tratarmos da origem dos sinais, no “Primeiro Capítulo”, já dissemos qual a origem dos Sinais Grossos ou Compostos. O alinhamento e a maneira de serem escritos são exatamente os mesmos dos Sinais Finos ou Simples, correspondentes.
 
-<h3>Uma objeção que não se justifica</h3>
+<h3>Uma Objeção que não se Justifica</h3>
 
 Muitos acham dificuldade em escrever, simultaneamente, sinais finos e sinais grossos. E dizem que todos os sinais deviam ser traçados da mesma maneira, isto é: deviam ser finos. Esta objeção, da dificuldade da escrita taquigráfica, é contrariada pela nossa caligrafia, onde os símbolos do alfabeto são traçados por linhas grossas (calcadas) e finas (leves). Ora, sendo a escrita taquigráfica exatamente igual à caligrafia comum, não vemos a razão de ser desta objeção. Além disso, outros grandes sistemas de taquigrafia estrangeira possuem sinais finos (leves) e sinais grossos (calcados). Para traçarmos um sinal grosso, devemos calcar levemente o lápis no papel. Não é preciso que o sinal seja grosso em toda a sua extensão; basta que uma parte dele seja mais grossa que o Sinal Fino ou Simples para que logo possamos diferenciá-lo.
 
-<h3>Valores dos sinais grossos ou compostos</h3>
+<h3>Valores dos Sinais Grossos ou Compostos</h3>
 
-Qualquer Sinal Grosso ou Composto valerá sempre duas consoantes, tendo intercalado entre as mesmas, uma vogal, um ditongo ou um Som Compacto. A primeira consoante de qualquer Sinal Grosso ou Composto, é exatamente uma das consoantes do Sinal Fino ou Simples correspondente; o som da segunda consoante será invariavelmente TE DE — TRE DRE.
+Qualquer Sinal Grosso ou Composto valerá sempre duas consoantes, tendo intercalado entre as mesmas, uma vogal, um ditongo ou um Som Compacto. A primeira consoante de qualquer Sinal Grosso ou Composto, é exatamente uma das consoantes do Sinal Fino ou Simples correspondente; o som da segunda consoante será invariavelmente TE, DE - TRE, DRE.
 
 Como dissemos, entre as duas consoantes de cada Sinal Grosso ou Composto, devemos submeter uma vogal, um ditongo ou um Som Compacto, que o estudante facilmente achará, graças ao sentido da frase e à natureza do assunto, de que já temos falado.
 
-<h3>Regra do emprego dos sinais grossos ou compostos</h3>
+<h3>Regra do Emprego dos Sinais Grossos ou Compostos</h3>
 
 <h4>I</h4>
 
@@ -896,15 +879,15 @@ EXPLICANDO MELHOR: Sempre que, nesses casos, aparecer “T” ou “D”, a cons
 
 O estudante, antes de fazer o exercício escrito, deverá ler o trecho escolhido, tendo o cuidado de fechar dentro de um parêntesis as duas consoantes discriminais.
 
-<h2 id='quinto-capitulo'>Quinto capítulo</h2>
+<h2 id='5-capitulo'>Quinto Capítulo</h2>
 
 Temos a considerar neste último Capítulo do nosso Método de Taquigrafia diversas minuciosidades que surgem na prática e o modo de encará-las e resolvê-las. São cousas fáceis, quase sem importância para um taquígrafo já traquejado mas, para os que vão entrar na prática, podem causar certo embaraço.
 
-<h3>I — Sons compactos — o Til</h3>
+<h3>I - Sons compactos - O Til</h3>
 
 Depois que o estudante fez o exercício de que falamos no fim da última lição, ele continuará a transladar para a taquigrafia trechos escolhidos, da mesma maneira que vem fazendo, tendo, porém, o cuidado de não colocar mais o trema (..) junto aos Sons Compactos e o til (~) junto aos Sinais Grossos ou Compostos que tiverem a vogal nasalada. Na prática taquigráfica, o trema e o til não mais poderão ser usados. O estudante deverá ler, pelo menos três vezes, tudo quanto transladou para a taquigrafia.
 
-<h3>II — Abreviaturas</h3>
+<h3>II - Abreviaturas</h3>
 
 DEFINIÇÃO: Abreviaturas são taquigramas convencionais, que empregamos, para representar as palavras e expressões mais comumente usadas. Quase todos os sistemas de taquigrafia trazem uma lista enorme de Abreviaturas, para ser decorada. Isto, além de cansar a memória do estudante, já bastante sobrecarregada, quase não traz vantagens apreciáveis. Pois, o taquígrafo, conforme o ramo de atividade a que se dedica, não precisa quase dessas Abreviaturas, mas sim de outras. Aqui, em vez de darmos uma lista enfadonha dessas Abreviaturas, faremos o que é mais útil: ensinaremos como se fazem Abreviaturas, dando alguns exemplos elucidativos. De modo que o estudante fará as que julgar preciso, e, sendo ele mesmo quem as fez, terá muito maior facilidade em decorá-las.
 
@@ -916,17 +899,17 @@ COMO DEVEMOS FAZER ABREVIATURAS: Se o taquígrafo dedicar-se ao Comércio ou se 
 
 ![Exemplo de abreviatura](pag44-img1.jpg)
 
-<h3>III — Recursos abreviativos</h3>
+<h3>III - Recursos Abreviativos</h3>
 
-- A — 1) Para as expressões muito comuns, que aparecem a toda hora, embora sejam formadas por uma só palavra, tais sejam as expressões: **para — como — muito — grande — mesmo — ao — à — sempre — sobre — sob, sub — não — etc.** ...
+A - 1) Para as expressões muito comuns, que aparecem a toda hora, embora sejam formadas por uma só palavra, tais sejam as expressões: **para, como, muito, grande, mesmo, ao, à, sempre, sobre, sob, sub, não, etc.** ...
 
-2) Ou também para as palavras, cujos taquigramas são muito longos ou de traçado difícil como as palavras: **pessoal — internacional — absoluto, obsolutamente — geral — anticonstitucional** — e muitas outras, empregamos Abreviaturas para essas expressões ou palavras (veja fig. n.º 1).
+2) Ou também para as palavras, cujos taquigramas são muito longos ou de traçado difícil como as palavras: **pessoal, internacional, absoluto, obsolutamente, geral, anticonstitucional** e muitas outras, empregamos Abreviaturas para essas expressões ou palavras (veja fig. n.º 1).
 
 <p role='note'>
   NOTA: Sabemos que são Abreviaturas e não taquigramas, porque são escritas para cima, no meio, ou abaixo da linha do papel.
 </p>
 
-B — Também duma Abreviatura já usada, por adição duma Abreviação ou dum sinal qualquer, podemos formar, abreviadamente, outras Abreviaturas. Assim: **Grande** + **mente** = grandemente. **Grande** + **dade** = grandiosidade. **Grande** + **N** = grande número. **Grande** + **za** = grandeza. **Pessoal** + **dade** = personalidade. **Pessoal** + **ção** = personalização. **Internacional** + **ção** = internacionalização. **Internacional** + **dade** = internacionalidade. **Geral** + **dade** = generalidade. **Anticonstitucional** + **íssima** + **mente** = anticonstitucionalissimamente. **Mesmo** + **íssimo** = mesmíssimo. **Absoluto** + **ismo** = absolutismo. **Geral** + **ção** = generalização. Etc., etc. ... (veja fig. n.º 2).
+B - Também duma Abreviatura já usada, por adição duma Abreviação ou dum sinal qualquer, podemos formar, abreviadamente, outras Abreviaturas. Assim: **Grande** + **mente** = grandemente. **Grande** + **dade** = grandiosidade. **Grande** + **N** = grande número. **Grande** + **za** = grandeza. **Pessoal** + **dade** = personalidade. **Pessoal** + **ção** = personalização. **Internacional** + **ção** = internacionalização. **Internacional** + **dade** = internacionalidade. **Geral** + **dade** = generalidade. **Anticonstitucional** + **íssima** + **mente** = anticonstitucionalissimamente. **Mesmo** + **íssimo** = mesmíssimo. **Absoluto** + **ismo** = absolutismo. **Geral** + **ção** = generalização. Etc., etc. ... (veja fig. n.º 2).
 
 <p role='note'>
   NOTA: Distinguimos essas Abreviaturas dos taquigramas propriamente ditos, devido à sua posição em relação à linha do papel.
@@ -934,7 +917,7 @@ B — Também duma Abreviatura já usada, por adição duma Abreviação ou dum 
 
 ![Exemplo de abreviatura](pag45-img1.jpg)
 
-<h3>IV — Minuciosidade</h3>
+<h3>IV - Minuciosidade</h3>
 
 a) Para escrever os números em taquigrafia, faremos como em aritmética. Para os números que indicam ordem, como: primeiro, segundo, terceiro etc., basta escrever os números 1, 2, 3 no meio da linha.
 
@@ -953,7 +936,7 @@ g) Como quase sempre, num discurso ou preleção, são repetidas, seguidamente, 
 h) Para os pronomes e adjetivos possessivos usamos os sinais finos ou simples da letra inicial. Assim, para escrevermos: meu, minha; teu, tua; seu, sua etc., basta escrevermos os sinais correspondentes às consoantes: ME, TE, SE etc. Quando o artigo vier antes, ligamos ao sinal.
 
 
-<h3>V — Instruções para ditado</h3>
+<h3>V - Instruções para ditado</h3>
 
 Fazemos o ditado, primeiramente, de todos os trechos que já serviram para exercício, tanto do método como do apêndice. Uma vez feito o ditado, o estudante deverá corrigi-lo com o modelo em seu poder e repetir 5 vezes os taquigramas errados. **ISSO É IMPORTANTÍSSIMO PARA SE APRENDER TAQUIGRAFIA**. A velocidade da leitura nos primeiros ditados, deve ser muito vagarosa (palavras silabadas). Depois vamos aumentando, aos poucos, a velocidade e o critério para esse aumento é sempre este: depois de feito um ditado de 15 linhas mais ou menos, perguntamos se perdeu palavras e, no caso negativo, aumentamos paulatinamente a velocidade da leitura. (O iniciante deve sentir sempre dificuldade em acompanhar o seguimento das palavras ditadas.) Depois que fizermos ditado dos trechos de que temos modelos, passamos a outros, tanto do método como do apêndice, sem modelos, e, quando estes esgotados, usaremos trechos de jornais ou livros de leitura fácil (reportagens sobre coisas banais, noticiário sobre os acontecimentos diários etc.).
 
@@ -961,7 +944,7 @@ Fazemos o ditado, primeiramente, de todos os trechos que já serviram para exerc
   NOTA: Leia o artigo “Orientação Técnica para os Ditados de Velocidade”, pág. 87.
 </p>
 
-VI — Últimos conselhos
+VI - Últimos conselhos
 
 1) O caderno, que devemos usar, é especialmente feito para esse fim, e, ao contrário dos outros, é aberto de baixo para cima. Vamos taquigrafando e, com a outra mão, virando as folhas; só depois de cheio todo um lado do caderno, é que iremos escrever no outro.
 
@@ -973,9 +956,9 @@ VI — Últimos conselhos
 
 5) Somente a prática poderá resolver as dificuldades que porventura aparecerem.
 
-<h3>VII — Ainda as abreviaturas</h3>
+<h3>VII - Ainda as abreviaturas</h3>
 
-Os alunos gostam muito de inventar Abreviaturas e têm a mania de querer inventá-las sob qualquer pretexto. As Abreviaturas são uma faca de dois gumes: parecem, à primeira vista, que facilitam a escrita rápida porque condensam várias palavras num taquigrama. Mas até memorizar essas Abreviaturas no subconsciente demora tempo e demanda exercícios. Achamos que um método de taquigrafia perfeito não precisa de Abreviaturas, assim como uma pessoa normal não necessita de muletas para andar. Aqui vai a nossa condenação à criação desordenada de Abreviaturas. Mas, não resta dúvida, que existe um bom número de expressões muito comuns na nossa língua. São freqüentíssimas essas expressões que merecem ser taquigrafadas por meio de Abreviaturas adequadas. Ei-las: a respeito de — ao passo que — às vezes — ao — à — de modo que ou à medida que — assim como — bem como — como — com efeito — comunicar ou comércio — de vez em quando — direito ou distinção — de sorte que — é preciso — extraordinário — etc. — Excelência — grande — grande número — generalizar — isto é — ilustríssimo senhor — internacional — muito — muitas vezes — mesmo — não obstante — nestas condições — número — observar ou ordinário — para — pela — própria — princípio — pouco — principal — por exemplo — pessoa ou pessoal — prezado amigo — sob o ponto de vista — próximo passado — por conseguinte — por outro lado — por sua vez — prezado senhor — por assim dizer — público — professor ou profissional — quanto ao, às — S. Paulo — sobre, superior ou em cima — sem dúvida — sob, inferior ou em baixo — único — universal — V. Senhoria — V. Excelência — várias vezes — visto como — natureza ou nação — por vezes.
+Os alunos gostam muito de inventar Abreviaturas e têm a mania de querer inventá-las sob qualquer pretexto. As Abreviaturas são uma faca de dois gumes: parecem, à primeira vista, que facilitam a escrita rápida porque condensam várias palavras num taquigrama. Mas até memorizar essas Abreviaturas no subconsciente demora tempo e demanda exercícios. Achamos que um método de taquigrafia perfeito não precisa de Abreviaturas, assim como uma pessoa normal não necessita de muletas para andar. Aqui vai a nossa condenação à criação desordenada de Abreviaturas. Mas, não resta dúvida, que existe um bom número de expressões muito comuns na nossa língua. São freqüentíssimas essas expressões que merecem ser taquigrafadas por meio de Abreviaturas adequadas. Ei-las: a respeito de, ao passo que, às vezes, ao, à, de modo que ou à medida que, assim como, bem como, como, com efeito, comunicar ou comércio, de vez em quando, direito ou distinção, de sorte que, é preciso, extraordinário, etc., Excelência, grande, grande número, generalizar, isto é, ilustríssimo senhor, internacional, muito, muitas vezes, mesmo, não obstante, nestas condições, número, observar ou ordinário, para, pela, própria, princípio, pouco, principal, por exemplo, pessoa ou pessoal, prezado amigo, sob o ponto de vista, próximo passado, por conseguinte, por outro lado, por sua vez, prezado senhor, por assim dizer, público, professor ou profissional, quanto ao, às, S. Paulo, sobre, superior ou em cima, sem dúvida, sob, inferior ou em baixo, único, universal, V. Senhoria, V. Excelência, várias vezes, visto como, natureza ou nação, por vezes.
 
 No clichê abaixo, vemos as Abreviaturas dessas expressões, obedecendo à mesma ordem.
 
@@ -987,9 +970,9 @@ No clichê abaixo, vemos as Abreviaturas dessas expressões, obedecendo à mesma
 
 Sinais fino e grosso “R” de duplo tamanho (1.ª linha).
 
-O fino emprega-se quando aparecer o som “re” ligado com o sinal fino: CE-ZE. O grosso emprega-se quando aparecer o som “re” ligado com o sinal grosso CE-ZE — TE-DE. Exemplos do 1.º caso: favorecer, interesse, resolver, receber, recém, natureza, recente, esclarecidamente, receberia, amadurecendo (2.ª linha). Exemplos do 2.º caso: residência, resultado, resultar, resíduo, merecedor, resultante, receituário, caracterizado (3.ª linha).
+O fino emprega-se quando aparecer o som “re” ligado com o sinal fino: CE-ZE. O grosso emprega-se quando aparecer o som “re” ligado com o sinal grosso CE-ZE, TE-DE. Exemplos do 1.º caso: favorecer, interesse, resolver, receber, recém, natureza, recente, esclarecidamente, receberia, amadurecendo (2.ª linha). Exemplos do 2.º caso: residência, resultado, resultar, resíduo, merecedor, resultante, receituário, caracterizado (3.ª linha).
 
-Esclarecendo melhor esta lição, queremos frisar que esses dois sinais somente serão empregados quando houver a ligação direta do som “re” com os sinais: CE-ZE ou CE-ZE — TE-DE e isso sem interferência de qualquer outra vogal nessa ligação. Assim, as palavras: rosa, Rússia, risada, raça etc. . . . continuam sendo escritas assim: (4.ª linha). Outros exemplos elucidativos: comparece, compareçam, compareceria (ou compareceriam), comparecerão (ou compareceram), comparecerá (5.ª linha).
+Esclarecendo melhor esta lição, queremos frisar que esses dois sinais somente serão empregados quando houver a ligação direta do som “re” com os sinais: CE-ZE ou CE-ZE, TE-DE e isso sem interferência de qualquer outra vogal nessa ligação. Assim, as palavras: rosa, Rússia, risada, raça etc. . . . continuam sendo escritas assim: (4.ª linha). Outros exemplos elucidativos: comparece, compareçam, compareceria (ou compareceriam), comparecerão (ou compareceram), comparecerá (5.ª linha).
 
 <p role='note'>
   NOTA: Vemos que, nos últimos taquigramas correspondentes às palavras: comparecerão, comparecerá, foi omitido o sinal “R” das suas últimas sílabas, porque foi preciso assim fazer, visto ser este o tamanho máximo do novo sinal, não podendo pois ser ele aumentado além desse tamanho. Em todos os outros casos semelhantes, assim procederemos.
@@ -1005,7 +988,7 @@ Esclarecendo melhor esta lição, queremos frisar que esses dois sinais somente 
 
 <h2 id='apendice'>Apêndice</h2>
 
-<h3>Taquigrafia racional</h3>
+<h3>Taquigrafia Racional</h3>
 
 Depois de muito estudo, conseguimos elaborar um método racional de taquigrafia para a língua portuguesa. O que nos levou a executar esse trabalho foi um fenômeno interessante que observamos quando escrevíamos à máquina.
 
@@ -1053,11 +1036,11 @@ Não somente o nosso método preenche perfeitamente a parte técnica da taquigra
 
 Dividimos o estudo do nosso método de taquigrafia em cinco capítulos, as lições estão em ordem crescente quanto à sua importância e a parte didática do método mereceu, de nossa parte, os maiores cuidados.
 
-<h3>Técnica taquigráfica</h3>
+<h3>Técnica Taquigráfica</h3>
 
 Lançando os olhos sobre os sistemas de taquigrafia estrangeira, deparamos logo, como são encarados neles, os dois fatores primordiais da taquigrafia de que já falamos, isto é: a rapidez da escrita e a facilidade da leitura.
 
-<h3>A) a escrita</h3>
+<h3>A) A Escrita</h3>
 
 Quanto à rapidez da escrita, devemos tomar em consideração o traçado do taquigrama. Nesse particular os sistemas estrangeiros pertencem a duas grandes escolas. Uma é a escola inglesa ou geométrica, pois os sinais são tirados da circunferência. Outra é a escola alemã ou cursiva, pois os seus sinais diferem da primeira, porque são derivados das próprias letras do alfabeto.
 
@@ -1075,7 +1058,7 @@ Outro fator importante, quanto à rapidez da escrita, é a escolha técnica dos 
 
 Em nosso método, os sinais foram tecnicamente escolhidos. Os de mais fácil traçado são para os sons mais encontradiços; ao passo que, um ou outro de traçado mais vagaroso, destina-se para os sons que mais raramente aparecem em língua portuguesa.
 
-<h3>B) a leitura</h3>
+<h3>B) A Leitura</h3>
 
 Quanto à leitura, deparamos também outro fato interessante. Certos sistemas de taquigrafia escrevem somente as consoantes, omitindo as vogais.
 
@@ -1087,7 +1070,7 @@ Ora, o que acontece neste particular é que esses sistemas estrangeiros, que omi
 
 O nosso método, também neste particular, é perfeito, pois escreve todas as vogais, e isto o faz escrupulosamente. Assim sendo, a leitura taquigráfica, pelo nosso método, pode ser feita mesmo muitos anos depois e com grande facilidade.
 
-<h3>Taquigrafia acadêmica</h3>
+<h3>Taquigrafia Acadêmica</h3>
 
 Imagine para o estudante e, principalmente, para o de uma escola superior, que vantagem extraordinária não lhe seria a de possuir todas as aulas, palavra por palavra, proferida pelo lente durante o ano letivo! Pois, a taquigrafia torna isso uma feliz realidade. Durante todos os nossos cursos não compramos livros, pois possuíamos sempre o melhor compêndio que era a coleção de aulas por nós taquigrafadas.
 
@@ -1105,7 +1088,7 @@ E por falar em publicações de aulas, está aqui um ótimo auxílio para o estu
 
 Finalmente, na nossa longa prática de taquígrafo acadêmico, temos um ponto interessante a assinalar: é que, quando estamos taquigrafando uma aula, não ficamos com a atenção inteiramente concentrada na escrita taquigráfica, como se poderia supor à primeira vista. Pelo contrário: enquanto taquigrafamos prestamos perfeitamente bem atenção à aula, tal qual como se somente a estivéssemos assistindo. Depois de algum treino, ficamos tão habituados a taquigrafar que, se porventura o professor comete qualquer troca de palavras ou, se as suas palavras não são exatamente a expressão das suas idéias, podemos notar perfeitamente esse equívoco. No ano de 1931 fomos contratados, no Rio de Janeiro, para importante serviço taquigráfico. Quando o professor, nosso amigo, trocava algumas palavras, nós, taquigrafando, chamávamos-lhe a atenção.
 
-<h3>Comodidade e taquigrafia</h3>
+<h3>Comodidade e Taquigrafia</h3>
 
 Devemos, desde o início, fazer uma distinção entre o luxo e a comodidade; quanto aquele tem de supérfluo, esta tem de útil e necessária.
 
@@ -1119,7 +1102,7 @@ Temos uma impressão bem nítida do valor da comodidade, para melhorar a produç
 
 Se por um lado, costumamos exigir um trabalho perfeito por parte do taquígrafo, ele também tem direito de exigir, sempre que as circunstâncias permitirem, a maior comodidade possível. Hoje, como amadores, quando vamos taquigrafar, somos tão exigentes quanto às condições de comodidade, que causamos até aborrecimentos. Ainda há pouco tempo, em Piracicaba (onde residíamos), tendo de taquigrafar um discurso político, foi tamanha a nossa exigência quanto à comodidade de que nos deviam cercar, que só não nos despediram porque tínham absoluta necessidade do nosso trabalho.
 
-<h3>Higiene do taquígrafo</h3>
+<h3>Higiene do Taquígrafo</h3>
 
 Tratando da higiene do taquígrafo, não nos vamos referir à higiene individual e repetir aqui todas essas particularidades do asseio corporal que praticamos, constituindo uma necessidade imperiosa a cada um de nós. Desejamos falar, duma maneira geral, da higiene do taquígrafo propriamente dita, isto é: de certas particularidades que dizem respeito à profissão do taquígrafo.
 
@@ -1135,7 +1118,7 @@ Finalmente, ao terminarmos estas rápidas considerações sobre a higiene do taq
 
 Eis, em linhas rápidas, alguns conselhos que, como taquígrafo-médico, achamos útil dar àqueles que se estão iniciando na útil e bela arte de Tiron.
 
-<h3>Associação taquigráfica paulista</h3>
+<h3>Associação Taquigráfica Paulista</h3>
 
 Temos a impressão de que, em nosso meio, quem publica um trabalho original quase comete um crime, tal é a quantidade de injúrias que lhe assacam os despeitados; ou então, é condenado o seu trabalho a sofrer o mais completo indiferentismo.
 
@@ -1149,7 +1132,7 @@ Gostamos da franqueza, se bem que rude, desse diretor e, desde então, nunca mai
 
 Assim como Issac Pittman, para propaganda de seu sistema, há cem anos, na Inglaterra, deu cursos públicos de taquigrafia; assim também nós estamos, através dos cursos gratuitos da Associação Taquigráfica Paulista, tornando conhecido o nosso trabalho. Se cometemos um crime, e por isso somos acusados de desmoralizador da taquigrafia, conforme nos acusam, nós nos consolamos com Pittman, que também teve os seus inimigos. Escudados no exemplo do grande inventor inglês, é que estamos disseminando, através de cursos gratuitos, o nosso trabalho. Se nos quiserem condenar, é preciso condenar primeiro o pai da taquigrafia moderna, que foi Issac Pittman.
 
-<h3>Estrutura do nosso método</h3>
+<h3>Estrutura do Nosso Método</h3>
 
 Um sistema de taquigrafia, para um idioma qualquer, tem que ter por estrutura fundamental, as particularidades mais importantes desse idioma.
 
@@ -1177,7 +1160,7 @@ Quanto às Abreviações dadas no nosso método, foram elas criteriosamente esco
 
 Terminando, vamos falar dos Sons Compactos. Eles, com o emprego obrigatório das Abreviações, quase que desapareceram, completamente, da nossa taquigrafia, pois, as Abreviações, separando as duas vogais, que iam formar o Som Compacto, impedem a sua formação. Assim, a palavra “abreviado” escrevemos: abrevi + ado, deixando pois de haver a formação do Som Compacto. Nos raros casos, em que poderá aparecer o Som Compacto, isto é: nos casos em que aparecem as duas vogais no corpo ou no início da palavra, lugares em que não se usa Abreviação, tais como nas palavras: funcionário, automóvel etc., vemos que o Som Compacto obedece, rigorosamente, à fonética da nossa língua. Eis pois, em linhas gerais, a estrutura do nosso método.
 
-<h3>A leitura do nosso método</h3>
+<h3>A Leitura do Nosso Método</h3>
 
 Segundo noticiou um jornal carioca, num recente concurso para taquígrafos no Conselho Municipal do Rio de Janeiro, um dos candidatos, por não poder traduzir o que taquigrafara, entregou a prova em branco, com os seguintes dizeres: “Taquigrafar é fácil; traduzir é que é o diabo”. Não sabemos, pois o jornal não informava qual o método usado por aquele candidato, mas, temos a certeza, que devia ser um dos tais sistemas estrangeiros. A história da taquigrafia está repleta de anedotas semelhantes.
 
@@ -1195,7 +1178,7 @@ Finalmente, pode acontecer que não consigamos ler um determinado taquigrama, ap
 
 É o que temos observado e a nossa longa prática nos ensina a assim proceder.
 
-<h3>A escrita do nosso método</h3>
+<h3>A Escrita do Nosso Método</h3>
 
 Já falamos da necessidade dos sinais, para a taquigrafia portuguesa, serem cursivos. Agora passamos a demonstrar a cursividade dos sinais do nosso método de taquigrafia.
 
@@ -1229,7 +1212,7 @@ Assim, vemos que a morfologia da nossa escrita taquigráfica é semelhante ao da
 
 Do exposto nós concluímos: é preciso que a escrita taquigráfica reproduza, tanto quanto possível, o talhe da nossa escrita comum.
 
-<h3>Até parece anedota</h3>
+<h3>Até Parece Anedota</h3>
 
 Há muitos anos atrás, quando ainda estudante no Rio de Janeiro, vindo passar as férias em São Paulo, soube que o meu método de taquigrafia tinha sido adotado num importante Colégio, situado nas Perdizes.
 
@@ -1257,7 +1240,7 @@ Voltei para casa meditando sobre o que ouvira: “...pensávamos que o senhor fo
 
 Mas, careca, por mais que tenha pesquisado e isso já faz mais de quinze anos, até agora, ainda não pude compreender. E, hoje em dia, por precaução, sempre que posso não deixo de me dar a conhecer, pessoalmente, às moças bonitas que estão estudando o meu método de taquigrafia. Evitando assim, que o diabo possa insinuar, nessas lindas cabecinhas, ser eu um velho careca...
 
-<h3>Propaganda da taquigrafia</h3>
+<h3>Propaganda da Taquigrafia</h3>
 
 Está ainda para se realizar, no Brasil, a verdadeira propaganda da taquigrafia, pois, ao nosso ver, ela ainda não foi realizada.
 
@@ -1303,7 +1286,7 @@ Assim também poderia parecer, à primeira vista, que, de fato, o uso da taquigr
 
 A essa objeção nós responderemos com um “não”. O estudo da taquigrafia não é difícil e penoso e não demora muito tempo. É antes um estudo fácil e atraente, desde que seja feito por um método racional e tecnicamente elaborado para a língua portuguesa como é o nosso “Novo Método de Taquigrafia”.
 
-<h3>O interesse pela taquigrafia</h3>
+<h3>O Interesse pela Taquigrafia</h3>
 
 Manuseando a bibliografia existente sobre taquigrafia portuguesa, encontramos os autores se queixando da grande falta de interesse, em nosso meio, pelo estudo da arte de escrever depressa, e daí, explicam eles, a não expansão desse útil conhecimento em nosso ambiente. Há mais de cem anos, dizem os autores, que o ensino da taquigrafia foi introduzido no Brasil. A começar pelo Patriarca da Independência, que organizou cursos públicos dessa matéria, até hoje, todo o esforço que se tem feito nesse sentido, para a divulgação do conhecimento da taquigrafia, parece inútil, ficando o seu conhecimento limitado a alguns profissionais, que são os taquígrafos parlamentares.
 
@@ -1321,7 +1304,7 @@ Tratem, pelo contrário, os ilustres professores e catedráticos de taquigrafia,
 
 Não subsiste pois essa afirmação gratuita, de que: “no Brasil não há interesse pela taquigrafia” e, contra essa afirmativa, protestamos solenemente. O que explica a não divulgação da taquigrafia, como acima dissemos, é o fato do seu estudo ser feito por esses métodos alienígenas, que andam por aí torcidos e retorcidos para o nosso idioma e que só são acessíveis para certos cérebros a “Pico de Mirandola” que, infelizmente, constituem raridade entre nós.
 
-<h3>O terceiro fator</h3>
+<h3>O Terceiro Fator</h3>
 
 Vamos tecer considerações sobre a difusão da taquigrafia no Brasil, na qual estamos empenhados, na mais renhida luta que se travou nesse sentido.
 
@@ -1355,7 +1338,7 @@ A posição certa das vogais O, A em relação aos sinais do nosso método de ta
 
 ![Exemplo de sinais curvos](pag71-img1.jpg)
 
-<h3>Um discurso</h3>
+<h3>Um Discurso</h3>
 
 (Discurso proferido pelo Dr. Oscar Leite Alves no banquete realizado em São Paulo, no dia 14 de julho de 1947, em regozijo pela entrada dos novos taquígrafos, pelo seu método para o corpo de taquígrafos da Assembléia Estadual. Estiveram presentes vários deputados de todos os partidos políticos e jornalistas. Esses novos taquígrafos são: Erasmo de Freitas Nuzzi, José Nuzzi Filho, José Mariano Souza, Levy Chequer, Demócrito Paganeli, Luiz Wallace Nigro, Camilo Badim, Heladio Toledo Abreu e José Dyma Vieira).
 
@@ -1381,9 +1364,9 @@ Outro fato, que o nosso método veio revelar ainda sobre a sua eficiência técn
 
 Senhores, finalizando as nossas palavras, não precisamos lhes dizer que não somos um fracassado na taquigrafia; pelo contrário, somos vitoriosos e sentimo-nos moralmente, compensados de todas essas canseiras e lutas, que tivemos durante esse quarto de século. Se não pudemos ser um taquígrafo parlamentar, como vós hoje sois, foi porque todas as portas se nos fecharam e nenhuma oportunidade nos fora dada. Mas vemos, com alegria, que essa oportunidade, que tanto almejamos, hoje já é uma realidade para os nossos discípulos, os quais estão triunfando em todos os lugares onde se faça mister o uso do apanhado taquigráfico. No Brasil, infelizmente, quase nunca se observa a exatidão daquela frase inglesa: “the right man in the right place”, pois, nem sempre, os técnicos são aproveitados devidamente e isso também se verifica no terreno da taquigrafia, como sucedeu conosco, pelos motivos já expostos. Melhores dias virão (pois a humanidade marcha a passos acelerados para uma melhor justiça e oportunidade para todos ) e no terreno da taquigrafia, hão de vencer os técnicos mais competentes, para os quais, sem dúvida alguma, temos a grande satisfação de haver contribuído com algo de útil e de prático. A vós, pois, jovens taquígrafos pelo nosso método, que vos confraternizais nesta festa de celebração, também nós nos congratulamos convosco, pois vencemos a última barreira e alcançamos o maior posto ambicionado por todos os taquígrafos: ser taquígrafo parlamentar. Que Deus vos abençoe nesta nova carreira, que agora estais iniciando e que estas nossas palavras, que traduziram as nossas lutas e dificuldades no terreno da taquigrafia, possam também ser para vós um lenitivo e um estímulo para as vossas lutas, para as vossas dificuldades.
 
-<h3>Transcrição de artigos e comentários</h3>
+<h3>Transcrição de Artigos e Comentários</h3>
 
-<h4>Novo método de taquigrafia</h4>
+<h4>Novo Método de Taquigrafia</h4>
 
 <h5>Dr. Oscar Leite Alves</h5>
 
@@ -1395,7 +1378,7 @@ Enquanto que, na técnica taquigráfica, qualquer alteração ou modificação d
 
 Argumentam os velhos taquígrafos, com idéias já preconcebidas que, sendo a língua imutável e os sinais dos sistemas já em usança, há muitos anos, perfeitamente bons para o apanhado taquigráfico, por que mudar? Mudar o que, argumentam eles, se a língua é sempre a mesma e os sinais taquigráficos se têm mostrado suficientemente bons? Foi o que observei na crítica em relação ao título do meu livrinho: Novo Método de Taquigrafia. Novo por que, dizem os velhos taquígrafos: porventura houve qualquer mudança na nossa língua ou nos sinais taquigráficos que justifique esse título?
 
-Aparentemente, parece que este argumento está certo, pois se a língua portuguesa não mudou e é a mesma, desde que Camões existiu e, se os sinais taquigráficos são os mesmos usados e com bons resultados e aprovação de gerações de taquígrafos eminentes e competentíssimos! Indagam eles: — Porque fazer mudança ou alteração no que até hoje foi tido como bom e aceitável? Deve-se deixar tudo como está, porque a experiência dos antepassados já provou que está certo.
+Aparentemente, parece que este argumento está certo, pois se a língua portuguesa não mudou e é a mesma, desde que Camões existiu e, se os sinais taquigráficos são os mesmos usados e com bons resultados e aprovação de gerações de taquígrafos eminentes e competentíssimos! Indagam eles:, Porque fazer mudança ou alteração no que até hoje foi tido como bom e aceitável? Deve-se deixar tudo como está, porque a experiência dos antepassados já provou que está certo.
 
 De fato, a nossa língua não mudou e nem os sinais taquigráficos em si mesmo, em sua estrutura morfológica, mudaram. Mas houve porém uma mudança em tudo isso e essa mudança, certamente, não foi nem na língua nem nos sinais; ela operou-se dentro de nós, na nossa cabeça: foi a maneira diferente de hoje se encarar a técnica taquigráfica. A concepção dos antigos taquígrafos e tratadistas era puramente a reprodução fonética dos diversos sons da língua, por meio de sinais indiscriminados, e o engenho deles se limitava em apanhar esses sons da maneira mais rápida possível, sem outros detalhes técnicos apreciáveis. Haja vista a coleção de sinais escolhida para seu método pelos tratadistas Marti (pai e filho): verdadeiras bengalinhas ou ganchinhos, certamente muito interessantes ou engraçadinhos para um leigo, que nada percebe da técnica taquigráfica, mas um verdadeiro contra-senso, porque, já é sabido ser adequado, para o nosso idioma, os sinais taquigráficos com a necessária cursividade.
 
@@ -1407,7 +1390,7 @@ Por isso, é que a concepção moderna da técnica taquigráfica teve que mudar,
 
 Eis aí a verdade: se se me atentar unicamente para a fonética da língua e a morfologia dos sinais, quase nada há de fato a ser mudado e portanto “nihil novum sub sole” que justifique o aparecimento de um novo método. Mas a moderna concepção, a respeito da técnica taquigráfica, tem mudado ultimamente e ainda mudará sempre, pois que a evolução se opera em todos os setores do conhecimento humano. Daí ser perfeitamente lógico, admitir-se hoje o aparecimento de novos métodos de taquigrafia, pois os mesmos são baseados nas novas concepções da técnica taquigráfica, concepções essas que hão de mudar sempre como mudam as estações do ano.
 
-<h3>A importância é das sílabas</h3>
+<h3>A Importância é das Sílabas</h3>
 
 <h4>(Revista do Taquígrafo)</h4>
 
@@ -1432,6 +1415,7 @@ Quem for curioso e tiver paciência e tempo, que faça essa análise nas sílaba
 Do estudo da maior ou menor freqüência de determinadas letras sobre as outras, nas sílabas das palavras, é que se baseou o critério, em todos os países, para a estruturação do teclado da máquina de escrever; tanto assim, que cada país possui um teclado próprio, original. Esse mesmo critério é o que deve orientar também a estruturação técnica dum método de taquigrafia para o nosso idioma; somente que o critério neste caso deve ser sobre sílabas, mas nunca sobre palavras.
 
 <h3>Comentando...</h3>
+
 <h4>(Revista do Taquígrafo)</h4>
 
 Lendo o artigo: “Nós e os Métodos”, uma espécie de profissão de fé que faz a simpática revistinha “o Taquígrafo”, órgão recém-aparecido da A.S.R.G.T., somos levados a concordar, com os distintos colegas do sul, quando aquela Associação diz não tomar em consideração o método de taquigrafar, usado pelo associado pertencente a seu quadro social; e nem mesmo podia deixar de ser assim, pois ela vê no associado um profissional e não o método.
@@ -1452,7 +1436,7 @@ Num curso de taquigrafia, ainda que tenha bastante alunos, não sabemos ao certo
 
 Eis por que motivo, nós damos grande importância na escolha do método perfeito para a divulgação da taquigrafia e, nesse nosso propósito, felizmente, não nos sentimos tão sós neste nosso planeta.
 
-<h3>O que urge fazer</h3>
+<h3>O que Urge Fazer</h3>
 
 <h4>(Revista do Taquígrafo)</h4>
 
@@ -1474,7 +1458,7 @@ Por isso é que a escrita da nossa taquigrafia apresenta uma beleza técnica har
 
 Oxalá, apareçam outros trabalhos estatísticos sobre esse assunto. Trabalhemos construtivamente, no sentido de se alicerçar, em bases sólidas e científicas, o edifício da taquigrafia brasileira, escolhendo os sinais rigorosamente, de acordo com os princípios da moderna técnica taquigráfica.
 
-<h3>A taquigrafia brasileira</h3>
+<h3>A Taquigrafia Brasileira</h3>
 
 <h4>Dr. Oscar Leite Alves</h4>
 
@@ -1526,11 +1510,11 @@ Para finalizar estas divagações, estou me lembrando do que disse um pastor nor
 
 Assim, rematando essas divagações, devemos tratar não somente da introdução do ensino da taquigrafia no programa ginasial, como uma obra de grande patriotismo e altamente benéfica para o ensino no nosso País, como também da escolha dum método de fácil aprendizagem, taquigrafia demótica, para que o seu conhecimento seja de fato real e que largamente se difunda entre os nossos estudantes, com grande aproveitamento prático para o ensino universitário.
 
-<h3>Publicidade abusiva</h3>
+<h3>Publicidade Abusiva</h3>
 
-<h4>DR. OSCAR LEITE ALVES</h4>
+<h4>Dr. Oscar Leite Alves</h4>
 
-<h5>(Idéias Taquigráficas)<h5>
+<h5>(Idéias Taquigráficas)</h5>
 
 Já há muitos anos, que tenho notado o abuso da publicidade, na imprensa do nosso País, sobre o ensino da taquigrafia. Prometem estes anúncios, milagrosamente, em poucas lições e num tempo reduzidíssimo, ministrar o conhecimento da arte de Tiron a qualquer pessoa. Especialmente, na imprensa do Rio de Janeiro, já no meu tempo de estudante, naquela Capital, há 30 anos atrás, foi a minha atenção alertada por esses anúncios, sobre o ensino da taquigrafia, em tempo verdadeiramente recorde e por método de eficiência muito duvidosa.
 
@@ -1552,9 +1536,9 @@ Assim também, quem se apresta para iniciar o estudo da taquigrafia, que é um e
 
 São Paulo, junho de 1956.
 
-<h3>Os sinais grossos</h3>
+<h3>Os Sinais Grossos</h3>
 
-<h4>DR. OSCAR LEITE ALVES</h4>
+<h4>Dr. Oscar Leite Alves</h4>
 
 <h5>(Taquigrafia)</h5>
 
@@ -1576,9 +1560,9 @@ Outra objeção, para nós mais séria, de que os sinais grossos só poderão se
 
 De fato aparentemente, isso parece lógico, irrespondível e fecha portanto a questão da necessidade dos sinais grossos serem traçados no sentido descendente, como sói acontecer na nossa escrita comum. Mas, não esqueçamos que a morfologia do taquigrama fica impressa no nosso sub-consciente e, que é somente quando essa impressão for completa, profunda, perfeita, que poderemos desenvolver as mais altas velocidades no apanhado taquigráfico. Ora, o traçado do taquigrama, em qualquer método de taquigrafia, tem a sua fisionomia própria, característica, que fica indelevelmente retida no nosso sub-consciente e que permite assim desembaraçar a nossa mão no movimento muscular da escrita rápida. Assim sendo, não há para nós, o menor inconveniente em que a direção do traçado dos sinais grossos seja ascendente ou não, desde que esse traçado não se apresente de difícil execução. E é isso o que acontece hoje, com o uso desse magnífico material que temos à mão para a escrita da taquigrafia.
 
-<h3>A taquigrafia demótica</h3>
+<h3>A Taquigrafia Demótica</h3>
 
-<h4>DR. OSCAR LEITE ALVES</h4>
+<h4>Dr. Oscar Leite Alves</h4>
 
 <h5>(Idéias Taquigráficas)</h5>
 
@@ -1602,9 +1586,9 @@ Há ainda muita resistência a esse avanço da taquigrafia demótica em nosso Pa
 
 Assim, continuamos desfraldando essa bandeira pela divulgação da taquigrafia demótica, certo de que os nossos esforços serão compreendidos e amparados, um dia, pelas autoridades competentes, no setor do ensino pátrio.
 
-<h3>Um perfil no ensino da taquigrafia</h3>
+<h3>Um Perfil no Ensino da Taquigrafia</h3>
 
-<h4>A gazeta</h4>
+<h4>A Gazeta</h4>
 
 Há mais de cem anos, quando José Bonifácio de Andrade e Silva, o Patriarca da nossa independência sentiu a necessidade da formação dos taquígrafos parlamentares tratou, por iniciativa própria, de criar, no Rio de Janeiro, um curso público e gratuito para o ensino da arte de Tiron. Desse curso deveriam sair, como de fato saíram, os futuros taquígrafos profissionais brasileiros.
 
@@ -1620,13 +1604,13 @@ Não me vou alongar nessas considerações, mas, como agora está em andamento, 
 
 Voltando ao ensino comercial, a necessidade de ser ensinado ali um método de taquigrafia racional e preparado para a nossa língua é cruciante. Pois, geralmente, o aluno que freqüenta esses cursos, é gente pobre, que faz grandes sacrifícios para estudar à noite após o labor diário, e, os seus esforços e energias têm de ser aproveitados 100%. Assim, ensinar ali um método de taquigrafia profissional desses de difícil aprendizagem e que exigem do estudante grande cultura geral, como acontece com o método Taylor de taquigrafia, é uma falta de consciência dos nossos técnicos do ensino, uma verdadeira desumanidade. Por outro lado, o aluno vendo os seus esforços fracassados no aprendizado da taquigrafia e não sabendo a que atribuir esse fracasso, que é devido à deficiência pedagógica e técnica do método escolhido, vai perdendo a confiança em seus esforços. Sei disso, por experiência própria, no terreno do aprendizado da taquigrafia.
 
-<h3>Para o professor</h3>
+<h3>Para o Professor</h3>
 
 <h4>(Recurso do Engrossamento das Consoantes Acessórias nos Taquigramas)</h4>
 
 Imediatamente, após o estudo da 4.ª lição do livro (somente para facilitar a leitura do taquigrama), deverá o professor ensinar para os alunos que as consoantes acessórias (isto é: aquelas que irão desaparecer com o estudo da Simplificação A) poderão ser escritas engrossadamente, sem nenhum inconveniente. No final dos taquigramas não poderemos porém engrossar essas consoantes acessórias. Exemplos: assim, o taquigrama da palavra "canta" tem o "n" engrossado, para distingui-lo do taquigrama da palavra "caneta", que não tem o "n" engrossado. O taquigrama da palavra "parte" tem o "r" engrossado, para distingui-lo do taquigrama da palavra "parede" que não tem o "r" engrossado. O taquigrama da palavra "gasta" tem o "s" engrossado, para distingui-lo do taquigrama da palavra "Gazeta" que não tem o "z" engrossado. O taquigrama da palavra "delgado" tem o "l" engrossado, para distingui-lo do taquigrama da palavra "delegado" que não tem o "l" engrossado.
 
-N. B. — Assim, quando o aluno fizer os exercícios das Abreviações e o exercício da 1.ª Versão Taquigráfica, deverá usar deste recurso do Engrossamento das "consoantes acessórias" para maior facilidade da leitura taquigráfica. O professor fará os alunos engrossarem, diretamente, nos dois clichés do livro, relativos a esses dois exercícios, as consoantes acessórias.
+N. B., Assim, quando o aluno fizer os exercícios das Abreviações e o exercício da 1.ª Versão Taquigráfica, deverá usar deste recurso do Engrossamento das "consoantes acessórias" para maior facilidade da leitura taquigráfica. O professor fará os alunos engrossarem, diretamente, nos dois clichés do livro, relativos a esses dois exercícios, as consoantes acessórias.
 
 <h3>Plano do ensino do novo método de taquigrafia do Dr. Oscar Leite Alves em 15 aulas, elaboradas pelo próprio autor, para ser ensinado nos cursos de difusão do método</h3>
 
@@ -1686,7 +1670,7 @@ Nada se tem a devolver. Dar a lição: "COMO FAZER A LEITURA COM OS SINAIS GROSS
 
 Devolver o exercício levado. Fazer em conjunto a leitura dos 3 exercícios com os Sinais Grossos e mais trechos desconhecidos taquigrafados no Quadro Negro. Terminar o curso de aprendizado e levar para casa os 3 exercícios feitos com os Sinais Grossos. Levar para casa na 14.ª aula e devolver na 15.ª.
 
-N. B. — Na 8.ª e 11.ª Aulas não serão dadas novas lições, assim como também nas 14.ª e 15.ª aulas.
+N. B., Na 8.ª e 11.ª Aulas não serão dadas novas lições, assim como também nas 14.ª e 15.ª aulas.
 
 Usar para fazer os exercícios das 3 primeiras lições papel almaço quadriculado (papel xadrez).
 
@@ -1696,31 +1680,31 @@ Usar para fazer os exercícios das 3 primeiras lições papel almaço quadricula
 
 Antes de começar a fazer os ditados o Professor mandará o aluno trazer o caderno para taquigrafia, assim como o lápis 3 ou 4 B apontado nas duas extremidades e com o protetor nas duas pontas. Ensinará a posição certa do caderno e dos braços em relação à mesa e ensinará a fazer o "balão" no caderno, mandando o aluno treinar sempre em casa a fazer o "balão", para que sempre tenha maior desembaraço em virar as páginas do caderno, durante o ditado de velocidade. Enquanto o aluno estiver fazendo o ditado deverá olhar somente para o seu caderno e nunca para o quadro-negro, querendo ler nele o que se está taquigrafando. Também, durante o ditado, ninguém deverá fazer perguntas ou barulho que possam perturbar o ditado. Quando um aluno chegar atrasado para o ditado, não deverá entrar na classe enquanto o Professor dita, mas esperar fora até o ditado chegar no ponto de "pausa" para que então possa entrar na classe. A borracha em hipótese alguma deverá ser usada, sendo expressamente proibido o aluno trazê-la consigo para o ditado de taquigrafia. O Professor que dita estará sempre 5 ou 6 palavras adiantadas do aluno que está taquigrafando. Isto é perfeitamente natural e, somente será alcançado pelo aluno, quando o ditado chegar a uma parada natural do ponto final. Sempre, durante as aulas de ditado, pelo menos até que este atinja a velocidade de 50 palavras por minuto, sempre 1 aluno será escolhido em cada aula (fazendo-se o revesamento e nunca chamando 2 vezes o mesmo aluno) para o quadro-negro, a fim de fazer ali o ditado, para que, depois, possa servir de modelo para a correção dos demais alunos. Terminado o ditado, que é sempre de 3 minutos de duração, o Professor fará imediatamente, a correção e a crítica do mesmo para a orientação geral da classe. À medida que for aparecendo, nos ditados, as Abreviaturas novas e as Abreviaturas derivadas, o Professor mandará os alunos, num caderno especial com índice alfabético, colecionar essas Abreviaturas novas e as derivadas, pois, são muito importantes porque são muito freqüentes. O número dessas Abreviaturas não deverá passar de 40 ou 60 quando muito. Os alunos sempre deverão corrigir o ditado que acabam de fazer com o ditado feito no quadro-negro, que é pois modelo e, todo taquigrama errado ou pulado no ditado deverá ser repetido em casa, pelo menos 5 vezes, antes do aluno fazer qualquer outra espécie de exercício. ISTO É IMPORTANTÍSSIMO PARA SE ADQUIRIR VELOCIDADE NOS DITADOS DE TAQUIGRAFIA. Imediatamente, após o Professor ter terminado o curso de aprendizado do método, seguindo o "Plano de Ensino", ele dará a última lição do livro para ensinar os 2 sinais novos, dando os seus respectivos exemplos. Quando o Professor fizer a leitura do texto para o ditado, essa leitura deverá ser feita pausadamente, bem destacada e com a entonação natural, isto é: como se o Professor estivesse conversando. Depois que o aluno dominar bem a velocidade de 50 ou 60 palavras por minuto do ditado dos trechos do Apêndice, passará o Professor a fazer ditado de cartas comerciais ou então entrará diretamente no ditado do livro de "Gamas", conforme o aluno deseje tornar-se taquígrafo comercial ou parlamentar. Quando o Professor fizer o ditado, deverá ter nas mãos um relógio com mostrador de segundos, para poder realizar a contagem das palavras e do tempo, à medida que for realizando o ditado. Como a seção de contagem é sempre de 20 segundos para os ditados em qualquer velocidade, uma maneira prática para o Professor será: imediatamente, quando começar a ler as palavras para ditado, colocar o dedo polegar no mostrador de segundos e apontar para o número que vai completar esse tempo de 20 segundos. Assim, por exemplo, ao começar a ditar no 0 segundo, então deverá imediatamente colocar o polegar no número 20 que é a fração de segundos usada para o ditado. Outro exemplo: se começar a ditar estando o ponteirinho de segundos no número 30, então deverá colocar o polegar no número 50 e assim por diante, olhando simultaneamente para o relógio e o texto a ditar. O Professor logo ficará desembaraçado e capaz de ditar exatamente o número de palavras no tempo exato. No começo é preciso que o Professor novato faça em casa treinos nesse sentido.
 
-<h3>O critério da leitura</h3>
+<h3>O Critério da Leitura</h3>
 
 A leitura agora no começo do ditado de velocidade, é importantíssima porque os alunos ainda não se firmaram bem na leitura ou em outras palavras: não sabem ler. Assim, pelo menos, os 6 primeiros ditados, sempre, antes dos alunos entraram em aula, o Professor deverá escrever um trecho completamente desconhecido e taquigrafado no quadro-negro, para que a classe possa ler em conjunto: ensinando, o Professor, ao mesmo tempo, como realizar a leitura em taquigrafia. Também, o texto taquigrafado que irá ser usado no ditado do dia, deverá ser lido pela classe, em conjunto pelo menos 3 vezes. Além da leitura feita em conjunto na classe o Professor recomendará para os alunos lerem em taquigrafia sempre, pelo menos 3 vezes em casa, o texto taquigrafado com o qual eles irão, em classe, fazer ditado e que já serviu também para exercício de cópia. A leitura taquigráfica, como é óbvio, deverá ser feita sempre pelo modelo do livro. Depois do 6.° ditado não haverá mais tempo para se dar tanta atenção em relação à leitura taquigráfica, porque todo o tempo de aulas será consumido no ditado propriamente dito. Assim, nessa altura, o Professor não escreverá mais trechos desconhecidos taquigrafados no quadro-negro para a leitura em conjunto e, a leitura do trecho que servirá para ditado e que já foi previamente taquigrafada em casa pelos alunos, será feita em classe uma só vez. Por outro lado, nessa altura, os alunos já estão lendo bem, não sendo portanto tão necessário repisar a leitura taquigráfica.
 
-<h3>Preparação para o ditado</h3>
+<h3>Preparação para o Ditado</h3>
 
 Antes de fazer o ditado do dia, os alunos deverão fazer em casa 3 espécies de exercícios relativos a esse ditado. a) Repetir pelo menos 5 vezes os taquigramas errados ou pulados no ditado anterior. Isso, como já dissemos, é importantíssimo para se progredir nos ditados de taquigrafia. b) Copiar, pelo menos uma vez em taquigrafia, todo o texto que irá servir para ditado, seguindo a orientação já dada no aprendizado do método. c) Ler, pelo menos 3 vezes, esse trecho taquigrado e, quando ele tiver clichê no livro, a leitura deverá ser feita sempre pelo clichê, como os alunos já devem saber.
 
-<h3>Contagem do tempo para ditado</h3>
+<h3>Contagem do Tempo para Ditado</h3>
 
 Seja qual for a velocidade com que o Professor esteja fazendo os ditados em taquigrafia, a duração do mesmo só poderá ser de 3 minutos. Assim, após esse tempo de ditado, deverá o Professor fazer uma pausa, para correção do trecho taquigrafado no quadro-negro, assim como fazer a sua respectiva crítica. Quando a classe não mais fizer o taquigrafamento no quadro-negro, devido à velocidade do ditado não mais permitir, o Professor deverá sempre estar no quadro-negro, para, durante a leitura feita pela classe do trecho taquigrafado, escrever os taquigramas difíceis, as Abreviaturas interessantes ou fazer qualquer outra anotação necessária para o bom aproveitamento dos alunos. A duração total do ditado da aula deverá ser de 5 ou 6 pausas de ditado (isto é: cada pausa de ditado durará 3 minutos, como já sabemos). Não deverá o Professor prolongar esse tempo de ditado porque isso o tornaria muito cansativo, sem quase maior proveito para os alunos. Não se esqueça de que os alunos estão começando a realizar os ditados de velocidade em taquigrafia.
 
-<h3>A velocidade do ditado</h3>
+<h3>A Velocidade do Ditado</h3>
 
 Começará o Professor os ditados sempre na velocidade de 15 palavras por minuto. Depois manterá essa mesma velocidade no próximo ditado ou então ela será aumentada. O aumento da velocidade, agora no começo do aprendizado de ditado, deverá ser somente de 3 palavras por minuto e nunca mais que isso. Assim, em cada ditado novo, o Professor continuará ditando na velocidade do ditado anterior ou aumentará somente 3 palavras por minuto. Agora, qual o critério para se poder fazer ou não esse aumento da velocidade nos ditados de taquigrafia? O único critério que existe, é consultar sempre e sistematicamente a classe, nas pausas de ditado, se todos os alunos estão acompanhando bem; se não existe alguém que esteja perdendo ou pulando palavras. Pois, somente assim é que o Professor poderá saber se a classe está acompanhando essa velocidade nos ditados. Assim, se todos os alunos responderem que estão acompanhando bem o ditado, então o Professor deverá, para o próximo, aumentar, sem dúvida alguma, a velocidade. Quando acontecer, num ditado qualquer, por qualquer circunstância, a classe não acompanhar bem esse trecho, então o Professor, imediatamente, repetirá. Verá aí que a classe o apanhará perfeitamente bem.
 
-<h3>Técnica de preparar o texto para ser taquigrafado</h3>
+<h3>Técnica de Preparar o Texto para ser Taquigrafado</h3>
 
 O Professor já sabe que o texto inteiro, que servirá para ditado, deverá ser dividido em subtrechos de acordo com as pausas de 3 minutos, conforme já ficou estabelecido. A técnica é a seguinte: cada minuto será dividido em 3 períodos de 20 segundos cada um. Conforme a velocidade do ditado, o Professor contará o número de palavras que deverá caber nesse espaço de tempo de 20 segundos para separá-las do texto do ditado. Assim, por exemplo: suponhamos que o Professor está iniciando o ditado na velocidade de 15 palavras por minuto. Então dividirá 15 palavras por 3, porque cada minuto contém 3 secções de 20 segundos cada uma. Terá pois o Professor 5 palavras que deverão ser lidas, no ditado, nessa secção de 20 segundos que serão separadas no texto para ditado. Quando ditar, deverá o Professor olhar, ao mesmo tempo, no mostrador de segundos do relógio e nas palavras que está lendo para ditado. Como já dissemos atrás, deverá fazer uma pausa cada 3 minutos para descanso e para fazer a correção do trecho taquigrafado no quadro-negro. Assim, no texto que está ditando, deverá marcar com lápis azul esses trechos ou pausas de 3 minutos, e que correspondem a 9 ou 10 secções de 20 segundos. Como essas pausas de ditado deverão sempre coincidir no texto a ditar, com um ponto final (sem o que poderia ficar sem sentido o ditado), não faz mal que essas pausas de 3 minutos ultrapassem uma ou mais secções de 20 segundos, para maior clareza do ditado.
 
-Técnica para realizar o ditado
+<h4>Técnica para Realizar o Ditado</h4>
 
 Deve o Professor fazer ditado, primeiramente, dos trechos do texto do Apêndice e correspondentes aos 6 modelos, cujos clichês vêm no fim do livro. Somente então é que o Professor passará a realizar também ditados dos trechos sem modelos. Nos ditados dos 3 primeiros trechos, correspondentes aos 3 primeiros clichês do livro, fará o Professor ditado, de cada vez somente da metade do trecho correspondente respectivamente, a esses 3 primeiros clichês. Somente então é que ele fará ditados dos trechos inteiros, correspondentes aos demais clichês do livro. Assim, antes de iniciar cada ditado, os alunos deverão ter preparado esses trechos para ditado, fazendo cópia do mesmo e lendo, pelo menos 3 vezes, o trecho taquigrafado. A cópia, como o aluno deve já saber, é feita com a mesma orientação anterior seguida nos exercícios das lições do livro. Repetindo: o aluno vai passando o trecho de português para a taquigrafia, com o modelo e a "Tira das Abreviações" diante dos olhos. Imediatamente, após escrever a palavra em taquigrafia, corrigir com o modelo do livro. Se o aluno tiver qualquer dúvida, ver como o taquigrama está feito no modelo do livro. Ou em outras palavras: a orientação é a mesma daquela já conhecida pelo aluno. Ler o trecho taquigrafado pelo menos 3 vezes, pelo modelo do livro. Assim, o Professor começará fazendo o 1.° ditado, da 1.ª metade do 1.° modelo do livro (taquigrafia racional), que foi previamente preparado pelo aluno, na velocidade de 15 palavras por minuto, fazendo as respectivas pausas, como já sabemos. Em cada pausa do ditado, nunca esquecerá o Professor de consultar a classe: "se todos estão acompanhando bem o ditado" (tomar o pulso da classe), para se ter o critério do aumento ou não da velocidade do ditado seguinte. O 2.° ditado correspondente à 2.ª metade do 1.° clichê, conservará a velocidade de 15 palavras por minuto. Não deve o Professor cansar de repetir que todo trecho, que irá servir para ditado, já deve ter sido, previamente, preparado pelo aluno. No ditado do trecho correspondente ao 2.° clichê do livro (nossa taquigrafia), que é também feita em duas aulas, o Professor fará na velocidade de 18 palavras por minuto, aumentando pois somente 3 palavras por minuto. No ditado do trecho correspondente ao 3.° clichê do livro, que é também feita em duas aulas, (taquigrafia acadêmica) fará a 1.ª metade do trecho desse clichê na velocidade de 21 palavras por minuto (repare que só aumentamos 3 palavras por minuto). O trecho correspondente à 2.ª metade do clichê, fará na velocidade de 24 palavras por minuto. No trecho correspondente ao 4.° modelo do livro (a propaganda da taquigrafia), fará o Professor ditado na velocidade de 27 palavras, e fará ditado do trecho inteiro não mais da metade, como até aqui vinha fazendo.
 
-Para ganhar tempo para esse ditado comprido, suprimirá o Professor a leitura do trecho desconhecido, previamente taquigrafado no quadro-negro (como vinha fazendo), assim como reduzirá a uma só vez a leitura do texto do clichê do livro, que é sempre feito antes do início do ditado. Não esqueça o aluno de entregar sempre, com o exercício de cópia do trecho marcado para o novo ditado, também a correção dos taquigramas errados ou pulados no ditado anterior. Para o próximo ditado, todo trecho correspondente ao 5.° clichê do livro (interesse pela taquigrafia), fazer esse ditado na velocidade de 30 palavras por minuto. No ditado do trecho correspondente ao 6.° e último modelo do clichê do livro (um discurso) fará o Professor ditado na velocidade de 33 palavras por minuto, passando, previamente, como exercício, além do texto correspondente a esse modelo do livro, também o texto correspondente a mais 20 linhas adiante até: (pari passu). De modo que os estudantes farão em casa, como exercício de preparação para esse ditado, também a cópia dessas 20 linhas em taquigrafia, sem o auxílio do modelo do livro, por não mais existir modelos doravante. O ditado seguinte fará na velocidade de 36 palavras por minuto, desse trecho onde ficou parado o ditado (pari passu), até o fim da 1.ª coluna da página seguinte (assim com esse mar encapelado...). N. B. — É preciso que os intervalos entre os dias de aula sejam iguais, para que os trechos passados para exercícios de ditado a se realizar sejam também iguais. Pois, os estudantes terão que realizar em casa, conforme já dissemos acima, 3 espécies de exercícios, antes de fazer o ditado seguinte: a) Corrigir os taquigramas errados ou pulados do ditado anterior. b) Passar em taquigrafia o novo texto, que servirá para texto do próximo ditado. c) Ler, pelo menos 3 vezes, esse trecho já taquigrafado. Agora, não havendo mais no livro os modelos em taquigrafia, e que serviram para marcar o tamanho do texto a ditar, os alunos somente farão a leitura do texto ditado, à medida que o mesmo for sendo escrito no quadro-negro. Para se ter um critério do aumento da velocidade, para os ditados seguintes, é preciso tomar sempre o "pulso da classe". Para os futuros exercícios de "Preparação" para ditado, marcar sempre o mesmo tamanho dos trechos a serem preparados, de modo que, a matéria para exercícios, fique sempre do mesmo tamanho, para cada aula de ditado. Agora, que não há mais clichês no livro, que calculavam exatamente o tamanho do texto para ser passado em taquigrafia, como exercício preparatório de ditado, terá o Professor que fazer o cálculo por si mesmo. Esse cálculo, de qual será o tamanho do texto para o ditado seguinte, é muito fácil. Como existe uma pausa de cada 3 minutos de ditado, teremos para cada aula de ditado, umas 5 ou 6 pausas no texto a ditar. Assim, o Professor passará como exercício de preparação para o próximo ditado: passar em taquigrafia o texto correspondente a 5 ou 6 pausas do próximo ditado. Como a velocidade vai variando sempre para mais, em cada ditado futuro, é óbvio que também a quantidade de texto a ditar, para cada futuro ditado, irá tomando sempre um tamanho cada vez maior. O Professor irá aproveitando para ditado, todo o material do Apêndice depois desse trecho (um discurso), seguindo sempre essa orientação técnica. Depois da velocidade de 50 palavras por minuto, não é mais possível mandar os alunos fazerem os ditados no quadro-negro, por ser isso difícil. Também não será mais preciso porque, certamente, todos estarão taquigrafando bem, sem erros. Aí, quando o Professor estiver realizando ditados nessa velocidade de 50 palavras ou mais por minuto, quando a classe for realizar a leitura do trecho taquigrafado,, o Professor irá, pessoalmente, para o quadro-negro escrever os taquigramas difíceis e dar toda a orientação técnica possível, assinalando as Abreviaturas simples e mostrando como fazer as Abreviaturas derivadas. Sempre que a classe não tenha acompanhado, por qualquer motivo o ditado feito, deverá o Professor repetir, imediatamente, esse mesmo ditado. N. B. — As aulas de ditado deverão ser em dias alternados.
+Para ganhar tempo para esse ditado comprido, suprimirá o Professor a leitura do trecho desconhecido, previamente taquigrafado no quadro-negro (como vinha fazendo), assim como reduzirá a uma só vez a leitura do texto do clichê do livro, que é sempre feito antes do início do ditado. Não esqueça o aluno de entregar sempre, com o exercício de cópia do trecho marcado para o novo ditado, também a correção dos taquigramas errados ou pulados no ditado anterior. Para o próximo ditado, todo trecho correspondente ao 5.° clichê do livro (interesse pela taquigrafia), fazer esse ditado na velocidade de 30 palavras por minuto. No ditado do trecho correspondente ao 6.° e último modelo do clichê do livro (um discurso) fará o Professor ditado na velocidade de 33 palavras por minuto, passando, previamente, como exercício, além do texto correspondente a esse modelo do livro, também o texto correspondente a mais 20 linhas adiante até: (pari passu). De modo que os estudantes farão em casa, como exercício de preparação para esse ditado, também a cópia dessas 20 linhas em taquigrafia, sem o auxílio do modelo do livro, por não mais existir modelos doravante. O ditado seguinte fará na velocidade de 36 palavras por minuto, desse trecho onde ficou parado o ditado (pari passu), até o fim da 1.ª coluna da página seguinte (assim com esse mar encapelado...). N. B., É preciso que os intervalos entre os dias de aula sejam iguais, para que os trechos passados para exercícios de ditado a se realizar sejam também iguais. Pois, os estudantes terão que realizar em casa, conforme já dissemos acima, 3 espécies de exercícios, antes de fazer o ditado seguinte: a) Corrigir os taquigramas errados ou pulados do ditado anterior. b) Passar em taquigrafia o novo texto, que servirá para texto do próximo ditado. c) Ler, pelo menos 3 vezes, esse trecho já taquigrafado. Agora, não havendo mais no livro os modelos em taquigrafia, e que serviram para marcar o tamanho do texto a ditar, os alunos somente farão a leitura do texto ditado, à medida que o mesmo for sendo escrito no quadro-negro. Para se ter um critério do aumento da velocidade, para os ditados seguintes, é preciso tomar sempre o "pulso da classe". Para os futuros exercícios de "Preparação" para ditado, marcar sempre o mesmo tamanho dos trechos a serem preparados, de modo que, a matéria para exercícios, fique sempre do mesmo tamanho, para cada aula de ditado. Agora, que não há mais clichês no livro, que calculavam exatamente o tamanho do texto para ser passado em taquigrafia, como exercício preparatório de ditado, terá o Professor que fazer o cálculo por si mesmo. Esse cálculo, de qual será o tamanho do texto para o ditado seguinte, é muito fácil. Como existe uma pausa de cada 3 minutos de ditado, teremos para cada aula de ditado, umas 5 ou 6 pausas no texto a ditar. Assim, o Professor passará como exercício de preparação para o próximo ditado: passar em taquigrafia o texto correspondente a 5 ou 6 pausas do próximo ditado. Como a velocidade vai variando sempre para mais, em cada ditado futuro, é óbvio que também a quantidade de texto a ditar, para cada futuro ditado, irá tomando sempre um tamanho cada vez maior. O Professor irá aproveitando para ditado, todo o material do Apêndice depois desse trecho (um discurso), seguindo sempre essa orientação técnica. Depois da velocidade de 50 palavras por minuto, não é mais possível mandar os alunos fazerem os ditados no quadro-negro, por ser isso difícil. Também não será mais preciso porque, certamente, todos estarão taquigrafando bem, sem erros. Aí, quando o Professor estiver realizando ditados nessa velocidade de 50 palavras ou mais por minuto, quando a classe for realizar a leitura do trecho taquigrafado,, o Professor irá, pessoalmente, para o quadro-negro escrever os taquigramas difíceis e dar toda a orientação técnica possível, assinalando as Abreviaturas simples e mostrando como fazer as Abreviaturas derivadas. Sempre que a classe não tenha acompanhado, por qualquer motivo o ditado feito, deverá o Professor repetir, imediatamente, esse mesmo ditado. N. B., As aulas de ditado deverão ser em dias alternados.
 
 Quando a velocidade do ditado tiver atingido 70 palavras por minuto, então deveremos dividir o minuto em secções de 15 segundos e não mais de 20 como vínhamos fazendo. Assim procedendo, ficará mais fácil o controle de contagem de palavras nos ditados de alta velocidade.
 
@@ -1728,15 +1712,15 @@ Depois que foram usados todos os artigos do Apêndice para ditados, ou quando o 
 
 Não canse o Professor de repetir, que o aluno deverá corrigir os taquigramas errados, nos ditados, repetindo-os, pelo menos cinco vezes, antes de iniciar o exercício preparatório para o ditado seguinte.
 
-<h3>Abreviaturas comerciais e parlamentares</h3>
+<h3>Abreviaturas Comerciais e Parlamentares</h3>
 
 Damos uma relação das expressões comerciais e parlamentares mais comuns e, em seguida no clichê, obedecendo à mesma ordem, as suas respectivas Abreviaturas.
 
-A — Comerciais: amigos obrigados — amigos e senhores — acuso ou acusamos recebimento — amigos atentos obrigados — amigos admiradores — acuso ou acusamos recebimento seu ou vosso favor — ativo e passivo — aguardando as suas prezadas ordens — acubo ou acabamos de receber — aguardo ou aguardamos pronta resposta — aguardo ou aguardamos ordens — apresento ou apresentamos desculpas — acusamos ou acuso recebimento memorandum — antecipamos gratos — antecipamos melhores agradecimentos — aproveitamos oportunidade — aproveitamos o ensejo — acusamos recebimento sua estimada carta — acusamos recebimento sua circular — acusar recebimento — Belo Horizonte — benefício — bonificação — conta corrente — comércio ou comunicar — com estima e consideração — confirmar carta — cordiais saudações — conhecimento ferroviário — estima e consideração — contrato de arrendamento — casa comercial — estima e apreço — companhia — companhia limitada — ciente dizeres da sua carta — ciente dizeres seu favor — com que nos subscrevemos — do corrente — damos em nosso poder — diário oficial — damos em mãos — duplicata — de V. Excelência — de V. Senhoria — distinta consideração — distinto apreço — estimado favor — estou de posse favor — estima e consideração — estimado senhor — estimado obséquio — econômico — elevada estima — especial apreço — especial gentileza — especial obséquio — estimada carta — estimadas ordens — estimado pedido — estrada de ferro — elevada atenção — elevada consideração — em resposta seu favor — em resposta sua carta — excelentíssimo senhor — firmamos com apreço — firmamos atenciosamente gratos — firmamos com estima e apreço — levar ao conhecimento — levar crédito de sua conta — lista de preços — levar ao débito de sua conta — mercadorias e preços — merecer preferência ou distinção — máximo prazer — nos firmamos — nos subscrevemos — nesta ocasião — passamos a responder — pela presente — prevalecemos da oportunidade — prezadas notícias — prezadas ordens — próximo futuro — prezados senhores — prezado favor ou obséquio — prezada carta — próximo passado — pronta resposta — prezada missiva — pagamento à vista — protestos nossa consideração — ramo de comércio — ramo de negócio — razão social — respeitosos cumprimentos — responsabilidade limitada — representações comerciais — receber prezadas ordens — representante viajante — S. Paulo — sem mais no momento — sem outro assunto — sem outro motivo — servimos o ensejo — sociedade anônima — subscrevemos com estima e consideração — subscrevemos atenciosamente — subscrevemos com apreço — subscrevemos antecipadamente gratos — temos a grata satisfação — temos o prazer — tomamos a liberdade — tomamos em consideração — trazer ao conhecimento — tomar nota — temos a honra — temos grata satisfação — V. Senhoria — vimos solicitar — Junta comercial — respeitosos cumprimentos — recibo saldo de conta — respectiva duplicata — representante vendedor — razão social.
+A - Comerciais: amigos obrigados, amigos e senhores, acuso ou acusamos recebimento, amigos atentos obrigados, amigos admiradores, acuso ou acusamos recebimento seu ou vosso favor, ativo e passivo, aguardando as suas prezadas ordens, acubo ou acabamos de receber, aguardo ou aguardamos pronta resposta, aguardo ou aguardamos ordens, apresento ou apresentamos desculpas, acusamos ou acuso recebimento memorandum, antecipamos gratos, antecipamos melhores agradecimentos, aproveitamos oportunidade, aproveitamos o ensejo, acusamos recebimento sua estimada carta, acusamos recebimento sua circular, acusar recebimento, Belo Horizonte, benefício, bonificação, conta corrente, comércio ou comunicar, com estima e consideração, confirmar carta, cordiais saudações, conhecimento ferroviário, estima e consideração, contrato de arrendamento, casa comercial, estima e apreço, companhia, companhia limitada, ciente dizeres da sua carta, ciente dizeres seu favor, com que nos subscrevemos, do corrente, damos em nosso poder, diário oficial, damos em mãos, duplicata, de V. Excelência, de V. Senhoria, distinta consideração, distinto apreço, estimado favor, estou de posse favor, estima e consideração, estimado senhor, estimado obséquio, econômico, elevada estima, especial apreço, especial gentileza, especial obséquio, estimada carta, estimadas ordens, estimado pedido, estrada de ferro, elevada atenção, elevada consideração, em resposta seu favor, em resposta sua carta, excelentíssimo senhor, firmamos com apreço, firmamos atenciosamente gratos, firmamos com estima e apreço, levar ao conhecimento, levar crédito de sua conta, lista de preços, levar ao débito de sua conta, mercadorias e preços, merecer preferência ou distinção, máximo prazer, nos firmamos, nos subscrevemos, nesta ocasião, passamos a responder, pela presente, prevalecemos da oportunidade, prezadas notícias, prezadas ordens, próximo futuro, prezados senhores, prezado favor ou obséquio, prezada carta, próximo passado, pronta resposta, prezada missiva, pagamento à vista, protestos nossa consideração, ramo de comércio, ramo de negócio, razão social, respeitosos cumprimentos, responsabilidade limitada, representações comerciais, receber prezadas ordens, representante viajante, S. Paulo, sem mais no momento, sem outro assunto, sem outro motivo, servimos o ensejo, sociedade anônima, subscrevemos com estima e consideração, subscrevemos atenciosamente, subscrevemos com apreço, subscrevemos antecipadamente gratos, temos a grata satisfação, temos o prazer, tomamos a liberdade, tomamos em consideração, trazer ao conhecimento, tomar nota, temos a honra, temos grata satisfação, V. Senhoria, vimos solicitar, Junta comercial, respeitosos cumprimentos, recibo saldo de conta, respectiva duplicata, representante vendedor, razão social.
 
 ![Exemplo de abreviaturas comerciais e parlamentares](pag91-img1.jpg)
 
-B — Parlamentares: Assembléia — Assembléia Constituinte — Assembléia Legislativa — Assembléia Estadual — Câmara dos Deputados — Câmara dos Vereadores — Câmara Municipal — Câmara Federal — chefe do executivo — chefe polícia — chefe governo — comissão inquérito — comissão executiva — Congresso Nacional — constitucional — caixa econômica — decreto-lei — deliberar — deliberativo — demagogia — deputado federal — deputado estadual — elaborar — econômico — ensino público — funcionar — funcionário — governo — governo provisório — governo estadual — governo federal — Inconstitucional — legislar — legislação social — Ministério da Aeronáutica — Ministério Agricultura — Ministério Fazenda — Ministério Educação — Ministério Justiça — Ministério Saúde — Ministério Trabalho — Ministério Viação Obras Públicas — Municipal — nobre deputado — nobre senador — nobre colega — Poder executivo — poder judiciário — poder legislativo — por vezes — Prefeitura Municipal — Presidente República — Projeto lei — projeto governamental — peço a palavra — república — senado federal — sr. Presidente — sr. senador — senhor deputado — senhor vereador — tribunal ou tribuna — tribunal eleitoral — tribunal recurso — Vice-Presidente.
+B - Parlamentares: Assembléia, Assembléia Constituinte, Assembléia Legislativa, Assembléia Estadual, Câmara dos Deputados, Câmara dos Vereadores, Câmara Municipal, Câmara Federal, chefe do executivo, chefe polícia, chefe governo, comissão inquérito, comissão executiva, Congresso Nacional, constitucional, caixa econômica, decreto-lei, deliberar, deliberativo, demagogia, deputado federal, deputado estadual, elaborar, econômico, ensino público, funcionar, funcionário, governo, governo provisório, governo estadual, governo federal, Inconstitucional, legislar, legislação social, Ministério da Aeronáutica, Ministério Agricultura, Ministério Fazenda, Ministério Educação, Ministério Justiça, Ministério Saúde, Ministério Trabalho, Ministério Viação Obras Públicas, Municipal, nobre deputado, nobre senador, nobre colega, Poder executivo, poder judiciário, poder legislativo, por vezes, Prefeitura Municipal, Presidente República, Projeto lei, projeto governamental, peço a palavra, república, senado federal, sr. Presidente, sr. senador, senhor deputado, senhor vereador, tribunal ou tribuna, tribunal eleitoral, tribunal recurso, Vice-Presidente.
 
 ![Exemplo de abreviaturas comerciais e parlamentares](pag92-img1.jpg)
 
@@ -1749,19 +1733,20 @@ CÂMARA MUNICIPAL DE SÃO PAULO
 
 PRESIDÊNCIA do Sr. Marcos Mélega
 
-O SR. PRESIDENTE — Está aberta a Sessão.
+O SR. PRESIDENTE, Está aberta a Sessão.
+
 Sob a proteção de Deus, iniciamos nossos trabalhos.
 Convido os nobres Vereadores Ítalo Fittipaldi, J. A. da Silva Ribeiro, Ermano Marchetti e Pereira Barreto, para que, em comissão, se dirijam ao salão nobre da Presidência e em seguida acompanhem a este recinto o homenageado desta tarde, Dr. Oscar Leite Alves.
 
 — Acompanhado da Comissão designada pelo Sr. Presidente, dá entrada no recinto o Sr. Dr. Oscar Leite Alves.
 
-O SR. PRESIDENTE — Convido os nobres Vereadores e a assistência para fazer parte da Mesa. (Pausa)
+O SR. PRESIDENTE, Convido os nobres Vereadores e a assistência para fazer parte da Mesa. (Pausa)
 
 Srs. Vereadores, esta Sessão Especial foi convocada tendo presente a Resolução n.º 4-60, que passarei a ler.
 
 — O Sr. Presidente lê a Resolução n.º 4-60.
 
-O SR. PRESIDENTE — Convido os nobres Vereadores e a assistência para que assistam, de pé, à leitura e à entrega que faço do título de “Cidadão Paulistano” ao Exmo. Sr. Dr. Oscar Leite Alves (lê).
+O SR. PRESIDENTE, Convido os nobres Vereadores e a assistência para que assistam, de pé, à leitura e à entrega que faço do título de “Cidadão Paulistano” ao Exmo. Sr. Dr. Oscar Leite Alves (lê).
 
 TÍTULO DE “CIDADÃO PAULISTANO”
 
@@ -1781,7 +1766,7 @@ Neste momento passo às mãos do homenageado o Título de "Cidadão Paulistano".
 
 Para saudar o homenageado, Cidadão Paulistano Dr. Oscar Leite Alves, em nome da Câmara Municipal de São Paulo, dou a palavra ao nobre Vereador Ariovaldo Roscito.
 
-O SR. ARIOVALDO ROSCITO — Exmo. Sr. Presidente, Digníssimas autoridades, estimados colegas, minhas senhoras e meus senhores, Dr. Oscar Leite Alves:
+O SR. ARIOVALDO ROSCITO, Exmo. Sr. Presidente, Digníssimas autoridades, estimados colegas, minhas senhoras e meus senhores, Dr. Oscar Leite Alves:
 
 Foi com a mais viva simpatia que recebi do Exmo. Sr. Presidente desta Casa a honrosa incumbência de saudar V. Exa., eis que, infelizmente, não contamos em nosso convívio de trabalho, com o autor da propositura, o então Vereador Américo Trabulsi.
 
@@ -1805,7 +1790,7 @@ Foi precisamente no terreno da taquigrafia, em cuja área de trabalho louvamos o
 
 Eminente Dr. Oscar Leite Alves, Cidadão Paulistano, receba neste momento as maiores e melhores homenagens do Senado da Cidade. (Palmas prolongadas.)
 
-O SR. OSCAR LEITE ALVES — Sr. Presidente da Câmara Municipal de São Paulo, meu velho colega, Dr. Marcos Mélega, amigos presentes e distinto auditório.
+O SR. OSCAR LEITE ALVES, Sr. Presidente da Câmara Municipal de São Paulo, meu velho colega, Dr. Marcos Mélega, amigos presentes e distinto auditório.
 
 Esta homenagem que me é prestada, conferindo-me o título de Cidadão Paulistano, pelos senhores vereadores da ilustre Câmara Municipal de São Paulo, minha querida terra, dá-me uma grande satisfação. É esta realmente a primeira vez com que os poderes públicos me prestam tão significativa homenagem, por ser o idealizador e divulgador da taquigrafia brasileira.
 
@@ -1827,10 +1812,11 @@ Mas o que tornou possível a difusão fácil da taquigrafia entre a população 
 Eis que já estou chegando ao final da minha campanha educativa, tornando já bastante conhecida a taquigrafia e permitindo que o seu uso se difunda entre todos, especialmente os estudantes. Como já disse o grande inventor da taquigrafia francesa: abreviar o trabalho é prolongar a vida, o uso da taquigrafia, nos trabalhos escolares, facilita muito a tarefa dos estudantes, tornando os seus esforços mais proveitosos. Durante a minha longa carreira de estudante, pois tive oportunidade de cursar 3 escolas superiores, pude usar grandemente do recurso da taquigrafia, que me proporcionou reais vantagens, tornando assim possível o meu estudo sem grande dispêndio de dinheiro na compra de livros, o que não seria possível. A atual reforma do ensino brasileiro, tornando a taquigrafia uma realidade no currículo escolar, será sem dúvida alguma, um grande motivo a difusão desse útil conhecimento entre os estudantes. Aprendendo os estudantes taquigrafia no curso ginasial, quando ingressarem nos cursos superiores, irão tirar desse conhecimento um proveito extraordinário. Os lentes das nossas universidades, nomeados por concursos são autoridades na matéria da cátedra que regem. As suas aulas são o resumo do melhor que existe sobre o assunto, acrescido da sua experiência pessoal. Taquigrafando as aulas tem o estudante o resumo do melhor que existe sobre o assunto, dispensando assim a compra de livros, quase sempre inacessíveis à sua economia. Este é o meu desejo: que esse conhecimento se difunda extraordinariamente entre todos, especialmente entre os estudantes do meu País, para que aqui também possam eles ter as mesmas facilidades dos seus colegas estrangeiros, taquigrafando as aulas nas universidades.
 Agradeço de coração esta homenagem que me é prestada pela digníssima Câmara dos Vereadores de São Paulo. É ela certamente uma recompensa pelos esforços que tenho feito no sentido da difusão do conhecimento da taquigrafia brasileira entre todos, especialmente entre os estudantes. Que este gesto nobre e elegante possa também ser um incentivo para outras iniciativas realmente proveitosas para a minha terra, para a minha gente. Muito obrigado. **(Palmas)**
 
-O **SR. PRESIDENTE** — Antes de encerrar os nossos trabalhos, desejo renovar a S. Exa. o eminente Cidadão Paulistano, Dr. Oscar Leite Alves, que esta Câmara se orgulha e se honra de tê-lo na Galeria dos promens [sic] da cidade de São Paulo.
+O **SR. PRESIDENTE**, Antes de encerrar os nossos trabalhos, desejo renovar a S. Exa. o eminente Cidadão Paulistano, Dr. Oscar Leite Alves, que esta Câmara se orgulha e se honra de tê-lo na Galeria dos promens [sic] da cidade de São Paulo.
 A S. Exa. o Dr. Martinho Di Ciero, digno Secretário de Higiene do Município e ao ilustre Deputado à Assembleia Estadual, Dr. Marcondes Filho, os melhores agradecimentos desta Presidência por haverem comparecido a esta solenidade, agradecimentos esses que esta Presidência estende a todos os Srs. Vereadores e à ilustre assistência que nos honraram com a sua presença.
 S. Exa. o Dr. Oscar Leite Alves receberá os cumprimentos à porta da Sala da Imprensa, próxima à Mesa da Presidência.
 Está encerrada esta Sessão.
+
 — Levanta-se a sessão.
 
 ![Discurso taquigrafado](pag97-img1.jpg)
