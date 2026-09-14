@@ -10,7 +10,7 @@ body {
   padding: 0 1rem;
   background: var(--body-bg);
   color: var(--body-fg);
-  font: 1rem/1.75 system-ui, sans-serif;
+  font: 1.25rem/1.75 system-ui, sans-serif;
 }
 
 a {

@@ -87,7 +87,7 @@ O lar do saudoso autor do Novo Método de Taquigrafia sempre viveu cheio de neti
 
 Em Piracicaba, o Dr. Leite Alves lecionou taquigrafia graciosamente para muitos alunos que o procuraram.
 
-À ”Associação Taquigráfica Paulista” nasceu espontaneamente em m:wsnwg em 1932. Foi assim: os alunos da ”Escola Superior de Agricultura Luiz de Queiróz”, sócios do ”Centro Agrícola Luiz de Queiróz” pediram ao Dr. Oscar Leite Alves que lhes desse aulas de taquigrafia. O curso foi dado graciosamente, Todos os alunos ficaram taquigrafando e eriviaram ao Dr, Leite Alves um ofício de agradecimento.
+À ”Associação Taquigráfica Paulista” nasceu espontaneamente em Piracicaba em 1932. Foi assim: os alunos da ”Escola Superior de Agricultura Luiz de Queiróz”, sócios do ”Centro Agrícola Luiz de Queiróz” pediram ao Dr. Oscar Leite Alves que lhes desse aulas de taquigrafia. O curso foi dado graciosamente, Todos os alunos ficaram taquigrafando e eriviaram ao Dr, Leite Alves um ofício de agradecimento.
 
 Da idéia de lecionar graciosamente a taquigrafia nasceu a ”Associação Taquigráfica Paulista”. Dessa data em diante, o Dr. Oscar Leite Alves deu expansão ao ensino da taquigrafia. Estava lançada a semente que iria produzir bons frutos.
 
@@ -517,7 +517,7 @@ O estudante deverá copiar cinco vezes, cada sinal ou combinação dos sinais, d
 
 ![Exemplo de consoantes e vogais](pag20-img1.jpg)
 
-Assim, o estudante que fez certo este exercício, deverá ter escrito no final da margem: “te,de-u-te,de” como valor fonético da penúltima combinação de sinais, repetindo essa combinação de sinais 5 vezes; e, “te,de-i-te,de” como valor fonético da última combinação de sinais, repetindo igualmente 5 vezes essa combinação de sinais.
+Assim, o estudante que fez certo este exercício, deverá ter escrito no final da margem: “te, de-u-te, de” como valor fonético da penúltima combinação de sinais, repetindo essa combinação de sinais 5 vezes; e, “te,de-i-te,de” como valor fonético da última combinação de sinais, repetindo igualmente 5 vezes essa combinação de sinais.
 
 Ao fazer o exercício, o estudante deverá escrever bem devagar, caprichando no traçado dos sinais. Não tenha pressa em querer terminar logo o exercício. A pressa é a nossa maior inimiga, no início do estudo taquigráfico. Escreva pois bem devagar ao fazer este exercício.
 
