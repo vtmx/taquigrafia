@@ -517,7 +517,7 @@ O estudante deverá copiar cinco vezes, cada sinal ou combinação dos sinais, d
 
 ![Exemplo de consoantes e vogais](pag20-img1.jpg)
 
-Assim, o estudante que fez certo este exercício, deverá ter escrito no final da margem: “te, de-u-te, de” como valor fonético da penúltima combinação de sinais, repetindo essa combinação de sinais 5 vezes; e, “te,de-i-te,de” como valor fonético da última combinação de sinais, repetindo igualmente 5 vezes essa combinação de sinais.
+Assim, o estudante que fez certo este exercício, deverá ter escrito no final da margem: “te, de-u-te, de” como valor fonético da penúltima combinação de sinais, repetindo essa combinação de sinais 5 vezes; e, “te, de-i-te, de” como valor fonético da última combinação de sinais, repetindo igualmente 5 vezes essa combinação de sinais.
 
 Ao fazer o exercício, o estudante deverá escrever bem devagar, caprichando no traçado dos sinais. Não tenha pressa em querer terminar logo o exercício. A pressa é a nossa maior inimiga, no início do estudo taquigráfico. Escreva pois bem devagar ao fazer este exercício.
 
