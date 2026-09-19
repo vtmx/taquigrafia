@@ -11,7 +11,7 @@ description = 'Livro'
 <nav>
   <ul id='indice'>
     <li><a href='#in-memorian'>In memoriam</a></li>
-    <li><a href='#fundamentos-do-sistema-leite-alves'>Fundamentos do sistema ”Leite Alves”</a></li>
+    <li><a href='#fundamentos-do-sistema-leite-alves'>Fundamentos do sistema Leite Alves</a></li>
     <li><a href='#utilidades-e-vantagens'>Utilidades e vantagens</a></li>
     <li>
       <a href='#1-capitulo'>1º Capítulo</a>
@@ -110,7 +110,7 @@ São Paulo, 15 de setembro de 1974
 
 Marina Negreiros Alves (vva. Dr. Oscar Leite Alves)
 
-<h2 id='fundamentos-do-sistema-leite-alves'>Fundamento do sistema ”Leite Alves”</h2>
+<h2 id='fundamentos-do-sistema-leite-alves'>Fundamento do sistema Leite Alves</h2>
 
 <h3 id='tese-apresentada-pelo-autor'>Tese apresentada pelo autor ao 1º congresso brasileiro de taquigrafia</h3>
 
@@ -140,7 +140,7 @@ Quanto à incidência das consoantes, nas sílabas das palavras da nossa língua
 
 Infelizmente, nesse particular, pouco se tem publicado sobre o assunto e, eu mesmo, só conheço o recente trabalho do engenheiro Lourenço Prado, publicado no número 13 da Revista do Taquígrafo do Rio de Janeiro. É uma estatística pequena, abrangendo somente 5.000 palavras, mas já serve para dar uma pequena idéia da incidência das letras, nas sílabas das palavras da nossa língua. Na Revista Taquigráfica Heitor Mariz cita em seus artigos, por várias vezes, serem as consoantes **T-D** aquelas de maior freqüência na língua portuguesa, mas não dá porcentagem alguma sobre as outras e, nem mesmo sobre a inci dência dessas duas consoantes. Num trabalho do senhor Diniz Magalhães, publicado no número 49 da Revista Taquigráfica, vemos uma pequena porcentagem, do aparecimento das diversas letras, no teclado da máquina de escrever. Ignoramos que tenham sido publicados outros trabalhos idênticos sobre a porcentagem do aparecimento das letras, nas sílabas das nossas palavras. Como vemos, é muito pobre a bibliografia nesse sentido. Num nosso recente artigo publicado no número 14 da Revista do Taquígrafo, lamentamos esse estado de coisas e apelamos para os estudiosos, que publiquem trabalhos nesse sentido, estudando a porcentagem existente no aparecimento ou incidência das letras nas palavras da nossa língua.
 
-Nesse particular, temos feito pacientes investigações, sobre a porcentagem do aparecimento das consoantes nas palavras do nosso idioma, para a escolha dos sinais taquigráficos, que serviram na elaboração do nosso método de taquigrafia. O nosso trabalho versou, não propriamente sobre a contagem do aparecimento das consoantes nas sílabas das nossas palavras, como poderia parecer à primeira vista; mas, como muito bem assinala W. Burrow no seu interessante trabalho: ”Quais os princípios que devem servir de base a um método de taquigrafia”, sobre o aparecimento ou freqüência dessas consoantes nos taquigramas do nosso método, pois, às vezes, acontece ser uma determinada consoante mais freqüente nas sílabas das palavras, e não aparecer com essa mesma freqüência nos taquigramas, devido aos fatores intrínsecos à técnica taquigráfica de cada método. Esse fenômeno, como muito bem assinala Burrow, tem levado muitos autores de métodos taquigráficos a erros irremediáveis, na elaboração dos seus trabalhos. As nossas estatísticas, nesse sentido, compreenderam milhares de palavras tiradas de trechos completamente diferentes. Escolhemos trechos de assuntos diversos: política, religião, assuntos científicos, literatura, noticiário comum sobre fatos banais dos jornais etc. Os resultados que obtivemos, nas nossas pesquisas, são muito interessantes. Primeiramente, observamos que essa porcentagem é mais ou menos constante, pois a incidência das letras permanece com pequenas variações. Assim, verificamos que o sinal **TE-DE** é o mais comumente encontrado nos taquigramas das nossas palavras, confirmando assim o achado dos outros pesquisadores. Assim nas nossas pesquisas, essas consoantes aparecem com uma porcentagem de cerca de 25% em relação às outras. O sinal de menor porcentagem que achamos, nos taquigramas das nossas palavras, foi o sinal correspondente aos sons de: **CHE-JE**, com apenas cerca de 2,5% sobre os outros. Na ordem decrescente, achamos os seguintes sinais nos taquigramas das nossas palavras: **CEZE, KEGUE, PEBE, RERRE, NENHE, FEVE, LELHE, ME**. Foram trabalhos pacientes que fizemos, abrangendo milhares e milhares de palavras, de vários assuntos diferentes, e que poderão ser comprovados por futuras investigações. Esclarecemos, mais uma vez, que essa incidência não foi feita, indiscriminadamente, sobre todas as consoantes que aparecem nas sílabas das nossas palavras, o que não seria de interesse para a escrita do nosso método, mas, tão-somente, sobre as consoantes que são escritas nas sílabas dos taquigramas, segundo o nosso método de taquigrafia.
+Nesse particular, temos feito pacientes investigações, sobre a porcentagem do aparecimento das consoantes nas palavras do nosso idioma, para a escolha dos sinais taquigráficos, que serviram na elaboração do nosso método de taquigrafia. O nosso trabalho versou, não propriamente sobre a contagem do aparecimento das consoantes nas sílabas das nossas palavras, como poderia parecer à primeira vista; mas, como muito bem assinala W. Burrow no seu interessante trabalho: ”Quais os princípios que devem servir de base a um método de taquigrafia”, sobre o aparecimento ou freqüência dessas consoantes nos taquigramas do nosso método, pois, às vezes, acontece ser uma determinada consoante mais freqüente nas sílabas das palavras, e não aparecer com essa mesma freqüência nos taquigramas, devido aos fatores intrínsecos à técnica taquigráfica de cada método. Esse fenômeno, como muito bem assinala Burrow, tem levado muitos autores de métodos taquigráficos a erros irremediáveis, na elaboração dos seus trabalhos. As nossas estatísticas, nesse sentido, compreenderam milhares de palavras tiradas de trechos completamente diferentes. Escolhemos trechos de assuntos diversos: política, religião, assuntos científicos, literatura, noticiário comum sobre fatos banais dos jornais etc. Os resultados que obtivemos, nas nossas pesquisas, são muito interessantes. Primeiramente, observamos que essa porcentagem é mais ou menos constante, pois a incidência das letras permanece com pequenas variações. Assim, verificamos que o sinal **TE-DE** é o mais comumente encontrado nos taquigramas das nossas palavras, confirmando assim o achado dos outros pesquisadores. Assim nas nossas pesquisas, essas consoantes aparecem com uma porcentagem de cerca de 25% em relação às outras. O sinal de menor porcentagem que achamos, nos taquigramas das nossas palavras, foi o sinal correspondente aos sons de: **CHE-JE**, com apenas cerca de 2,5% sobre os outros. Na ordem decrescente, achamos os seguintes sinais nos taquigramas das nossas palavras: **CEZE-KEGUE, PEBE-RERRE-NENHE-FEVE-LELHE-ME**. Foram trabalhos pacientes que fizemos, abrangendo milhares e milhares de palavras, de vários assuntos diferentes, e que poderão ser comprovados por futuras investigações. Esclarecemos, mais uma vez, que essa incidência não foi feita, indiscriminadamente, sobre todas as consoantes que aparecem nas sílabas das nossas palavras, o que não seria de interesse para a escrita do nosso método, mas, tão-somente, sobre as consoantes que são escritas nas sílabas dos taquigramas, segundo o nosso método de taquigrafia.
 
 Assim sendo, tivemos o cuidado de escolher os sinais de mais fácil traçado, para os sons mais comumente usados nos taquigramas e, daí ser a escrita da nossa taquigrafia, uma escrita de traçado harmonioso, conservando, morfologicamente, as mesmas formas do traçado das letras da nossa escrita comum.
 
@@ -259,7 +259,7 @@ Em taquigrafia somente escrevemos os diversos sons das palavras, sem que nos imp
 Quando, numa palavra, aparecem duas vogais juntas ou separadas por “h”, como por exemplo: caixa, velemente, aonde, devemos, em taquigrafia, converter os sons dessas duas vogais em “um único som”, ao qual damos o nome de “SOM COMPACTO”. Quando isso acontecer nas duas últimas sílabas, então, “não haverá formação de Som Compacto”, e as duas vogais serão escritas cada uma de per si.
 
 <p role='note'>
-  NOTA: Sempre que uma vogal representar um “SOM COMPACTO”, devemos colocar junto da mesma, provisoriamente, um trema ( .. ), para diferenciá-la das vogais que não formam “Som Compacto”. Os exemplos abaixo mostram como devemos proceder nos diversos casos.
+  Sempre que uma vogal representar um “SOM COMPACTO”, devemos colocar junto da mesma, provisoriamente, um trema ( .. ), para diferenciá-la das vogais que não formam “Som Compacto”. Os exemplos abaixo mostram como devemos proceder nos diversos casos.
 </p>
 
 Sons Compactos da Vogal “A” com as outras vogais.
@@ -269,7 +269,7 @@ Sons Compactos da Vogal “A” com as outras vogais.
     <tr>
       <th>Vogais</th>
       <th>Exemplos</th>
-      <th>Em taquigrafia escreve-se</th>
+      <th>Taquigrafa-se</th>
     </tr>
   </thead>
   <tbody>
@@ -308,7 +308,7 @@ Sons Compactos da Vogal “E” com as outras vogais.
     <tr>
       <th>Vogais</th>
       <th>Exemplos</th>
-      <th>Em taquigrafia escreve-se</th>
+      <th>Taquigrafa-se</th>
     </tr>
   </thead>
   <tbody>
@@ -324,7 +324,7 @@ Sons Compactos da Vogal “E” com as outras vogais.
     </tr>
      <tr>
       <td>E + i </td>
-      <td colspan='2'>Para este caso há um sinal especial que estudaremos numa das lições seguintes</td>
+      <td colspan='2'>Há um sinal especial que estudaremos adiante</td>
       <td></td>
     </tr>
     <tr>
@@ -334,7 +334,7 @@ Sons Compactos da Vogal “E” com as outras vogais.
     </tr>
     <tr>
       <td>E + u =</td>
-      <td colspan='2'>Para este caso há um sinal especial que estudaremos numa das lições seguintes</td>
+      <td colspan='2'>Há um sinal especial que estudaremos adiante</td>
     </tr>
   </tbody>
 </table>
@@ -346,7 +346,7 @@ Sons Compactos da Vogal “I” com as outras vogais.
     <tr>
       <th>Vogais</th>
       <th>Exemplos</th>
-      <th>Em taquigrafia escreve-se</th>
+      <th>Taquigrafa-se</th>
     </tr>
   </thead>
   <tbody>
@@ -380,7 +380,7 @@ Sons Compactos da Vogal “O” com as outras vogais.
     <tr>
       <th>Vogais</th>
       <th>Exemplos</th>
-      <th>Em taquigrafia escreve-se</th>
+      <th>Taquigrafa-se</th>
     </tr>
   </thead>
   <tbody>
@@ -396,7 +396,7 @@ Sons Compactos da Vogal “O” com as outras vogais.
     </tr>
     <tr>
       <td>O + i =</td>
-      <td colspan='2'>Para este caso há um sinal especial que estudaremos numa das lições seguintes</td>
+      <td colspan='2'>Há um sinal especial que estudaremos adiante</td>
     </tr>
     <tr>
       <td>O + o = ö</td>
@@ -418,7 +418,7 @@ Sons Compactos da Vogal “U” com as outras vogais.
     <tr>
       <th>Vogais</th>
       <th>Exemplos</th>
-      <th>Em taquigrafia escreve-se</th>
+      <th>Taquigrafa-se</th>
     </tr>
   </thead>
   <tbody>
@@ -455,10 +455,12 @@ Há somente três exceções:
 
 1ª “a + i” que em vez de ser igual a ï, é igual a “ä”, exemplos: caixa, escreve-se cäxa; faixa, escreve-se fäxa, e assim por diante.
 
-2ª “a + u”, que em vez de ser igual a ü conforme a regra geral, é igual a “ö”, exemplos: saudade, escreve-se södade; paulista, escreve-se pölista, e assim por diante. 3ª) “o + u”, que em vez de ser igual a ü conforme a regra geral, é igual a “ö”, exemplo: Outubro, escreve-se ötubro, sendo que esta combinação no final das palavras, não existe porque, praticamente, não se pronuncia o “u” final das palavras. Assim, dizemos, chegô, dançô, almoçô etc... e não: chegou, dançou, almoçou etc...
+2ª “a + u”, que em vez de ser igual a ü conforme a regra geral, é igual a “ö”, exemplos: saudade, escreve-se södade; paulista, escreve-se pölista, e assim por diante.
+
+3ª “o + u”, que em vez de ser igual a ü conforme a regra geral, é igual a “ö”, exemplo: Outubro, escreve-se ötubro, sendo que esta combinação no final das palavras, não existe porque, praticamente, não se pronuncia o “u” final das palavras. Assim, dizemos, chegô, dançô, almoçô etc... e não: chegou, dançou, almoçou etc...
 
 <p role='note'>
-  NOTA: Esta originalidade do nosso Método de Taquigrafia, a que chamamos de “SOM COMPACTO” é o que há de mais racional e é o fruto de um longo tirocínio. Apareceu, naturalmente, sem o auxílio da imaginação e da teoria, verificando simplesmente o que a intuição auditiva do taquígrafo ia realizando na prática. Sem querer usávamos os “Sons Compactos” na escrita da taquigrafia corrente. De que isso é realmente prático, intuitivo e de grande utilidade, o estudante logo se convencerá.
+  Esta originalidade do nosso Método de Taquigrafia, a que chamamos de “SOM COMPACTO” é o que há de mais racional e é o fruto de um longo tirocínio. Apareceu, naturalmente, sem o auxílio da imaginação e da teoria, verificando simplesmente o que a intuição auditiva do taquígrafo ia realizando na prática. Sem querer usávamos os “Sons Compactos” na escrita da taquigrafia corrente. De que isso é realmente prático, intuitivo e de grande utilidade, o estudante logo se convencerá.
 </p>
 
 ![Exemplo som compacto](pag16-img1.jpg)
@@ -471,13 +473,13 @@ Há somente três exceções:
 
 ![Exemplo de vogais](pag17-img1.jpg)
 
-O 1º sinal é o diâmetro vertical da circunferência básica, traçado de cima para baixo e termina ao tocar a pauta. Tem o seguinte valor fonético: XE, CHE-JE.
+1º sinal é o diâmetro vertical da circunferência básica, traçado de cima para baixo e termina ao tocar a pauta. Tem o seguinte valor fonético: XE, CHE-JE.
 
-O 2º sinal é o diâmetro oblíquo da circunferência básica, traçado da direita para a esquerda e de cima para baixo, termina ao tocar a pauta. Tem o seguinte valor fonético: LE-LHE e acessoriamente “l”, que se emprega por exemplo, nas palavras: sal, palma etc...
+2º sinal é o diâmetro oblíquo da circunferência básica, traçado da direita para a esquerda e de cima para baixo, termina ao tocar a pauta. Tem o seguinte valor fonético: LE-LHE e acessoriamente “l”, que se emprega por exemplo, nas palavras: sal, palma etc...
 
-O 3º sinal é o diâmetro horizontal da circunferência básica, traçado na pauta, da esquerda para a direita, no mesmo sentido da escrita comum. Tem o seguinte valor fonético: CE-ZE e acessoriamente “s”, que se emprega por exemplo, nas palavras: pasta, amas et...
+3º sinal é o diâmetro horizontal da circunferência básica, traçado na pauta, da esquerda para a direita, no mesmo sentido da escrita comum. Tem o seguinte valor fonético: CE-ZE e acessoriamente “s”, que se emprega por exemplo, nas palavras: pasta, amas et...
 
-O 4º e o 5º sinais são a mesma circunferência básica, mas diminuída muito em seu tamanho e valem respectivamente: “O” e “A”. Não é preciso que estes sinais sejam exatamente redondos; eles até podem ser bem ovais. O que é preciso, é que sejam bem proporcionais em seus tamanhos, isto é, que o O seja maior que o A a fim de evitar confusão.
+4º e o 5º sinais são a mesma circunferência básica, mas diminuída muito em seu tamanho e valem respectivamente: “O” e “A”. Não é preciso que estes sinais sejam exatamente redondos; eles até podem ser bem ovais. O que é preciso, é que sejam bem proporcionais em seus tamanhos, isto é, que o O seja maior que o A a fim de evitar confusão.
 
 <h3>Alinhamento dos taquigramas</h3>
 
@@ -492,7 +494,7 @@ Regra: Só se alinha a primeira consoante do taquigrama. Se houver uma vogal ou 
 Estes taquigramas não representam palavras; servem apenas de exemplos.
 
 <p role='note'>
-  NOTA: Como vemos, estando alinhada a primeira consoante do taquigrama, os sinais seguintes serão escritos na pauta ou abaixo dela.
+  Como vemos, estando alinhada a primeira consoante do taquigrama, os sinais seguintes serão escritos na pauta ou abaixo dela.
 </p>
 
 <h3>Como devemos ligar os diversos sinais entre si</h3>
@@ -501,14 +503,16 @@ O estudante aprenderá melhor isto, seguindo escrupulosamente as instruções pa
 
 <h3>Exercício para a primeira lição</h3>
 
-O estudante deverá copiar cinco vezes, cada sinal ou combinação dos sinais, do quadro adiante, tendo o cuidado de repetir, em voz alta, os valores fonéticos de cada sinal que vai traçando. Os sinais devem ser bem pequenos e traçados de leve, com perfeição. **NÃO OS ESCREVA DEPRESSA**; a pressa é inimiga da perfeição. O quadro adiante demonstra todas as combinações possíveis, que poderão aparecer entre os sinais. Combinações essas que aparecem na prática.
+O estudante deverá copiar cinco vezes, cada sinal ou combinação dos sinais, do quadro adiante, tendo o cuidado de repetir, em voz alta, os valores fonéticos de cada sinal que vai traçando. Os sinais devem ser bem pequenos e traçados de leve, com perfeição. **Não os escreva depressa**; a pressa é inimiga da perfeição. O quadro adiante demonstra todas as combinações possíveis, que poderão aparecer entre os sinais. Combinações essas que aparecem na prática.
 
-**COMO DEVEMOS FAZER OS EXERCÍCIOS.** Damos em seguida ao quadro, uma orientação prática para se fazer os exercícios deste Capítulo. Ei-la: o estudante fará uma margem no papel, onde escreverá o valor fonético do sinal ou combinação de sinais que irá traçar e, logo em seguida, escreverá várias vezes o referido sinal ou combinação de sinais, repetindo, cada vez que os traçar, em voz alta, os valores fonéticos. Assim fará para cada sinal ou combinação de sinais deste quadro. **Esta orientação servirá para se fazer os outros exercícios das duas lições seguintes.**
+<h4>Como devemos fazer os exercícios</h4>
+
+Damos em seguida ao quadro, uma orientação prática para se fazer os exercícios deste Capítulo. Ei-la: o estudante fará uma margem no papel, onde escreverá o valor fonético do sinal ou combinação de sinais que irá traçar e, logo em seguida, escreverá várias vezes o referido sinal ou combinação de sinais, repetindo, cada vez que os traçar, em voz alta, os valores fonéticos. Assim fará para cada sinal ou combinação de sinais deste quadro. **Esta orientação servirá para se fazer os outros exercícios das duas lições seguintes.**
 
 ![Exemplo de exercício](pag19-img1.jpg)
 
 <p role='note'>
-  OBSERVAÇÃO: Nesta lição e nas duas seguintes, o estudante não deverá ter a preocupação de formar palavras, mas somente de ligar os diversos sinais entre si e aprender os seus valores fonéticos. Ao traçar levemente cada sinal o estudante não deverá parar, sem o ter primeiramente terminado, e muito menos, voltar com o lápis, sobre a parte já feita do sinal. Nunca acalcar o lápis no papel. Só usar lápis nº 1 com a ponta sempre aguçada.
+  Nesta lição e nas duas seguintes, o estudante não deverá ter a preocupação de formar palavras, mas somente de ligar os diversos sinais entre si e aprender os seus valores fonéticos. Ao traçar levemente cada sinal o estudante não deverá parar, sem o ter primeiramente terminado, e muito menos, voltar com o lápis, sobre a parte já feita do sinal. Nunca acalcar o lápis no papel. Só usar lápis nº 1 com a ponta sempre aguçada.
 </p>
 
 <h3 id='2-licao'>Segunda Lição</h3>
@@ -522,7 +526,7 @@ Assim, o estudante que fez certo este exercício, deverá ter escrito no final d
 Ao fazer o exercício, o estudante deverá escrever bem devagar, caprichando no traçado dos sinais. Não tenha pressa em querer terminar logo o exercício. A pressa é a nossa maior inimiga, no início do estudo taquigráfico. Escreva pois bem devagar ao fazer este exercício.
 
 <p role='note'>
-  OBSERVAÇÃO: O estudante não deverá passar para a lição seguinte, sem estar bem familiarizado com as já estudadas. Nesta lição e na seguinte, o estudante não deverá ter a preocupação de formar palavras, mas somente de combinar os sinais entre si, e repetir, em voz alta, os seus valores fonéticos, sempre que traçá-los. A preocupação do estudante deverá ser esta: aprender os valores fonéticos dos sinais que irão aparecendo e saber combiná-los corretamente.
+  O estudante não deverá passar para a lição seguinte, sem estar bem familiarizado com as já estudadas. Nesta lição e na seguinte, o estudante não deverá ter a preocupação de formar palavras, mas somente de combinar os sinais entre si, e repetir, em voz alta, os seus valores fonéticos, sempre que traçá-los. A preocupação do estudante deverá ser esta: aprender os valores fonéticos dos sinais que irão aparecendo e saber combiná-los corretamente.
 </p>
 
 ![Exemplo de consoantes e ditongos](pag22-img1.jpg)
@@ -540,7 +544,7 @@ O 3º sinal é a metade esquerda do sinal seccionado. Tem o valor fonético de: 
 O 4º sinal é a metade direita do referido sinal seccionado. Tem o valor fonético de: EU.
 
 <p role='note'>
-  NOTA: É preciso que esses sinais guardem sempre a mesma relação em seus tamanhos.
+  É preciso que esses sinais guardem sempre a mesma relação em seus tamanhos.
 </p>
 
 <h3>Alinhamento dos taquigramas</h3>
@@ -551,22 +555,26 @@ O estudante melhor aprenderá a alinhar estes sinais novos e os já estudados, s
 
 <h3 id='3-licao'>Exercício para a terceira lição</h3>
 
-A orientação é a mesma da primeira lição; o estudante deverá copiar cinco vezes, cada sinal ou combinação dos sinais, do quadro abaixo, tendo o cuidado de repetir, em voz alta, os valores fonéticos de cada sinal, que for traçando. Deverá acostumar desde já, a fazer os sinais pequenos e a traçá-los de leve, com perfeição. NÃO DEVERÁ DEIXAR PARA SE APERFEIÇOAR MAIS TARDE, NA ESCRITA TAQUIGRÁFICA, **porque isso será muito difícil**. Por enquanto não deverá escrever depressa. A rapidez da escrita taquigráfica é assunto que será estudado na última parte do nosso livro. Atualmente, o mais importante é escrever com perfeição os diversos sinais, combinando-os entre si. O quadro abaixo demonstra todas as combinações possíveis entre os sinais; combinações essas que aparecem na prática.
+A orientação é a mesma da primeira lição; o estudante deverá copiar cinco vezes, cada sinal ou combinação dos sinais, do quadro abaixo, tendo o cuidado de repetir, em voz alta, os valores fonéticos de cada sinal, que for traçando. Deverá acostumar desde já, a fazer os sinais pequenos e a traçá-los de leve, com perfeição. **Não deverá deixar para se aperfeiçoar mais tarde, na escrita taquigráfica, porque isso será muito difícil**. Por enquanto não deverá escrever depressa. A rapidez da escrita taquigráfica é assunto que será estudado na última parte do nosso livro. Atualmente, o mais importante é escrever com perfeição os diversos sinais, combinando-os entre si. O quadro abaixo demonstra todas as combinações possíveis entre os sinais; combinações essas que aparecem na prática.
 
 ![Exemplo de exercício](pag23-img2.jpg)
 
-N.B., Deixamos de colocar, neste quadro, o sinal grande [Kre, Kle-Gre, Gle], porque o seu traçado e ligações são iguais às do sinal semelhante.
+<p role='note'>
+  Deixamos de colocar, neste quadro, o sinal grande <strong>Kre, Kle-Gre, Gle</strong>, porque o seu traçado e ligações são iguais às do sinal semelhante.
+</p>
 
 ![Exemplo de exercício](pag24-img1.jpg)
 
-EXPLICANDO MELHOR: o estudante para fazer o exercício deste quadro acima, assim como já fez com os exercícios das 1ª e 2ª lições, deverá, do mesmo modo, fazer uma margem no papel onde escreverá o valor fonético do primeiro sinal do quadro acima que é “ei” e repetirá cinco vezes esse sinal. Depois escreverá, na mesma margem, o valor fonético do segundo sinal que é “eu” e também repetirá cinco vezes esse mesmo sinal. Em seguida, na margem, escreverá o valor fonético do terceiro sinal que é “ke, guê” e repetirá igualmente cinco vezes esse mesmo sinal e assim fará sucessivamente para os 234 sinais ou **combinações de sinais deste quadro acima, sem omitir um só sinal ou combinação de sinais**, repetindo, em voz alta, os valores fonéticos de cada sinal que vai traçando.
+<h4>Explicando melhor</h4>
+
+O estudante para fazer o exercício deste quadro acima, assim como já fez com os exercícios das 1ª e 2ª lições, deverá, do mesmo modo, fazer uma margem no papel onde escreverá o valor fonético do primeiro sinal do quadro acima que é “ei” e repetirá cinco vezes esse sinal. Depois escreverá, na mesma margem, o valor fonético do segundo sinal que é “eu” e também repetirá cinco vezes esse mesmo sinal. Em seguida, na margem, escreverá o valor fonético do terceiro sinal que é “ke, guê” e repetirá igualmente cinco vezes esse mesmo sinal e assim fará sucessivamente para os 234 sinais ou **combinações de sinais deste quadro acima, sem omitir um só sinal ou combinação de sinais**, repetindo, em voz alta, os valores fonéticos de cada sinal que vai traçando.
 
 Assim, o estudante que fez certo este exercício, deverá ter escrito, no final da margem, “me-u-me” como valor fonético da antepenúltima combinação de sinais, repetindo essa combinação de sinais cinco vezes e “me-ei-me” como valor fonético da penúltima combinação de sinais, repetindo também essa combinação de sinais cinco vezes e “me-eu-me” como valor fonético da última combinação de sinais, repetindo igualmente cinco vezes essa combinação de sinais.
 
 Ao fazer o exercício o estudante deverá escrever bem devagar, caprichando sempre no traçado dos sinais, repetindo, em voz alta, os valores fonéticos de cada sinal que vai traçando. Não tenha pressa em querer terminar logo o exercício. A pressa é a nossa maior inimiga, no início do estudo taquigráfico. Escreva, pois, devagar ao fazer este exercício. Sendo este exercício o maior de todos, seria aconselhável que o estudante não o fizesse inteirinho duma só vez, para não se cansar muito. Aconselhamos fazer este exercício em duas ou três sessões.
 
 <p role='note'>
-  OBSERVAÇÃO: O estudante não deverá passar para a lição seguinte, sem estar familiarizado com as já estudadas. Nestas lições, o estudante não deverá ter a preocupação de formar palavras, mas somente de combinar os sinais entre si, tendo o cuidado de repetir, em voz alta, os seus valores fonéticos, sempre que traçá-los. Aprender os valores fonéticos dos sinais que irão aparecendo e saber traçá-los, esta deverá ser atualmente a preocupação do estudante.
+  O estudante não deverá passar para a lição seguinte, sem estar familiarizado com as já estudadas. Nestas lições, o estudante não deverá ter a preocupação de formar palavras, mas somente de combinar os sinais entre si, tendo o cuidado de repetir, em voz alta, os seus valores fonéticos, sempre que traçá-los. Aprender os valores fonéticos dos sinais que irão aparecendo e saber traçá-los, esta deverá ser atualmente a preocupação do estudante.
 </p>
 
 <h3 id='4-licao'>Quarta lição</h3>
@@ -590,14 +598,14 @@ O 3º sinal é a quarta parte inferior direita de uma circunferência maior que 
 
 O 4º sinal é o sinal correspondente ao da vogal **O** com um ponto no centro. Tem o valor fonético de: **OI**.
 
-O 5º sinal, que está dentro do colchete, pode ser escrito em várias direções; é a terça parte do diâmetro horizontal da circunferência básica; tem os seguintes valores fonéticos: **E É ES ER EM** (quando houver o som de “ens”, como por exemplo, na palavra vantagens etc., emprega-se também este sinal). Como já dissemos, este sinal pode ser escrito em várias direções, isto pouco importa; o que é necessário é que sempre forme um ângulo agudo com o sinal da consoante a que está ligado. Exemplos:
+O 5º sinal, que está dentro do colchete, pode ser escrito em várias direções; é a terça parte do diâmetro horizontal da circunferência básica; tem os seguintes valores fonéticos: **E, É, ES, ER, EM** (quando houver o som de “ens”, como por exemplo, na palavra vantagens etc., emprega-se também este sinal). Como já dissemos, este sinal pode ser escrito em várias direções, isto pouco importa; o que é necessário é que sempre forme um ângulo agudo com o sinal da consoante a que está ligado. Exemplos:
 
 ![Exemplo de sinais com consoantes ligadas](pag25-img2.jpg)
 
 Estes taquigramas que servem de exemplos, representam as seguintes palavras: ¹ela, ²era, ³achem, ⁴hérnia, ⁵essa, ⁶além, ⁷sem, ⁸encha, ⁹mês, ¹⁰embora, ¹¹bem, ¹²escasso, ¹³quem, ¹⁴Eva, ¹⁵vem, ¹⁶estas, ¹⁷estes, ¹⁸hem.
 
 <p role='note'>
-  NOTA: Este sinal só poderá ser empregado nas palavras que comecem ou terminem por um dos seus valores fonéticos. Exemplos: etapa, fé, esteja, lazer, votem.
+  Este sinal só poderá ser empregado nas palavras que comecem ou terminem por um dos seus valores fonéticos. Exemplos: etapa, fé, esteja, lazer, votem.
 </p>
 
 Quando, no meio de uma palavra qualquer, aparecer a vogal “e” nasalada, como por exemplo: rebento, presente etc., não poderemos empregar este sinal. Seremos obrigados a escrever os sinais correspondentes a “b + n” e “s + n”, para termos os sons de “ben” e “sen”. Do mesmo modo, quando, no meio de uma palavra qualquer, a vogal “e” vier ligada a “s” ou “r”, como nas palavras peste, aberta etc., também não poderemos usar este sinal. Seremos forçados a empregar os sinais correspondentes a “p + s” e “b + r”, para termos, respectivamente, os sons de “pes” e “ber” etc. O estudante melhor compreenderá estas explicações, fazendo o exercício prático.
@@ -621,7 +629,7 @@ Há algumas palavras que parecem difíceis de escrevermos em taquigrafia. Daremo
 ![Exemplo de alinhamento](pag27-img2.jpg)
 
 <p role='note'>
-  NOTA: Pelos exemplos acima, vemos que certas palavras muito se assemelham na escrita taquigráfica. Parecerá, à primeira vista, que isto vai tornar muito difícil a leitura taquigráfica; mas o estudante verá, numa lição especial, como o sentido da frase nos tira desta dificuldade aparente. Como vemos, nos quatro últimos exemplos, para maior facilidade da escrita taquigráfica, sempre nesses casos, trocamos o “e” pelo “i”.
+  Pelos exemplos acima, vemos que certas palavras muito se assemelham na escrita taquigráfica. Parecerá, à primeira vista, que isto vai tornar muito difícil a leitura taquigráfica; mas o estudante verá, numa lição especial, como o sentido da frase nos tira desta dificuldade aparente. Como vemos, nos quatro últimos exemplos, para maior facilidade da escrita taquigráfica, sempre nesses casos, trocamos o “e” pelo “i”.
 </p>
 
 <h3>Exercício para a quarta lição</h3>
@@ -640,13 +648,15 @@ As primeiras consistem na subtração de certas letras que, entrando acessoriame
 
 <h3>Orientação para o Estudante Fazer os Exercícios das Abreviações</h3>
 
-Ao estudar cada uma das Abreviações o estudante, como exercício, **deverá copiar cinco vezes os taquigramas dos exemplos da Abreviação que estiver estudando** e não se esquecer de ir lendo, pelo menos três vezes, em voz alta, esses taquigramas. Logo que terminar o exercício duma Abreviação, irá colocando a Abreviação estudada numa tira de papel, como se vê ao lado do Quadro Geral das Abreviações. Essa tira de papel, após o estudo das Abreviações, deverá contê-las assim catalogadas e o estudante sempre a terá diante dos olhos, ao fazer os exercícios para as lições seguintes. **Assim procedendo, o estudante não precisará decorar essas Abreviações, pois, à medida que as for encontrando, nos futuros exercícios, procurá-las-á na tira de papel e, ao chegar ao fim do estudo, estará bem familiarizado com as mesmas, sem as ter propriamente decorado**.
+Ao estudar cada uma das Abreviações o estudante, como exercício, **deverá copiar cinco vezes os taquigramas dos exemplos da Abreviação que estiver estudando** e não se esquecer de ir lendo, pelo menos três vezes, em voz alta, esses taquigramas. Logo que terminar o exercício duma Abreviação, irá colocando a Abreviação estudada numa tira de papel, como se vê ao lado do Quadro Geral das Abreviações. Essa tira de papel, após o estudo das Abreviações, deverá contê-las assim catalogadas e o estudante sempre a terá diante dos olhos, ao fazer os exercícios para as lições seguintes.
+
+<p role='note'>
+  Assim procedendo, o estudante não precisará decorar essas Abreviações, pois, à medida que as for encontrando, nos futuros exercícios, procurá-las-á na tira de papel e, ao chegar ao fim do estudo, estará bem familiarizado com as mesmas, sem as ter propriamente decorado.
+</p>
 
 <h3>Abreviações</h3>
 
 I) Simples ponto final. Tem os sons de: mente, mento, lamento e plural dos mesmos. Esta Abreviação deve ficar perto do último sinal do taquigrama. Exemplos: casamento, enrolamento, abertamente, apressadamente, friamente.
-
-NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DAS ABREVIAÇÕES.
 
 II) Pequeno traço oblíquo, escrito de cima para baixo e da esquerda para a direita. Tem os sons de: ção, zão e plural dos mesmos. Esta Abreviação deve ser escrita ao lado e em frente ao último sinal do taquigrama. Exemplos: canção, reação, aglomeração, distração, traição.
 
@@ -685,7 +695,7 @@ XVII) Esta Abreviação é o sinal correspondente à vogal I. Tem os sons de: in
 ![Modelo dos exercícios das abreviqações](pag32-img1.jpg)
 
 <p role='note'>
-  NOTA: E assim fará os exercícios com todos os taquigramas, que serviram de exemplos a cada uma das Abreviações estudadas. O estudante escrupuloso terá feito, ao terminar estes exercícios, um total de 425 taquigramas, correspondentes aos 85 modelos, que serviram de exemplos, no estudo destas Abreviações.
+  E assim fará os exercícios com todos os taquigramas, que serviram de exemplos a cada uma das Abreviações estudadas. O estudante escrupuloso terá feito, ao terminar estes exercícios, um total de 425 taquigramas, correspondentes aos 85 modelos, que serviram de exemplos, no estudo destas Abreviações.
 </p>
 
 <h3>Quadro geral das abreviações</h3>
@@ -701,7 +711,7 @@ b) Deveremos empregar, e sempre que for possível, duas ou mais Abreviações co
 c) Também uma palavra poderá ser formada pelo acréscimo de Abreviações. Exemplos: bom, bondoso, bondosamente, bonissimamente.
 
 <p role='note'>
-  NOTA: Os taquigramas desses exemplos vêm no fim do QUADRO GERAL DAS ABREVIAÇÕES.
+  Os taquigramas desses exemplos vêm no fim do QUADRO GERAL DAS ABREVIAÇÕES.
 </p>
 
 <h3>Note bem</h3>
@@ -723,11 +733,11 @@ As consoantes acessórias: **M-N-S-R-L** quando, numa sílaba, vierem depois da 
 N.B., Não se esqueça, porém, que os sinais correspondentes aos sons de **Ã O, OM, Ã, EM, ES, ER** serão sempre escritos (veja a 4ª lição do 2º Capítulo) . Exemplos: conta = COTA; pomba = POBA; ontem = OTEM; encontram = ENCOTRAM; prontidão = PROTIDÃO; bom = BOM; costas = COTAS; isto = ITO; astro = ATRO; estas = ESTAS; ostra = OTRA; estes = ESTES; retardar = RETADAR; repartir = REPATIR; calcanhar = CACANHAR; recalcar = RECACAR; casal = CASAL; Ernani = ERNANI; Ester = ESTER; mulher = MULHER; indispensável = IDIPESÁVEL; intransponível = ITRAPONÍVEL; fim = FI; querubim = KERUBI.
 
 <p role='note'>
-  NOTA: Os taquigramas dessas palavras, que serviram de exemplos, obedecendo à mesma ordem, são encontrados no quadro geral das SIMPLIFICAÇÕES no fim deste capítulo.
+  Os taquigramas dessas palavras, que serviram de exemplos, obedecendo à mesma ordem, são encontrados no quadro geral das SIMPLIFICAÇÕES no fim deste capítulo.
 </p>
 
 <p role='note'>
-  OBSERVAÇÃO: Praticamente, na leitura, todo “i” no começo ou no fim dos taquigramas deverá ser lido por “IM” (veja os quatro últimos exemplos dados).
+  Praticamente, na leitura, todo “i” no começo ou no fim dos taquigramas deverá ser lido por “IM” (veja os quatro últimos exemplos dados).
 </p>
 
 <h3>Como devemos fazer a leitura</h3>
@@ -735,7 +745,7 @@ N.B., Não se esqueça, porém, que os sinais correspondentes aos sons de **Ã O
 Os sons que obteremos lendo um taquigrama (cada sinal de per si) , nós chamaremos de: “SOM BRUTO”. A regra que damos, para se fazer a leitura, é a seguinte: sempre que o “som bruto” não tiver sentido na frase deveremos **“nasalar as vogais”** do som bruto ou então acrescentar: **S-R** ou **L** após essas mesmas vogais e, assim, acharemos, facilmente, o som exato. Exemplos: agora vou pagar a minha CONTA. De acordo com esta lição, o taquigrama da palavra “conta” ficou transformado em “cota” e, lendo, vemos que o som “cota” não dá sentido algum. Basta então **“nasalarmos”** o “o” de “cota”, para que o som bruto se transforme no som desejado “CONTA”. Outro exemplo: o navio naufragou nas “costas” da Bahia. Pondo em taquigrafia, de acordo com esta lição, temos: o navio nôfragô nas “COTAS” da Bahia. **“Nasalando”** o “o” de “cotas”, a frase ficará sem sentido. Então, em vez de **nasalarmos** o “O” de “cotas”, acrescentaremos “s” a essa vogal e assim acharemos o som exato: “costas”. Se depois de nasalarmos ou acrescentarmos “S” às vogais do “Som Bruto” ainda não obtivermos o som desejado é porque então deveremos acrescentar “R” ou “L” após essas mesmas vogais.
 
 <p role='note'>
-  OBSERVAÇÃO: Isto, que à primeira vista, parece ser pouco prático e maçante, por obrigar o estudante experimentar diversos sons, acontecerá só no começo da aprendizagem, porque, depois de alguma prática, o estudante fará, com maior desembaraço, a leitura.
+  Isto, que à primeira vista, parece ser pouco prático e maçante, por obrigar o estudante experimentar diversos sons, acontecerá só no começo da aprendizagem, porque, depois de alguma prática, o estudante fará, com maior desembaraço, a leitura.
 </p>
 
 <h3>Exercício para a simplificação “A”</h3>
@@ -759,11 +769,11 @@ Imprimir    = Ipremir        Instruir    = Itruir       Azul    = Azul
 Recusar     = Rekesar        Contribuir  = Cotrebuir    Ciúmes  = Çümes
 
 <p role='note'>
-  NOTA: Os taquigramas destas palavras, obedecendo à mesma ordem, são encontrados logo adiante no QUADRO GERAL DAS SIMPLIFICAÇÕES.
+  Os taquigramas destas palavras, obedecendo à mesma ordem, são encontrados logo adiante no QUADRO GERAL DAS SIMPLIFICAÇÕES.
 </p>
 
 <p role='note'>
-  OBSERVAÇÃO: Esclarecendo melhor esta lição, desejamos assinalar que essas vogais “i” “u” só serão escritas na primeira e última sílabas do corpo do taquigrama e não da palavra, como poderia parecer à primeira vista. Assim, as palavras: precioso, demasiado, sitiante, experiência, breviário, estuário, untuoso, situado, serão assim, escritas em taquigrafia: preci + oso, demasi + ado, siti + ante, experi + ência, brevi + ário, estu + ário, untu + oso, situ + ado.
+  Esclarecendo melhor esta lição, desejamos assinalar que essas vogais “i” “u” só serão escritas na primeira e última sílabas do corpo do taquigrama e não da palavra, como poderia parecer à primeira vista. Assim, as palavras: precioso, demasiado, sitiante, experiência, breviário, estuário, untuoso, situado, serão assim, escritas em taquigrafia: preci + oso, demasi + ado, siti + ante, experi + ência, brevi + ário, estu + ário, untu + oso, situ + ado.
 </p>
 
 Lembramos pois, que essas vogais “i” “u” sempre serão escritas nesses casos e em outros semelhantes, porque elas fazem parte da última sílaba do corpo do taquigrama, visto as Abreviações serem sempre separadas do corpo do taquigrama.
@@ -810,10 +820,14 @@ Como dissemos, entre as duas consoantes de cada Sinal Grosso ou Composto, devemo
 
 Sempre que, numa palavra, as consoantes de duas sílabas juntas quaisquer, concordarem com a significação dum Sinal Grosso ou Composto, devemos empregá-lo.
 
-**“Nas últimas sílabas das palavras, onde pudermos aplicar um dos Sinais Grossos ou Compostos e, ao mesmo tempo, uma ou mais Abreviações, nós sempre daremos preferência ao emprego das Abreviações.”** Exemplos: reto, certo, notório, pata, obediente, obedecimento, proceder, assediar, ousado, natação, honestidade, anotar, desiludido, luta, consolado, carta, desquitar, gustação, medir, medicamento, demitido, derreter, arrastamento, achado, enxuta, oxidação, desdobramento, titubear, vidro, vidraça, potência, padroeira, desta, nutrição, ladrou, metro, retração, xadrez.
+<p role='note'>
+  Nas últimas sílabas das palavras, onde pudermos aplicar um dos Sinais Grossos ou Compostos e, ao mesmo tempo, uma ou mais Abreviações, nós sempre daremos preferência ao emprego das Abreviações.”
+</p>
+
+Exemplos: reto, certo, notório, pata, obediente, obedecimento, proceder, assediar, ousado, natação, honestidade, anotar, desiludido, luta, consolado, carta, desquitar, gustação, medir, medicamento, demitido, derreter, arrastamento, achado, enxuta, oxidação, desdobramento, titubear, vidro, vidraça, potência, padroeira, desta, nutrição, ladrou, metro, retração, xadrez.
 
 <p role='note'>
-  NOTA: Os taquigramas destas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DOS SINAIS GROSSOS OU COMPOSTOS.
+  Os taquigramas destas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DOS SINAIS GROSSOS OU COMPOSTOS.
 </p>
 
 <h3>Como devemos ler os sinais grossos ou compostos</h3>
@@ -831,7 +845,7 @@ Os Sinais Grossos ou Compostos deverão ser traçados com um só movimento do l�
 Quando a vogal, que estiver entre as duas consoantes do Sinal Grosso ou Composto, for uma vogal nasalada como: “am”, “em”, “om”, “im”, “um”, devemos, na escrita, provisoriamente, ao lado do Sinal Grosso ou Composto colocar um til (~). Exemplos: fundação, pintor, tentação, santuário, destonante, lentamente, cantor, montaria, renda, rente, ajuntamento.
 
 <p role='note'>
-  NOTA: Os taquigramas destas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DOS SINAIS GROSSOS OU COMPOSTOS.
+  Os taquigramas destas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DOS SINAIS GROSSOS OU COMPOSTOS.
 </p>
 
 <h4>III</h4>
@@ -839,7 +853,7 @@ Quando a vogal, que estiver entre as duas consoantes do Sinal Grosso ou Composto
 Quando aparecer, entre as duas consoantes do Sinal Grosso ou Composto um “Som Compacto” ou “ditongo” colocaremos, provisoriamente, um trema ( .. ) ao lado do Sinal Grosso ou Composto. Exemplos: fiador, beato, deito, aceitação, asseado, leito, muito, reitor, jeito, cuidar.
 
 <p role='note'>
-  NOTA: Os taquigramas destas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DOS SINAIS GROSSOS OU COMPOSTOS.
+  Os taquigramas destas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DOS SINAIS GROSSOS OU COMPOSTOS.
 </p>
 
 <h4>IV</h4>
@@ -847,7 +861,7 @@ Quando aparecer, entre as duas consoantes do Sinal Grosso ou Composto um “Som 
 Se junto às primeiras consoantes dum Sinal Grosso ou Composto houver “R” ou “L”, nós procederemos exatamente de acordo com o que ficou dito para os Sinais Finos ou Simples, isto é, **aumentaremos o tamanho do Sinal Grosso ou Composto**. Exemplo: frete, afronta, pranto, trato, empreiteiro, grato, grande, esfriado, concretização, desacreditado, deglutição.
 
 <p role='note'>
-  NOTA: Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DOS SINAIS GROSSOS OU COMPOSTOS.
+  Os taquigramas dessas palavras, obedecendo à mesma ordem, são encontrados no QUADRO GERAL DOS SINAIS GROSSOS OU COMPOSTOS.
 </p>
 
 <h3>Quadro geral dos sinais grossos ou compostos</h3>
@@ -860,9 +874,11 @@ Como exercício para esta lição, deverá o estudante copiar 5 vezes cada taqui
 
 <h3>Exercício de versão taquigráfica e leitura</h3>
 
-Após ter estudado o 5º Capítulo deverá o estudante trasladar, novamente, os três tópicos já conhecidos cujos modelos vêm adiante e **depois os tópicos do apêndice, cujos modelos também estão no fim do livro, seguindo a orientação que temos dado**. Aí, já não usamos nem o trema nos sons compactos e nem o til nos sinais grossos. Após terminar esses exercícios, deverá seguir a orientação que damos “Instruções para Ditado” no 5º Capítulo.
+Após ter estudado o 5º capítulo deverá o estudante trasladar, novamente, os três tópicos já conhecidos cujos modelos vêm adiante e **depois os tópicos do apêndice, cujos modelos também estão no fim do livro, seguindo a orientação que temos dado**. Aí, já não usamos nem o trema nos sons compactos e nem o til nos sinais grossos. Após terminar esses exercícios, deverá seguir a orientação que damos “Instruções para Ditado” no 5º Capítulo.
 
-**“Nos primeiros exercícios em que empregar os Sinais Grossos ou Compostos, o estudante achará certa dificuldade na leitura”**. Isto é natural e o estudante não deverá desanimar, porque, depois de alguma prática, desaparecerá esta dificuldade, verificando então o estudante, com surpresa, como isto é fácil e simples.
+<p role='note'>
+  Nos primeiros exercícios em que empregar os Sinais Grossos ou Compostos, o estudante achará certa dificuldade na leitura”**. Isto é natural e o estudante não deverá desanimar, porque, depois de alguma prática, desaparecerá esta dificuldade, verificando então o estudante, com surpresa, como isto é fácil e simples.
+</p>
 
 <h3>Observação</h3>
 
@@ -872,9 +888,9 @@ Terminamos aqui o estudo do nosso Método de Taquigrafia. O Capítulo seguinte c
 
 Vamos dar agora, uma regra de grande alcance prático para o estudante fazer os exercícios com os sinais Grossos ou Compostos.
 
-REGRA: Nas palavras, a contar da 2ª sílaba em diante ou da 3ª se a palavra começar por vogal, ditongo ou som compacto, sempre que aparecer “T” ou “D” a consoante anterior [seja qual for] será sempre engrossada, desaparecendo juntamente com o “T” ou “D” a vogal intermediária e, em seu lugar, escrevemos a vogal pertencente à sílaba do “T” ou “D”.
+Nas palavras, a contar da 2ª sílaba em diante ou da 3ª se a palavra começar por vogal, ditongo ou som compacto, sempre que aparecer “T” ou “D” a consoante anterior [seja qual for] será sempre engrossada, desaparecendo juntamente com o “T” ou “D” a vogal intermediária e, em seu lugar, escrevemos a vogal pertencente à sílaba do “T” ou “D”.
 
-EXPLICANDO MELHOR: Sempre que, nesses casos, aparecer “T” ou “D”, a consoante da sílaba anterior comerá o “T” ou “D” com a vogal intermediária, ficando por isso engrossada (como se fosse uma cobra que engolisse um bicho grande). Escreveremos então a consoante engrossada com a vogal pertencente à sílaba do “T” ou “D”.
+Sempre que, nesses casos, aparecer “T” ou “D”, a consoante da sílaba anterior comerá o “T” ou “D” com a vogal intermediária, ficando por isso engrossada (como se fosse uma cobra que engolisse um bicho grande). Escreveremos então a consoante engrossada com a vogal pertencente à sílaba do “T” ou “D”.
 
 O estudante, antes de fazer o exercício escrito, deverá ler o trecho escolhido, tendo o cuidado de fechar dentro de um parêntesis as duas consoantes discriminais.
 
@@ -888,30 +904,36 @@ Depois que o estudante fez o exercício de que falamos no fim da última lição
 
 <h3>II - Abreviaturas</h3>
 
-DEFINIÇÃO: Abreviaturas são taquigramas convencionais, que empregamos, para representar as palavras e expressões mais comumente usadas. Quase todos os sistemas de taquigrafia trazem uma lista enorme de Abreviaturas, para ser decorada. Isto, além de cansar a memória do estudante, já bastante sobrecarregada, quase não traz vantagens apreciáveis. Pois, o taquígrafo, conforme o ramo de atividade a que se dedica, não precisa quase dessas Abreviaturas, mas sim de outras. Aqui, em vez de darmos uma lista enfadonha dessas Abreviaturas, faremos o que é mais útil: ensinaremos como se fazem Abreviaturas, dando alguns exemplos elucidativos. De modo que o estudante fará as que julgar preciso, e, sendo ele mesmo quem as fez, terá muito maior facilidade em decorá-las.
+Abreviaturas são taquigramas convencionais, que empregamos, para representar as palavras e expressões mais comumente usadas. Quase todos os sistemas de taquigrafia trazem uma lista enorme de Abreviaturas, para ser decorada. Isto, além de cansar a memória do estudante, já bastante sobrecarregada, quase não traz vantagens apreciáveis. Pois, o taquígrafo, conforme o ramo de atividade a que se dedica, não precisa quase dessas Abreviaturas, mas sim de outras. Aqui, em vez de darmos uma lista enfadonha dessas Abreviaturas, faremos o que é mais útil: ensinaremos como se fazem Abreviaturas, dando alguns exemplos elucidativos. De modo que o estudante fará as que julgar preciso, e, sendo ele mesmo quem as fez, terá muito maior facilidade em decorá-las.
 
-COMO DEVEMOS FAZER ABREVIATURAS: Se o taquígrafo dedicar-se ao Comércio ou se ele é um acadêmico de Medicina, Direito etc., terá sempre que escrever certo número de expressões que lhe vêm ao ouvido, todas as vezes que taquigrafar. Para essas expressões fará Abreviaturas ao seu bel prazer. Para fazer essas Abreviaturas, o taquígrafo deverá empregar os sinais iniciais das palavras da expressão fazendo, porém, sempre o segundo sinal cortar o primeiro. Assim procedendo, terá ainda maior facilidade em decorar a Abreviatura por ele feita. Assim, façamos Abreviaturas para as seguintes expressões, tão comuns: sem dúvida, nestas condições, por assim dizer, de modo que ou à medida que, não obstante, por conseguinte, contanto que, a respeito de, por vezes, todas as vezes, acuso recebimento sua carta, prezado amigo, em carta registrada, carta expressa etc.
+<h4>Como devemos fazer abreviaturas</h4>
+
+Se o taquígrafo dedicar-se ao Comércio ou se ele é um acadêmico de Medicina, Direito etc., terá sempre que escrever certo número de expressões que lhe vêm ao ouvido, todas as vezes que taquigrafar. Para essas expressões fará Abreviaturas ao seu bel prazer. Para fazer essas Abreviaturas, o taquígrafo deverá empregar os sinais iniciais das palavras da expressão fazendo, porém, sempre o segundo sinal cortar o primeiro. Assim procedendo, terá ainda maior facilidade em decorar a Abreviatura por ele feita. Assim, façamos Abreviaturas para as seguintes expressões, tão comuns: sem dúvida, nestas condições, por assim dizer, de modo que ou à medida que, não obstante, por conseguinte, contanto que, a respeito de, por vezes, todas as vezes, acuso recebimento sua carta, prezado amigo, em carta registrada, carta expressa etc.
 
 <p role='note'>
-  NOTA: As Abreviaturas dessas expressões, obedecendo à mesma ordem, vêm logo abaixo. **Observamos que as Abreviaturas, distinguem-se dos taquigramas, porque naquelas sempre um sinal deve cortar o outro**.
+  As Abreviaturas dessas expressões, obedecendo à mesma ordem, vêm logo abaixo. Observamos que as Abreviaturas, distinguem-se dos taquigramas, porque naquelas sempre um sinal deve cortar o outro.
 </p>
 
 ![Exemplo de abreviatura](pag44-img1.jpg)
 
 <h3>III - Recursos Abreviativos</h3>
 
-A - 1) Para as expressões muito comuns, que aparecem a toda hora, embora sejam formadas por uma só palavra, tais sejam as expressões: **para, como, muito, grande, mesmo, ao, à, sempre, sobre, sob, sub, não, etc.** ...
+A
 
-2) Ou também para as palavras, cujos taquigramas são muito longos ou de traçado difícil como as palavras: **pessoal, internacional, absoluto, obsolutamente, geral, anticonstitucional** e muitas outras, empregamos Abreviaturas para essas expressões ou palavras (veja fig. nº 1).
+<p>1) Para as expressões muito comuns, que aparecem a toda hora, embora sejam formadas por uma só palavra, tais sejam as expressões: <strong>para, como, muito, grande, mesmo, ao, à, sempre, sobre, sob, sub, não, etc...</strong> </p>
+
+<p>2) Ou também para as palavras, cujos taquigramas são muito longos ou de traçado difícil como as palavras: <strong>pessoal, internacional, absoluto, obsolutamente, geral, anticonstitucional</strong> e muitas outras, empregamos Abreviaturas para essas expressões ou palavras</p>
 
 <p role='note'>
-  NOTA: Sabemos que são Abreviaturas e não taquigramas, porque são escritas para cima, no meio, ou abaixo da linha do papel.
+  Sabemos que são Abreviaturas e não taquigramas, porque são escritas para cima, no meio, ou abaixo da linha do papel.
 </p>
 
-B - Também duma Abreviatura já usada, por adição duma Abreviação ou dum sinal qualquer, podemos formar, abreviadamente, outras Abreviaturas. Assim: **Grande** + **mente** = grandemente. **Grande** + **dade** = grandiosidade. **Grande** + **N** = grande número. **Grande** + **za** = grandeza. **Pessoal** + **dade** = personalidade. **Pessoal** + **ção** = personalização. **Internacional** + **ção** = internacionalização. **Internacional** + **dade** = internacionalidade. **Geral** + **dade** = generalidade. **Anticonstitucional** + **íssima** + **mente** = anticonstitucionalissimamente. **Mesmo** + **íssimo** = mesmíssimo. **Absoluto** + **ismo** = absolutismo. **Geral** + **ção** = generalização. Etc., etc. ... (veja fig. nº 2).
+B
+
+Também duma Abreviatura já usada, por adição duma Abreviação ou dum sinal qualquer, podemos formar, abreviadamente, outras Abreviaturas. Assim: **Grande** + **mente** = grandemente. **Grande** + **dade** = grandiosidade. **Grande** + **N** = grande número. **Grande** + **za** = grandeza. **Pessoal** + **dade** = personalidade. **Pessoal** + **ção** = personalização. **Internacional** + **ção** = internacionalização. **Internacional** + **dade** = internacionalidade. **Geral** + **dade** = generalidade. **Anticonstitucional** + **íssima** + **mente** = anticonstitucionalissimamente. **Mesmo** + **íssimo** = mesmíssimo. **Absoluto** + **ismo** = absolutismo. **Geral** + **ção** = generalização. Etc., etc. ... (veja fig. nº 2).
 
 <p role='note'>
-  NOTA: Distinguimos essas Abreviaturas dos taquigramas propriamente ditos, devido à sua posição em relação à linha do papel.
+  Distinguimos essas Abreviaturas dos taquigramas propriamente ditos, devido à sua posição em relação à linha do papel.
 </p>
 
 ![Exemplo de abreviatura](pag45-img1.jpg)
@@ -940,20 +962,20 @@ h) Para os pronomes e adjetivos possessivos usamos os sinais finos ou simples da
 Fazemos o ditado, primeiramente, de todos os trechos que já serviram para exercício, tanto do método como do apêndice. Uma vez feito o ditado, o estudante deverá corrigi-lo com o modelo em seu poder e repetir 5 vezes os taquigramas errados. **ISSO É IMPORTANTÍSSIMO PARA SE APRENDER TAQUIGRAFIA**. A velocidade da leitura nos primeiros ditados, deve ser muito vagarosa (palavras silabadas). Depois vamos aumentando, aos poucos, a velocidade e o critério para esse aumento é sempre este: depois de feito um ditado de 15 linhas mais ou menos, perguntamos se perdeu palavras e, no caso negativo, aumentamos paulatinamente a velocidade da leitura. (O iniciante deve sentir sempre dificuldade em acompanhar o seguimento das palavras ditadas.) Depois que fizermos ditado dos trechos de que temos modelos, passamos a outros, tanto do método como do apêndice, sem modelos, e, quando estes esgotados, usaremos trechos de jornais ou livros de leitura fácil (reportagens sobre coisas banais, noticiário sobre os acontecimentos diários etc.).
 
 <p role='note'>
-  NOTA: Leia o artigo “Orientação Técnica para os Ditados de Velocidade”.
+  Leia o artigo “Orientação Técnica para os Ditados de Velocidade”.
 </p>
 
-VI - Últimos conselhos
+<h3>VI - Últimos conselhos</h3>
 
-1) O caderno, que devemos usar, é especialmente feito para esse fim, e, ao contrário dos outros, é aberto de baixo para cima. Vamos taquigrafando e, com a outra mão, virando as folhas; só depois de cheio todo um lado do caderno, é que iremos escrever no outro.
+<p>1) O caderno, que devemos usar, é especialmente feito para esse fim, e, ao contrário dos outros, é aberto de baixo para cima. Vamos taquigrafando e, com a outra mão, virando as folhas; só depois de cheio todo um lado do caderno, é que iremos escrever no outro.</p>
 
-2) Muitos preferem taquigrafar com um lápis nº 3 B ou 4 B tendo sempre a ponta fina. Outros usam uma boa caneta-tinreiro, com uma pena de bico bem fino (pena com bico de platina). Quanto à escolha do lápis ou caneta, é preferível o lápis. Esse material é excelente para a taquigrafia.
+<p>2) Muitos preferem taquigrafar com um lápis nº 3 B ou 4 B tendo sempre a ponta fina. Outros usam uma boa caneta-tinreiro, com uma pena de bico bem fino (pena com bico de platina). Quanto à escolha do lápis ou caneta, é preferível o lápis. Esse material é excelente para a taquigrafia.</p>
 
-3) Quando taquigrafarmos, somente devemos apoiar na mesa o cotovelo e encostar, muito de leve, no papel, as pontas dos dedos. Nunca devemos apoiar pesadamente a mão sobre o papel, pois isso embaraça a agilidade da escrita.
+<p>3) Quando taquigrafarmos, somente devemos apoiar na mesa o cotovelo e encostar, muito de leve, no papel, as pontas dos dedos. Nunca devemos apoiar pesadamente a mão sobre o papel, pois isso embaraça a agilidade da escrita.</p>
 
-4) Quando encontramos dificuldades em ler um taquigrama, devemos pular esse taquigrama e ler os seguintes; assim acharemos facilidade em ler o taquigrama difícil.
+<p>4) Quando encontramos dificuldades em ler um taquigrama, devemos pular esse taquigrama e ler os seguintes; assim acharemos facilidade em ler o taquigrama difícil.</p>
 
-5) Somente a prática poderá resolver as dificuldades que porventura aparecerem.
+<p>5) Somente a prática poderá resolver as dificuldades que porventura aparecerem.</p>
 
 <h3>VII - Ainda as abreviaturas</h3>
 
@@ -973,16 +995,16 @@ O fino emprega-se quando aparecer o som “re” ligado com o sinal fino: **CE-Z
 
 Esclarecendo melhor esta lição, queremos frisar que esses dois sinais somente serão empregados quando houver a ligação direta do som “re” com os sinais: **CE-ZE** ou **CE-ZE**, **TE-DE** e isso sem interferência de qualquer outra vogal nessa ligação. Assim, as palavras: rosa, Rússia, risada, raça etc... continuam sendo escritas assim: (4ª linha). Outros exemplos elucidativos: comparece, compareçam, compareceria (ou compareceriam), comparecerão (ou compareceram), comparecerá (5ª linha).
 
-<p role='note'>
-  NOTA: Vemos que, nos últimos taquigramas correspondentes às palavras: comparecerão, comparecerá, foi omitido o sinal “R” das suas últimas sílabas, porque foi preciso assim fazer, visto ser este o tamanho máximo do novo sinal, não podendo pois ser ele aumentado além desse tamanho. Em todos os outros casos semelhantes, assim procederemos.
+<p>
+  Vemos que, nos últimos taquigramas correspondentes às palavras: comparecerão, comparecerá, foi omitido o sinal “R” das suas últimas sílabas, porque foi preciso assim fazer, visto ser este o tamanho máximo do novo sinal, não podendo pois ser ele aumentado além desse tamanho. Em todos os outros casos semelhantes, assim procederemos.
 </p>
 
-<p role='note'>
-  OBSERVAÇÕES:
-  <ul>
-    <li>1) Esses dois novos sinais somente serão usados na taquigrafia parlamentar ou de alta velocidade, onde o seu emprego traz sem dúvida alguma, reais vantagens. Na taquigrafia comercial não há indicação do emprego desses dois novos sinais, pois, aí, a velocidade da escrita taquigráfica é bem menor, não se justificando portanto, o seu emprego. A freqüência do aparecimento desses sons “receze” ou “recezetede” é relativamente pequena e a sua verdadeira indicação, na taquigrafia de alta velocidade, é para evitar a formação dum ângulo obtuso que, infalivelmente, se daria se não houvesse o emprego desses dois novos sinais.</li>
-    <li>2) a 7ª Abreviação tem o valor fonético: ário, éria, íria (no singular, como está no livro) e, também no plural: ariam, eriam, iriam etc. A 2ª Abreviação: “ção, zão” sempre será empregada quando aparecer o seu respectivo som (veja o exemplo: “compareção” no clichê, 5ª linha).</li>
-  </ul>
+<p>
+  1) Esses dois novos sinais somente serão usados na taquigrafia parlamentar ou de alta velocidade, onde o seu emprego traz sem dúvida alguma, reais vantagens. Na taquigrafia comercial não há indicação do emprego desses dois novos sinais, pois, aí, a velocidade da escrita taquigráfica é bem menor, não se justificando portanto, o seu emprego. A freqüência do aparecimento desses sons “receze” ou “recezetede” é relativamente pequena e a sua verdadeira indicação, na taquigrafia de alta velocidade, é para evitar a formação dum ângulo obtuso que, infalivelmente, se daria se não houvesse o emprego desses dois novos sinais.
+</p>
+
+<p>
+  2) a 7ª Abreviação tem o valor fonético: ário, éria, íria (no singular, como está no livro) e, também no plural: ariam, eriam, iriam etc. A 2ª Abreviação: “ção, zão” sempre será empregada quando aparecer o seu respectivo som (veja o exemplo: “compareção” no clichê, 5ª linha).
 </p>
 
 <h2 id='apendice'>Apêndice</h2>

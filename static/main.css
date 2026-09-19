@@ -10,7 +10,7 @@ body {
   padding: 0 1rem;
   background: var(--body-bg);
   color: var(--body-fg);
-  font: 1.25rem/1.75 system-ui, sans-serif;
+  font: 1.25rem/1.5 system-ui, sans-serif;
 }
 
 a {
@@ -43,14 +43,20 @@ p {
 }
 
 [role='note'] {
+  padding: 1rem;
   background: color-mix(var(--body-bg, black 5%));
   border-color: color-mix(var(--body-bg, black 10%));
+  border-radius: .25rem;
 }
 
 table {
   min-width: 100%;
   border-collapse: collapse;
   text-align: left;
+}
+
+th {
+  background: color-mix(var(--body-bg, black 5%));
 }
 
 td, th {
